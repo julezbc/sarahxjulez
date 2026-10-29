@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git fetch -q origin main 2>/dev/null && (git merge -q --ff-only origin/main 2>/dev/null && echo 'Second Brain: neuester Stand von main geholt.' || echo 'Second Brain: main hat neue Commits, die nicht automatisch übernommen werden konnten – bitte zuerst git merge origin/main.'); exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}
