@@ -14,3 +14,8 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
   - Copywriterin
   - Webdesign
   - KI
+
+## Wohin will die Firma — welche Zahl, bis wann?
+
+- **Ziel:** mindestens 250k **Gewinn** pro Monat in 2027 (Angabe von Sarah)
+- Hinweis: Das Ziel ist als Gewinn formuliert, der heutige Stand oben als Umsatz.
