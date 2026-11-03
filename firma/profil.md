@@ -38,3 +38,10 @@ _In Sarahs Worten zusammengefasst:_
 - Rückmeldungen von Teilnehmerinnen
 - **Fast 200 Kundenstimmen auf ProvenExpert** (Angabe von Sarah; noch nicht selbst nachgeprüft, weil die Seite in der Sitzung gesperrt war)
 - Gespräche mit Kundinnen
+
+**Nachgefragt: Was erreichen Kundinnen bei uns?** (Sarah)
+- **Job kündigen** oder **Stunden reduzieren** können
+- Mit dem anderen Produkt: **Umsatz erhöhen**
+- **Bessere Lebensqualität** durch Persönlichkeitsentwicklung, Identitätsarbeit und Nervensystemarbeit
+
+_Hinweis: Es gibt mindestens zwei Produkte. Welches Ergebnis zu welchem gehört, wird in Block 3 (Angebot) geklärt. Konkrete Fallbeispiele kommen in den Block Kundenstimmen._
