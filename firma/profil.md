@@ -9,6 +9,11 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 
 Noch nicht gelesen: Die Cloud-Sitzung durfte am 2026-11-03 nicht auf diese Seiten zugreifen (Netzwerkeinstellung). Nachholen, sobald `brandyourvoice.de` und `provenexpert.com` freigeschaltet sind.
 
+## Wer steckt dahinter?
+
+- **Gründerinnen von Brand Your Voice:** Sarah und **Jana** (Angabe von Sarah, 2026-11-03).
+- **Julez** ist Sarahs **Beraterin und Sparringspartnerin**. Sie gehört nicht zu Brand Your Voice. (Sarah)
+
 ## Die Geschichte der Firma
 
 _In Sarahs Worten zusammengefasst:_
