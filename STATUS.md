@@ -4,7 +4,7 @@
 
 | Block | Thema | Datei | Stand |
 |---|---|---|---|
-| 0 | Ziel und Engpass | `firma/ziele-und-engpass.md` | offen |
+| 0 | Ziel und Engpass | `firma/ziele-und-engpass.md` | angefangen (Sarah, 2026-11-03) |
 | 0b | Profil Geschäftsführung | `profil-geschaeftsfuehrung.md` | offen |
 | 1 | Firma | `firma/profil.md` | offen |
 | 2 | Wunschkunde | `wunschkunde/wunschkunde.md` | offen |
