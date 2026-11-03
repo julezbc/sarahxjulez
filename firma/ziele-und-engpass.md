@@ -43,3 +43,13 @@ Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass 
 - **Warum:** Die neue Zielgruppe kennt euch noch nicht gut genug, es braucht mehr Vertrauen (Trust), bevor sie kauft.
 
 (Sarah)
+
+## Was sollte in den ersten 14 Tagen gelöst sein?
+
+**Klarheit**, und zwar bei diesen drei Punkten:
+
+1. **Brand:** Wohin soll sich die Marke entwickeln?
+2. **Funnel:** Welche Strategie verfolgen wir beim Funnel?
+3. **Ads / Media Buying:** Hier sieht Sarah einen „Bottleneck“. Ziel: bessere Leads bekommen.
+
+(Sarah)
