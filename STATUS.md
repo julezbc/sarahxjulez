@@ -4,7 +4,7 @@
 
 | Block | Thema | Datei | Stand |
 |---|---|---|---|
-| 0 | Ziel und Engpass | `firma/ziele-und-engpass.md` | angefangen (Sarah, 2026-11-03) |
+| 0 | Ziel und Engpass | `firma/ziele-und-engpass.md` | erledigt (Sarah, 2026-11-03) |
 | 0b | Profil Geschäftsführung | `profil-geschaeftsfuehrung.md` | offen |
 | 1 | Firma | `firma/profil.md` | offen |
 | 2 | Wunschkunde | `wunschkunde/wunschkunde.md` | offen |
@@ -27,3 +27,4 @@
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
 - Interview starten.
+- Hinweis (2026-11-03): Block 0 enthält vertrauliche Zahlen, nur für Sarah und Julez. Wer Zugriff auf dieses Repository bekommt, sieht die Datei. Falls das Team später Zugriff erhält, vorher klären, wo vertrauliche Inhalte liegen sollen.

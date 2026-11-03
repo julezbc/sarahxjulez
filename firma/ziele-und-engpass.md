@@ -1,6 +1,8 @@
 # Block 0 — Ziel und Engpass
 
-_Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-03 · Antworten von: Sarah_
+
+> **Vertraulich:** Ziele und Zahlen in dieser Datei sind nur für Sarah und Julez bestimmt, nicht fürs Team.
 
 ## Wo steht die Firma heute?
 
@@ -59,3 +61,7 @@ Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass 
 - **Der Fit ist oft nicht optimal.** Die Leute gehören eigentlich zur Zielgruppe, haben aber teilweise kein Geld.
 
 (Sarah)
+
+## Darf das Team dieses Ziel sehen?
+
+**Nein.** Ziel und Zahlen sind nur für Sarah und Julez bestimmt. (Sarah)
