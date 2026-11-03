@@ -34,3 +34,12 @@ Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass 
 - Sie prägt besonders die **Strategie auf Social Media**.
 
 (Sarah)
+
+## Was habt ihr ausprobiert, das nicht funktioniert hat?
+
+- **Ausgangslage:** Aktuell läuft nur **ein Evergreen-Funnel**.
+- **Versuch:** Das „neue“ Produkt wurde über ein **5-tägiges Webinar** gelauncht. Die Strategie kam von einem Coach.
+- **Ergebnis:** „Lief semi.“
+- **Warum:** Die neue Zielgruppe kennt euch noch nicht gut genug, es braucht mehr Vertrauen (Trust), bevor sie kauft.
+
+(Sarah)
