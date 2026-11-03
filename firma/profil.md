@@ -1,6 +1,6 @@
 # Block 1 — Firma
 
-_Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-03 · Antworten von: Sarah_
 
 ## Quellen zum Nachlesen
 
@@ -45,3 +45,9 @@ _In Sarahs Worten zusammengefasst:_
 - **Bessere Lebensqualität** durch Persönlichkeitsentwicklung, Identitätsarbeit und Nervensystemarbeit
 
 _Hinweis: Es gibt mindestens zwei Produkte. Welches Ergebnis zu welchem gehört, wird in Block 3 (Angebot) geklärt. Konkrete Fallbeispiele kommen in den Block Kundenstimmen._
+
+## Worauf sind wir stolz, was würden wir heute anders machen?
+
+**Stolz:** dass Brand Your Voice **von null an aufgebaut** wurde. Sarah kommt nicht aus einer Unternehmerfamilie, sie hat sich alles selbst beigebracht, vieles durch Learning by Doing. (Sarah)
+
+**Heute anders:** **mehr netzwerken.** (Sarah; ausführlicher in `notizen/sarah-erwartungen-an-julez.md`, Abschnitt „Netzwerken und Sichtbarkeit“)
