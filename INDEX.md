@@ -7,3 +7,6 @@ Wird beim Interview automatisch ergänzt.
 
 ## Firma
 _(noch leer — entsteht im Interview)_
+
+## Notizen
+- [Julez: Erwartungen an die Zusammenarbeit & Themen](notizen/julez-erwartungen-und-themen.md) — Prio 1, Positionierung, Reichweite, Bühne, Presse, Buch (2026-11-03)

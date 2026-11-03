@@ -22,6 +22,7 @@
 
 ## Erledigt
 - Anleitung ins Deutsche übersetzt, Interview-Befehl `/second-brain-interview` und `/uebergabe` angelegt.
+- Dokument von Julez (Erwartungen & Themen) gespeichert: `notizen/julez-erwartungen-und-themen.md` (2026-11-03).
 
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
