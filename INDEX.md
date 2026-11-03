@@ -13,4 +13,4 @@ Wird beim Interview automatisch ergänzt.
 - [Firmenprofil](firma/profil.md) — Block 1, in Arbeit (Sarah)
 
 ## Notizen
-- [Julez: Erwartungen an die Zusammenarbeit & Themen](notizen/julez-erwartungen-und-themen.md) — Prio 1, Positionierung, Reichweite, Bühne, Presse, Buch (2026-11-03)
+- [Sarah: Erwartungen an die Zusammenarbeit mit Julez & Themen](notizen/sarah-erwartungen-an-julez.md) — Prio 1, Positionierung, Reichweite, Bühne, Presse, Buch (2026-11-03)

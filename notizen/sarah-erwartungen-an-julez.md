@@ -1,6 +1,8 @@
-# Julez: Erwartungen an die Zusammenarbeit & Themen
+# Sarah: Erwartungen an die Zusammenarbeit mit Julez & Themen
 
-_Quelle: Word-Dokument von Julez, gespeichert am 2026-11-03 (Original: `docs/original/Julez-Erwartungen-Zusammenarbeit.docx`). Text unverändert übernommen._
+> **Korrektur (Sarah, 2026-11-03):** Dieses Dokument hat **Sarah** an ihre Beraterin **Julez** geschrieben. Es enthält Sarahs Erwartungen an die Zusammenarbeit und ihre Themen. Ursprünglich war es als Julez' Dokument gespeichert. „Ich“ im Text ist Sarah, „du“ ist Julez.
+
+_Quelle: Word-Dokument (von Sarah an Julez), gespeichert am 2026-11-03 (Original: `docs/original/Julez-Erwartungen-Zusammenarbeit.docx`). Text unverändert übernommen._
 
 **Was mir bisher gefehlt hat**
 
