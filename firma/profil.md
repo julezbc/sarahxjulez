@@ -19,4 +19,7 @@ _In Sarahs Worten zusammengefasst:_
 - **Die Vision:** Sie hat gespürt, dass sie wirklich etwas in der Welt bewegen und **Frauen empowern** will.
 - **2022:** Idee und Gründung von **Brand Your Voice**, mit der Mission, **Frauen in ein unabhängiges, selbstbestimmtes Leben zu begleiten**.
 
-(Sarah; die Antwort brach mitten im Satz ab, Fortsetzung folgt)
+- **Der Schritt vom Dienstleisten zur eigenen Firma:** Als Copywriterin hat Sarah gemerkt, dass ihre Texte für Coaches sehr viele Menschen erreichen und richtig viel Umsatz bringen. Sie hat gespürt: „Da muss es einfach mehr geben.“ Das liege in ihrer DNA.
+- **Aufbau:** Mit Unterstützung von außen wurde ein smarter Funnel aufgebaut, und so ist Brand Your Voice entstanden, wie es heute ist.
+
+(Sarah)
