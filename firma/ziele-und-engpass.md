@@ -24,3 +24,5 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 ## Was bricht als Erstes, wenn morgen zehn Kunden mehr kommen?
 
 Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass ein Drama ausbricht“. In allen Rollen ist noch Potential. (Sarah)
+
+**Nachgefragt — bei doppelter Kundenzahl:** Am ehesten könnte es im **Closing** eng werden. Es gibt aber einen guten Pool an Closern, auf den ihr zurückgreifen könnt. (Sarah)
