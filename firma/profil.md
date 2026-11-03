@@ -29,3 +29,12 @@ _In Sarahs Worten zusammengefasst:_
 - **Aufbau:** Mit Unterstützung von außen wurde ein smarter Funnel aufgebaut, und so ist Brand Your Voice entstanden, wie es heute ist.
 
 (Sarah)
+
+## Was macht Brand Your Voice besser als andere, und woher wissen wir das?
+
+**Besser:** sehr **authentisches Marketing**, ohne zu krass auf FOMO zu setzen, ohne große Versprechungen und ohne Garantien. (Sarah)
+
+**Woher wir das wissen:**
+- Rückmeldungen von Teilnehmerinnen
+- **Fast 200 Kundenstimmen auf ProvenExpert** (Angabe von Sarah; noch nicht selbst nachgeprüft, weil die Seite in der Sitzung gesperrt war)
+- Gespräche mit Kundinnen
