@@ -4,7 +4,7 @@
 
 ## Sarah
 
-_Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-03 · Antworten von: Sarah_
 
 ### Kurz und direkt oder ausführlich erklärt?
 
@@ -40,3 +40,21 @@ So sieht gutes Challengen für Sarah aus:
 - **Den Funnel auseinandernehmen** und smarter aufziehen, auch bei Werbeanzeigen und Social Media. Hier sieht Sarah **das meiste Potenzial**.
 
 Reihenfolge laut Sarah: erst die Positionierung als Fundament, dann den Funnel besser machen.
+
+### Was gibt Sarah Energie, was raubt sie ihr?
+
+**Energie geben:**
+- Female Empowerment
+- Kommunikation, Verkaufspsychologie, Copywriting
+- Persönlichkeitsentwicklung und Mindset („Wie spreche ich mit mir?“)
+- **KI für Frauen**, das rundet das Ganze ab und hält sie up to date
+- Ideen geben und an der Vision arbeiten
+
+**Energie rauben:**
+- **Technikkram**, zum Beispiel Tools miteinander verknüpfen. Sarah versteht das, hat aber keine Lust darauf.
+- **Widerrufe** von Teilnehmerinnen
+- **Teamthemen**, die es in der Vergangenheit gab
+
+**Wunschbild:** komplett in der eigenen *Zone of Genius* arbeiten und von den nervigen Dingen gar nichts mitbekommen.
+
+**Für Claude heißt das:** Technik- und Tool-Themen möglichst abnehmen oder an andere geben, statt sie Sarah zuzuschieben.
