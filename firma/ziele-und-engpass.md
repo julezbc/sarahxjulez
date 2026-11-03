@@ -20,3 +20,7 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 
 - **Ziel:** mindestens 250k **Gewinn** pro Monat in 2027 (Angabe von Sarah)
 - Abstand zum heutigen Stand: von etwa 50k–100k auf mindestens 250k Gewinn pro Monat, also ungefähr das 2,5- bis 5-Fache (gerechnet aus Sarahs Schätzung).
+
+## Was bricht als Erstes, wenn morgen zehn Kunden mehr kommen?
+
+Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass ein Drama ausbricht“. In allen Rollen ist noch Potential. (Sarah)
