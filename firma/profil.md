@@ -12,6 +12,7 @@ Noch nicht gelesen: Die Cloud-Sitzung durfte am 2026-11-03 nicht auf diese Seite
 ## Wer steckt dahinter?
 
 - **Gründerinnen von Brand Your Voice:** Sarah und **Jana** (Angabe von Sarah, 2026-11-03).
+- **Rollen der Gründerinnen** (Sarah): Sarah ist die **„Außenministerin“**: Strategie, Ideen, Social Media, Gesicht nach außen. Jana ist sinngemäß die **„Innenministerin“**: Sie übernimmt viele organisatorische Themen rund ums Team und alles Strukturelle und Organisatorische intern. (Sarahs Satz brach bei „…und sie ist der“ ab, „Innenministerin“ ist ergänzt.)
 - **Julez** ist Sarahs **Beraterin und Sparringspartnerin**. Sie gehört nicht zu Brand Your Voice. (Sarah)
 
 ## Die Geschichte der Firma

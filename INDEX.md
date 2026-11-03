@@ -6,7 +6,7 @@ Wird beim Interview automatisch ergänzt.
 - [Second-Brain-Anleitung (deutsch)](docs/second-brain-anleitung.md)
 
 ## Geschäftsführung
-- [Profil der Geschäftsführung](profil-geschaeftsfuehrung.md) — Block 0b, wie Sarah (und Julez) mit Claude arbeiten wollen (vertraulich)
+- [Profil der Geschäftsführung](profil-geschaeftsfuehrung.md) — Block 0b, wie Sarah mit Claude arbeiten will (vertraulich)
 
 ## Firma
 - [Ziel und Engpass](firma/ziele-und-engpass.md) — Block 0: Stand, Ziel 2027, Engpässe, Prioritäten für 14 Tage (Sarah, vertraulich)

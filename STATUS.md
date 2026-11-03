@@ -5,7 +5,7 @@
 | Block | Thema | Datei | Stand |
 |---|---|---|---|
 | 0 | Ziel und Engpass | `firma/ziele-und-engpass.md` | erledigt (Sarah, 2026-11-03) |
-| 0b | Profil Geschäftsführung | `profil-geschaeftsfuehrung.md` | erledigt für Sarah (2026-11-03), Julez offen |
+| 0b | Profil Geschäftsführung | `profil-geschaeftsfuehrung.md` | erledigt (Sarah, 2026-11-03); kein weiteres Profil nötig |
 | 1 | Firma | `firma/profil.md` | angefangen (Sarah, 2026-11-03) |
 | 2 | Wunschkunde | `wunschkunde/wunschkunde.md` | offen |
 | 3 | Angebot | `angebot/angebot.md` | offen |

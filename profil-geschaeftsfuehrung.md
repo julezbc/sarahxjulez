@@ -1,6 +1,6 @@
 # Block 0b — Profil der Geschäftsführung
 
-> **Vertraulich:** Nur für Sarah und Julez bestimmt, nicht fürs Team. Jede Person hat einen eigenen Abschnitt.
+> **Vertraulich:** Nur für Sarah und Julez (Sarahs Beraterin) bestimmt, nicht fürs Team. Ein Profil für Jana ist laut Sarah nicht nötig (2026-11-03).
 
 ## Sarah
 

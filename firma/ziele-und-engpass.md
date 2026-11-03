@@ -65,3 +65,6 @@ Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass 
 ## Darf das Team dieses Ziel sehen?
 
 **Nein.** Ziel und Zahlen sind nur für Sarah und Julez bestimmt. (Sarah)
+
+---
+_Ergänzung (Claude, 2026-11-03, nach Block 1):_ Zum Team gehört außerdem **Jana**, Mitgründerin von Brand Your Voice. Sie verantwortet Organisation, Team und interne Struktur.
