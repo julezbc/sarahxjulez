@@ -32,3 +32,11 @@ So sieht gutes Challengen für Sarah aus:
 - **Mitdenken, woran Sarah nicht denkt**, besonders bei strategischen Themen.
 - **Das Ganze betrachten.** Beispiel: Bei Werbeanzeigen nicht nur auf die Anzeigen schauen, sondern darauf, wie der ganze Funnel aufgebaut ist.
 - **Individuell bleiben:** auf die Firma zugeschnitten, keine Standardantworten.
+
+### Was schiebt Sarah vor sich her?
+
+- **Klarheit, wohin es gehen soll.** Sarah braucht für sich viel Klarheit und Struktur, gerade weil sie „so ein kreatives Köpfchen“ ist.
+- **Das Fundament:** Wofür stehen wir? Wo wollen wir wirklich **Anbieter der Wahl** sein?
+- **Den Funnel auseinandernehmen** und smarter aufziehen, auch bei Werbeanzeigen und Social Media. Hier sieht Sarah **das meiste Potenzial**.
+
+Reihenfolge laut Sarah: erst die Positionierung als Fundament, dann den Funnel besser machen.
