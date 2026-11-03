@@ -53,3 +53,9 @@ Nichts Akutes. Zehn Kunden mehr kann das aktuelle Team gut halten, „ohne dass 
 3. **Ads / Media Buying:** Hier sieht Sarah einen „Bottleneck“. Ziel: bessere Leads bekommen.
 
 (Sarah)
+
+**Nachgefragt — was stimmt an den Leads heute nicht?**
+- **Zu wenige** Leads.
+- **Der Fit ist oft nicht optimal.** Die Leute gehören eigentlich zur Zielgruppe, haben aber teilweise kein Geld.
+
+(Sarah)
