@@ -29,3 +29,4 @@
 - Interview starten.
 - Hinweis (2026-11-03): Block 0 enthält vertrauliche Zahlen, nur für Sarah und Julez. Wer Zugriff auf dieses Repository bekommt, sieht die Datei. Falls das Team später Zugriff erhält, vorher klären, wo vertrauliche Inhalte liegen sollen.
 - Klarstellung (Sarah, 2026-11-03): Brand Your Voice haben Sarah und Jana gegründet. Julez ist Sarahs Beraterin und Sparringspartnerin und gehört nicht zur Firma. Dieses Repository ist das gemeinsame Gedächtnis von Sarah und ihrer Beraterin Julez.
+- Material von Sarah gespeichert (2026-11-04): Brand Voice (`sprache/brand-voice.md`, Grundlage für Block 4), Guidelines (`firma/guidelines.md`), Setting-Skript (`vertrieb/setting-skript.md`, Grundlage für Block 7). Guidelines-PDF nicht im Repo, weil es Freigabe-Links zu Dropbox und OneDrive enthält.
