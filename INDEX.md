@@ -20,6 +20,9 @@ Wird beim Interview automatisch ergänzt.
 ## Angebot
 - [Angebot](angebot/angebot.md) — Block 3: Clear Words (4.397 €, 4 Monate), brandyourAI (7–9k, 7 Monate), Einstieg, Upsell (Sarah)
 
+## Leistung
+- [Ablauf der Begleitung](leistung/prozess.md) — Block 8, in Arbeit (Sarah)
+
 ## Marketing
 - [Kanäle und Erfahrungen](marketing/kanaele-und-erfahrungen.md) — Block 6: Meta-Ads und Masterclass als Hauptweg, Tests, ungenutzte Kanäle (Sarah)
 
