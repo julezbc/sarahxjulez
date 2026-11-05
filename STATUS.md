@@ -24,9 +24,17 @@
 - Anleitung ins Deutsche übersetzt, Interview-Befehl `/second-brain-interview` und `/uebergabe` angelegt.
 - Dokument von Sarah an Julez (Erwartungen & Themen) gespeichert: `notizen/sarah-erwartungen-an-julez.md` (2026-11-03; ursprünglich Julez zugeordnet, korrigiert nach Angabe von Sarah).
 
+- Interview mit Sarah komplett durchlaufen (Blöcke 0–11 und K, 2026-11-03 bis 2026-11-05). Übergabe: `uebergaben/2026-11-05-sarah.md`.
+- Spielplan-Entwurf geschrieben: `firma/spielplan.md` (2026-11-05).
+- Website gelesen: `firma/website-stand-2026-11.md`, `kundenstimmen/website-erfolgsgeschichten.md` (2026-11-05).
+
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
-- ~~Interview starten.~~ Interview mit Sarah am 2026-11-05 komplett durchlaufen (Blöcke 0–11, K). Spielplan-Entwurf liegt vor.
+- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen.
+- Tracking-Sheet von Sarah: Zahlen in Block 6 nachtragen und den Funnel auswerten.
+- ProvenExpert lesen: `*.provenexpert.com` in den erlaubten Domains ergänzen.
+- Website: Einkommensaussagen mit den Anwälten prüfen, Clear-Words-Seite und Team-Seite aktualisieren.
+- Weitere offene Punkte: `OFFENE-FRAGEN.md`.
 - Hinweis (2026-11-03): Block 0 enthält vertrauliche Zahlen, nur für Sarah und Julez. Wer Zugriff auf dieses Repository bekommt, sieht die Datei. Falls das Team später Zugriff erhält, vorher klären, wo vertrauliche Inhalte liegen sollen.
 - Klarstellung (Sarah, 2026-11-03): Brand Your Voice haben Sarah und Jana gegründet. Julez ist Sarahs Beraterin und Sparringspartnerin und gehört nicht zur Firma. Dieses Repository ist das gemeinsame Gedächtnis von Sarah und ihrer Beraterin Julez.
 - Material von Sarah gespeichert (2026-11-04): Brand Voice (`sprache/brand-voice.md`, Grundlage für Block 4), Guidelines (`firma/guidelines.md`), Setting-Skript (`vertrieb/setting-skript.md`, Grundlage für Block 7). Guidelines-PDF nicht im Repo, weil es Freigabe-Links zu Dropbox und OneDrive enthält.
