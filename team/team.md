@@ -19,6 +19,9 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **KI: André**: KI-Betreuung, Automationen und Ähnliches
 - **Technik: René**: gehört mit zum Team und baut mit André das eigene Automations-System (Ergänzung aus Block 10, 2026-11-05)
 - **Webdesign**: unterstützt bei Bedarf
+- **Mentorinnen** (nicht Vollzeit, punktuell): geben die **Impulse zu den Texten** der Teilnehmerinnen und übernehmen einzelne **Live-Meetings** (Ergänzung aus Block 11, 2026-11-05)
+
+**Gruppencalls:** Die leitet **Sarah** selbst, bei Clear Words und bei brandyourAI. (Sarah, 2026-11-05)
 
 **Struktur:** Über ein Jahr lang hat eine HR-Unterstützung beim Onboarding, Offboarding, Recruiting und bei der Rollendefinition geholfen. Laut Sarah gibt es deshalb ein richtig gutes Fundament und viel Struktur, beim Team sind sie „total safe“.
 

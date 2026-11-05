@@ -7,7 +7,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 **Sarahs feste Termine:**
 - **Jeden Montag:** **Strategie-Call mit Jana**
 - **Alle 3 Wochen:** **Meetings mit den Teilnehmerinnen** (laut Spracheingabe „Teilnehmerinnen-Meetings“)
-- **Regelmäßig:** **Call mit den Mentorinnen** zum Einchecken (siehe Nachfrage, wer die Mentorinnen sind)
+- **Regelmäßig:** **Check-in-Call mit den Mentorinnen.** Sie geben die Impulse zu den Texten und übernehmen punktuell Live-Meetings, nicht Vollzeit.
+- **Bis zu 3 Gruppencalls pro Woche:** leitet **Sarah** selbst, bei Clear Words und brandyourAI.
 - **Copywriterin Julia:** Austausch meist über **Slack**, Termine eher spontan
 - **Media Buyer:** Austausch über **WhatsApp**, aber **keine gute Routine**, „wir sprechen selten“
 
