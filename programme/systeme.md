@@ -1,6 +1,6 @@
 # Block 10 — Programme und Daten
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Welche Programme nutzen wir heute?
 
@@ -34,3 +34,8 @@ Eine **eigene Plattform**, gebaut von **André** (KI) und **René** (Technik). S
 - Die Zahlen werden **von Hand kontrolliert**, von **Jana, René und der persönlichen Assistenz**.
 
 (Sarah, 2026-11-05)
+
+## Was wird doppelt gepflegt oder von Hand kopiert?
+
+- **Die Zahlen werden bewusst doppelt getrackt.** Ergebnisse gibt es in **WebinarGeek** und **Meta**, zusätzlich werden sie im Tracking-Sheet erfasst. „Das passt für uns, weil die Zahlen ja stimmen müssen, egal wie.“ (Sarah, 2026-11-05)
+- _Möglicher Kandidat fürs AIOS-System: Zahlen aus WebinarGeek und Meta automatisch ins Reporting übernehmen. Die Kontrolle von Hand kann bleiben (Idee von Claude)._

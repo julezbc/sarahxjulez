@@ -15,7 +15,7 @@
 | 7 | Vertrieb | `vertrieb/prozess-und-einwaende.md` | erledigt (Sarah, 2026-11-05) |
 | 8 | Leistung | `leistung/prozess.md` | erledigt (Sarah, 2026-11-05) |
 | 9 | Team | `team/team.md` | erledigt (Sarah, 2026-11-05) |
-| 10 | Programme und Daten | `programme/systeme.md` | angefangen (Sarah, 2026-11-05) |
+| 10 | Programme und Daten | `programme/systeme.md` | erledigt (Sarah, 2026-11-05) |
 | 11 | Routinen | `routinen/uebersicht.md` | offen |
 | K | Kundenstimmen | `kundenstimmen/` | offen |
 | — | Abschluss: Spielplan | `firma/spielplan.md` | offen |
