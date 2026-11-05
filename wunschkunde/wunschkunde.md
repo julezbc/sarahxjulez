@@ -55,3 +55,12 @@ _Für Zielgruppe B gibt es noch keinen ausgearbeiteten Avatar in den Unterlagen.
 - Laut Sarah sortiert das Vertriebssystem solche Frauen inzwischen gut vorher aus.
 
 (Sarah, 2026-11-05)
+
+## Woran merken wir im ersten Gespräch, dass jemand passt? (Zielgruppe A)
+
+- Sie hat **richtig Bock**.
+- Sie merkt selbst: **„Ich will was verändern.“**
+- Sie hat schon ein **Problembewusstsein**.
+- Sie weiß: **„Ich muss etwas investieren.“**
+
+(Sarah, 2026-11-05) Passt zum Setting-Skript (`vertrieb/setting-skript.md`): Auf der Bock-Skala gehen nur 8 bis 10 weiter.
