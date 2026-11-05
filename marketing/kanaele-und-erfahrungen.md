@@ -9,3 +9,5 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - **Instagram, Podcast, LinkedIn, Empfehlungen** laufen auch. Sarah sieht sie eher als **vertrauensbildende Maßnahmen** und nicht als Hauptquelle für Anfragen.
 
 (Sarah, 2026-11-05)
+
+**Zahlen pro Stufe:** Es gibt ein umfangreiches **Tracking- und Reporting-Sheet**. Sarah schickt es an Julez, die Zahlen werden dann hier nachgetragen. (Sarah, 2026-11-05)
