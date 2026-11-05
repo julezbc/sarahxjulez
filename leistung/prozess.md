@@ -27,4 +27,12 @@ Laut Sarah hakt es nicht an der Begleitung selbst, sondern an **bestimmten Mensc
 
 _Anmerkungen (Claude):_
 - _In den älteren Guidelines steht als Wertversprechen: „Wir haken nach, wenn es still wird“ und „Sie möchten an die Hand genommen werden“. Das passt nicht ganz zu „Abtauchen ist fein, Eigenverantwortung“. Klären, was heute versprochen wird, damit Verkauf und Begleitung zusammenpassen._
+  - **Geklärt (Sarah, 2026-11-05):** „Wir nehmen sie schon an die Hand.“ Das Team ist immer da und immer bereit für Lösungen. Schubsen kann es die Teilnehmerinnen aber nicht: „Wir können dir nur vor den Kopf gucken, aber nicht in deinen Kopf.“ Wenn etwas unbequem ist, muss die Teilnehmerin sich melden, dann wird gemeinsam eine Lösung gefunden.
 - _Widerrufe wegen Geld hängen mit dem Kernengpass Budget zusammen (siehe Block 7)._
+
+## Wiederkehrende Termine mit den Teilnehmerinnen
+
+- **Bis zu 3 Calls pro Woche**, Themen: **Strategie, Mindset, Q&A**
+- **brandyourAI:** genauso, plus ein zusätzlicher … _(Antwort brach ab, Fortsetzung folgt)_
+
+(Sarah, 2026-11-05)
