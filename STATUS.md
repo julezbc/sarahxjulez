@@ -17,7 +17,7 @@
 | 9 | Team | `team/team.md` | erledigt (Sarah, 2026-11-05) |
 | 10 | Programme und Daten | `programme/systeme.md` | erledigt (Sarah, 2026-11-05) |
 | 11 | Routinen | `routinen/uebersicht.md` | erledigt (Sarah, 2026-11-05) |
-| K | Kundenstimmen | `kundenstimmen/` | offen |
+| K | Kundenstimmen | `kundenstimmen/` | Quellen benannt (Sarah, 2026-11-05); Inhalte noch lesen |
 | — | Abschluss: Spielplan | `firma/spielplan.md` | offen |
 
 ## Erledigt

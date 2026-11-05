@@ -35,6 +35,9 @@ Wird beim Interview automatisch ergänzt.
 ## Routinen
 - [Routinen](routinen/uebersicht.md) — Block 11: feste Termine, Media Buyer ohne Routine, Zeitfresser (Sarah)
 
+## Kundenstimmen
+- [Kundenstimmen](kundenstimmen/README.md) — Block K: ProvenExpert und Website, noch nicht gelesen
+
 ## Sprache
 - [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
