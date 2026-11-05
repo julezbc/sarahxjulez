@@ -32,6 +32,8 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 - **Wie gehören A und B zusammen?** Vorschlag zum Prüfen: nicht zwei getrennte Welten, sondern **eine Leiter**. Clear Words ist der Einstieg (Copywriting-Business aufbauen), brandyourAI der nächste Schritt (Business mit Positionierung, Hochpreis-Angebot und KI auf die Straße bringen). Den Upsell für Absolventinnen, die schon verdienen, gibt es auf dem Papier schon (Block 3). **Bisher ist aber noch keine gewechselt.** Die etwa 8 Teilnehmerinnen von brandyourAI sind alle neu eingestiegen (Sarah, 2026-11-05). Die Leiter ist also angelegt, wird aber noch nicht genutzt.
 - **Ist das zu breit?** Diese Frage hat Sarah selbst gestellt. Einschätzung: Die vier Themen sind als **Methode** stark (Mindset, Texte, Auftritt, KI greifen ineinander). Als **Positionierung** brauchen sie einen gemeinsamen Nenner, den eine Frau in einem Satz versteht. „Copywriting 2.0: erst Psychologie und Strategie, dann KI“ steht schon in eurer Brand Voice und wäre ein Kandidat.
 
+**Nachtrag nach dem Lesen der Website (2026-11-05):** Die Startseite sagt schon „**Für Female (AI) Leaders**“. Die Richtung ist also schon da. Es geht weniger darum, sie zu erfinden, als sie zu entscheiden und überall gleich zu erzählen (Website, Masterclass, Setting, Ads).
+
 **Challenge:** Sarah lässt sich nach eigenen Worten gern von Ideen anfixen. Positionierung kann ewig dauern. Deshalb mit **Frist**: Die Entscheidung für Zielgruppe B sollte stehen, **bevor die Texte für den Januar-Launch geschrieben werden**, also spätestens Anfang Dezember. Den genauen Termin legen Sarah und Julez fest.
 
 ### Hebel 2: Den bestehenden Funnel besser machen (Clear Words, Evergreen)
@@ -43,6 +45,7 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 - **Feste Routine mit dem Media Buyer:** Sarah hat das zweimal als Engpass genannt (Block 0 und Block 11).
 - **Budget früher klären:** Im Setting-Skript wird das Budget erst in Schritt 7 abgefragt, und am Anfang heißt es „lieber durchlassen“. Wenn Geld der Grund Nummer 1 ist, gehört die Budgetfrage weiter nach vorn: ins Buchungsformular, in die Masterclass oder an den Anfang des Setter-Calls. So verbringen Setterinnen und Closerinnen weniger Zeit mit Frauen, die nicht kaufen können.
 - **Ads und Masterclass testen:** neue Ad-Formate (die Brand Voice liefert schon Ideen: Mythen, Stundenlohn, Tagesablauf, Vorher-Nachher), Testvarianten der Masterclass oder eine Kurzversion.
+- **Botschaft der Masterclass prüfen (Nachtrag Website):** Die Copywriting-Masterclass verspricht „1.000 € bis 5.000 € monatlich (nebenberuflich und OHNE Vorkenntnisse!)“ und spricht Frauen „neben deinem Job“ an. Damit zieht sie vermutlich genau die Leads an, die oft kein Budget haben, und sie widerspricht „keine Versprechungen“. Ein Hebel für bessere Leads und weniger rechtliches Risiko.
 - **Verknappung prüfen:** Das Setting-Skript arbeitet stark mit Knappheit („Plätze sind LIMITIERT!!!!!“). Eure Brand Voice sagt: „Verknappung nur, wenn sie echt ist.“ Wenn ihr mit „authentisch ohne FOMO“ werbt, sollte das Skript dazu passen. Änderungen am Verkaufsprozess bitte mit den Anwälten abstimmen, weil er mit ihnen festgelegt wurde.
 
 ### Hebel 3: brandyourAI zum Gewinnhebel machen
@@ -72,6 +75,10 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 1. **Wöchentlicher 30-Minuten-Termin mit dem Media Buyer.** Fester Slot, jedes Mal dieselben Zahlen aus dem Tracking-Sheet: Kosten pro Lead, Anteil Masterclass zu Call, Abschlussquote, Widerrufe. Kostet fast nichts und geht direkt an die Hauptquelle.
 2. **Budget-Frage nach vorn holen.** Zum Beispiel eine Frage im Buchungsformular oder ein Satz am Anfang des Setter-Calls, dass die Begleitung im vierstelligen Bereich liegt. Vorher kurz mit den Anwälten abstimmen. Danach zwei bis vier Wochen messen, ob die Closing-Quote steigt.
 3. **Warme Liste für brandyourAI.** Alle Clear-Words-Absolventinnen herausfiltern, die schon Kundinnen gewonnen haben, und vor dem öffentlichen Launch persönlich einladen. Das Anschreiben muss vorher von Sarah freigegeben werden.
+
+### Zusätzlicher schneller Erfolg (Nachtrag Website)
+
+4. **Website an die Wirklichkeit anpassen:** Einkommensaussagen von den Anwälten prüfen lassen. Die Clear-Words-Seite auf den heutigen Stand bringen (ein Programm, 4 Monate, Gruppencalls statt 1:1, keine „Stufen“). Wer etwas anderes erwartet, als sie bekommt, widerruft eher.
 
 ## Was ich bewusst nicht empfehle
 

@@ -4,6 +4,8 @@ _Stand: 2026-11-03 · Antworten von: Sarah_
 
 ## Quellen zum Nachlesen
 
+- **Website gelesen am 2026-11-05:** Zusammenfassung und Abweichungen in [`website-stand-2026-11.md`](website-stand-2026-11.md).
+
 - Website: https://brandyourvoice.de/
 - Bewertungen: https://www.provenexpert.com/de-de/brandyourvoice/
 

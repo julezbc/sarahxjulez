@@ -11,6 +11,7 @@ Wird beim Interview automatisch ergänzt.
 ## Firma
 - [Ziel und Engpass](firma/ziele-und-engpass.md) — Block 0: Stand, Ziel 2027, Engpässe, Prioritäten für 14 Tage (Sarah, vertraulich)
 - [Spielplan](firma/spielplan.md) — 3 Hebel, Reihenfolge, 3 schnelle Erfolge (Entwurf, vertraulich)
+- [Website-Stand 2026-11](firma/website-stand-2026-11.md) — was die Website sagt, Team laut Website, Abweichungen zum Interview
 - [Firmenprofil](firma/profil.md) — Block 1: Gründerinnen, Geschichte, Unterschied, Stolz (Sarah)
 - [Branchenregeln](firma/branchenregeln.md) — Block 5: keine Versprechen, Anwälte, LLC USA, FernUSG offen (Sarah)
 - [Guidelines Brand Your Voice](firma/guidelines.md) — Design, Mission, Vision, Avatar, Touchpoints, Tools (älterer Stand)
@@ -37,7 +38,8 @@ Wird beim Interview automatisch ergänzt.
 - [Routinen](routinen/uebersicht.md) — Block 11: feste Termine, Media Buyer ohne Routine, Zeitfresser (Sarah)
 
 ## Kundenstimmen
-- [Kundenstimmen](kundenstimmen/README.md) — Block K: ProvenExpert und Website, noch nicht gelesen
+- [Kundenstimmen](kundenstimmen/README.md) — Block K: Quellen
+- [Erfolgsgeschichten Website](kundenstimmen/website-erfolgsgeschichten.md) — Kurzfassungen, Muster
 
 ## Sprache
 - [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)

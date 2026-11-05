@@ -45,3 +45,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - Sarah selbst macht **keinen Urlaub** („Ich brauche keinen Urlaub“) und arbeitet nicht 8 Stunden am Tag.
 
 (Sarah, 2026-11-05)
+
+## Team laut Website (2026-11-05)
+
+Namen und Rollen laut https://brandyourvoice.de/about/, siehe `firma/website-stand-2026-11.md`. Welche Person welche Rolle aus dem Interview hat (z. B. welche Setterinnen und Closerinnen), ist noch nicht bestätigt. Vermutung: Laura und Kayla führen die Erstgespräche (Setting), Vera das Strategiegespräch (Closing), Katrin ist die Executive Assistant (PA), Sharon eine der Mentorinnen.
