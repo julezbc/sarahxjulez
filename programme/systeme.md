@@ -27,3 +27,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 ## Das AIOS-System
 
 Eine **eigene Plattform**, gebaut von **André** (KI) und **René** (Technik). Sie soll **nach und nach Tools wie Zapier, HubSpot und Co. ersetzen**, damit **alles bei Brand Your Voice selbst liegt**. Zapier ist schon ersetzt, HubSpot läuft „aktuell noch“. (Sarah, 2026-11-05)
+
+## Wo liegt die Wahrheit, wenn sich zwei Programme widersprechen?
+
+- Darum kümmert sich das **Technikteam**. „Unsere Zahlen stimmen alle.“
+- Die Zahlen werden **von Hand kontrolliert**, von **Jana, René und der persönlichen Assistenz**.
+
+(Sarah, 2026-11-05)
