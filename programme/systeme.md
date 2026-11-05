@@ -18,8 +18,12 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 | Geschäftskonto | **Wise** | |
 | Podcast | wie in den Guidelines (Riverside, Podigee, Audacity, Adobe Podcast) | „das passt auch“ |
 | Tracking und Reporting | **Google Sheets** und **Excel** | Tracking- und Reporting-Sheet |
-| Automationen | **eigenes System** (statt Zapier) | bauen André und René, siehe Nachfrage |
+| Automationen und mehr | **AIOS-System** (eigene Plattform) | bauen André und René, ersetzt Zapier |
 
 **Nicht mehr genutzt:** Memberspot, Stripe, ThriveCart, Zapier.
 
 (Sarah, 2026-11-05; Grundlage war die Tool-Liste aus `firma/guidelines.md`)
+
+## Das AIOS-System
+
+Eine **eigene Plattform**, gebaut von **André** (KI) und **René** (Technik). Sie soll **nach und nach Tools wie Zapier, HubSpot und Co. ersetzen**, damit **alles bei Brand Your Voice selbst liegt**. Zapier ist schon ersetzt, HubSpot läuft „aktuell noch“. (Sarah, 2026-11-05)
