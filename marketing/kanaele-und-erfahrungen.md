@@ -1,6 +1,6 @@
 # Block 6 — Marketing
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah · Zahlen aus dem Tracking-Sheet folgen_
 
 ## Über welche Wege kommen Anfragen?
 
@@ -25,3 +25,11 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 ## Wofür geben wir Geld aus, und wissen wir, was es bringt?
 
 **Steht im Tracking- und Reporting-Sheet** (Werbebudget, Kosten, Kosten pro Lead und Abschluss). Wird nachgetragen, sobald das Sheet vorliegt. (Sarah, 2026-11-05)
+
+## Welcher Kanal ist ungenutzt, obwohl er passen würde?
+
+- **Größtes ungenutztes Potenzial:** **Presse, Netzwerk, Podcast-Gastauftritte, Bühnen**, um die Brand viel stärker zu pushen.
+- **YouTube** läuft schon, steckt aber „noch in den Kinderschuhen“ und kann laut Sarah viel besser werden.
+- Ausführliche Wünsche dazu (Events, Keynotes, Presse, Buch): `notizen/sarah-erwartungen-an-julez.md`
+
+(Sarah, 2026-11-05)

@@ -11,7 +11,7 @@
 | 3 | Angebot | `angebot/angebot.md` | erledigt (Sarah, 2026-11-05) |
 | 4 | Sprache | `sprache/tonfall.md` | erledigt (Sarah, 2026-11-05) |
 | 5 | Branchenregeln | `firma/branchenregeln.md` | erledigt (Sarah, 2026-11-05) |
-| 6 | Marketing | `marketing/kanaele-und-erfahrungen.md` | angefangen (Sarah, 2026-11-05) |
+| 6 | Marketing | `marketing/kanaele-und-erfahrungen.md` | Fragen erledigt (Sarah, 2026-11-05); Zahlen aus dem Sheet folgen |
 | 7 | Vertrieb | `vertrieb/prozess-und-einwaende.md` | offen |
 | 8 | Leistung | `leistung/prozess.md` | offen |
 | 9 | Team | `team/team.md` | offen |
