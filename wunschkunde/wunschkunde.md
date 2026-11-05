@@ -56,6 +56,11 @@ _Für Zielgruppe B gibt es noch keinen ausgearbeiteten Avatar in den Unterlagen.
   - Produkt oder Dienstleistung entwickeln und auf den Markt bringen
   - enthalten sind eine **LinkedIn-Masterclass**, eine **Copywriting-Masterclass** und ein **KI-Teil**
 
+**Erste Erfahrungen (Sarah, 2026-11-05):** Das Angebot für Zielgruppe B ist **neu**, es gibt erst wenige Teilnehmerinnen.
+- **Beispiel einer Teilnehmerin:** Sie macht Social Media und erstellt jetzt ihre ersten Pakete und ihr erstes Webinar.
+- **Typische Businesses:** Copywriterinnen, Coaches, Mentorinnen, Trainerinnen aus den unterschiedlichsten Bereichen.
+- **Was vorher nicht funktioniert hat:** zum Beispiel der Social-Media-Auftritt, oder sie haben einfach nicht verkauft.
+
 _Details zum Angebot kommen in Block 3._
 
 ## Welche Kundin würden wir nie wieder annehmen, und warum? (Zielgruppe A)
