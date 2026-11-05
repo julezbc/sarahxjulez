@@ -11,7 +11,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **Jana:** „Innenministerin“: Organisation, Team, interne Struktur
 
 **Team** (alle **Freelancerinnen über die LLC**, die meisten davon **Vollzeit** für Brand Your Voice, keine klassische Agentur):
-- **Copywriterin**
+- **Copywriterin: Julia** (Name aus Block 11, 2026-11-05)
 - **2 Setterinnen**: Setting-Gespräche, siehe `vertrieb/setting-skript.md`
 - **2 Closerinnen**: Closing-Gespräche, siehe `vertrieb/prozess-und-einwaende.md`
 - **Media Buyer**: Meta-Ads
