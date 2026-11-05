@@ -19,3 +19,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 **Größter Engpass laut Sarah:** Mit dem **Media Buyer** wird **zu selten gesprochen**, obwohl es dort viel um Zahlen geht. Das passt zu den Zielen für die ersten 14 Tage aus Block 0 („Bottleneck Ads / Media Buyer“).
 
 (Sarah, 2026-11-05)
+
+## Was kostet am meisten Zeit?
+
+- Sarah **„tingelt manchmal schon zu viel auf Instagram rum“**.
+- Sonst frisst nichts „so krass“ Zeit. Sarah kann ihre Zeit gut steuern, und das Team übernimmt das meiste.
+
+(Sarah, 2026-11-05)
