@@ -80,3 +80,15 @@ _Details zum Angebot kommen in Block 3._
 - Sie weiß: **„Ich muss etwas investieren.“**
 
 (Sarah, 2026-11-05) Passt zum Setting-Skript (`vertrieb/setting-skript.md`): Auf der Bock-Skala gehen nur 8 bis 10 weiter.
+
+## Warum Zielgruppe B? (Sarah, 2026-11-05)
+
+Zielgruppe A wäre eigentlich der einfachere Weg für das neue Angebot, aber diese Frauen haben **oft kein Geld**. Deshalb wollen Sarah und Jana stärker ins **klassische B2B**.
+
+## Woran merken wir, dass jemand aus Zielgruppe B passt?
+
+- Sie hat **schon ein Unternehmen**.
+- Sie verdient schon etwa **2.000 bis 4.000 € im Monat** (Angabe von Sarah als Richtwert).
+- Sie will sich **weiterentwickeln**.
+
+(Sarah)
