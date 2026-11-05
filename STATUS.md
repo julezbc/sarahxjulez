@@ -18,7 +18,7 @@
 | 10 | Programme und Daten | `programme/systeme.md` | erledigt (Sarah, 2026-11-05) |
 | 11 | Routinen | `routinen/uebersicht.md` | erledigt (Sarah, 2026-11-05) |
 | K | Kundenstimmen | `kundenstimmen/` | Quellen benannt (Sarah, 2026-11-05); Inhalte noch lesen |
-| — | Abschluss: Spielplan | `firma/spielplan.md` | offen |
+| — | Abschluss: Spielplan | `firma/spielplan.md` | Entwurf von Claude (2026-11-05), mit Sarah und Julez besprechen |
 
 ## Erledigt
 - Anleitung ins Deutsche übersetzt, Interview-Befehl `/second-brain-interview` und `/uebergabe` angelegt.
@@ -26,7 +26,7 @@
 
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
-- Interview starten.
+- ~~Interview starten.~~ Interview mit Sarah am 2026-11-05 komplett durchlaufen (Blöcke 0–11, K). Spielplan-Entwurf liegt vor.
 - Hinweis (2026-11-03): Block 0 enthält vertrauliche Zahlen, nur für Sarah und Julez. Wer Zugriff auf dieses Repository bekommt, sieht die Datei. Falls das Team später Zugriff erhält, vorher klären, wo vertrauliche Inhalte liegen sollen.
 - Klarstellung (Sarah, 2026-11-03): Brand Your Voice haben Sarah und Jana gegründet. Julez ist Sarahs Beraterin und Sparringspartnerin und gehört nicht zur Firma. Dieses Repository ist das gemeinsame Gedächtnis von Sarah und ihrer Beraterin Julez.
 - Material von Sarah gespeichert (2026-11-04): Brand Voice (`sprache/brand-voice.md`, Grundlage für Block 4), Guidelines (`firma/guidelines.md`), Setting-Skript (`vertrieb/setting-skript.md`, Grundlage für Block 7). Guidelines-PDF nicht im Repo, weil es Freigabe-Links zu Dropbox und OneDrive enthält.
