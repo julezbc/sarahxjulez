@@ -20,6 +20,7 @@ Wird beim Interview automatisch ergänzt.
 - [Angebot](angebot/angebot.md) — Block 3: Clear Words (4.397 €, 4 Monate), brandyourAI (7–9k, 7 Monate), Einstieg, Upsell (Sarah)
 
 ## Sprache
+- [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
 
 ## Vertrieb
