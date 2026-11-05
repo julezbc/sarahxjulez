@@ -22,3 +22,14 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 **Struktur:** Über ein Jahr lang hat eine HR-Unterstützung beim Onboarding, Offboarding, Recruiting und bei der Rollendefinition geholfen. Laut Sarah gibt es deshalb ein richtig gutes Fundament und viel Struktur, beim Team sind sie „total safe“.
 
 (Sarah, 2026-11-05)
+
+## Wer entscheidet was, ohne Sarah oder Jana zu fragen?
+
+- **Zuständigkeiten:** Das **Team ist Jana unterstellt**. **Marketing** verantwortet **Sarah**, sie ist mit dem **Media Buyer** im Austausch.
+- **Closerinnen** entscheiden **nicht allein** über Ratenzahlungen. Dafür gibt es ein festes, im Verkaufsprozess festgelegtes Konstrukt.
+- **Copywriterin:** Sarah arbeitet eng mit ihr zusammen. Wer freigibt, hängt von der Textart ab:
+  - **Newsletter und LinkedIn-Postings** liest Sarah inzwischen **nicht mehr gegen**.
+  - Sarah konzentriert sich auf **Podcast-Folgen und Instagram**. Daraus macht die Copywriterin per **Content-Recycling** die Inhalte für alle anderen Plattformen.
+- **Zusammenarbeit:** über **Asana** mit „richtig guten Workflows“. Entscheidungswege sind geklärt.
+
+(Sarah, 2026-11-05)
