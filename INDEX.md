@@ -26,6 +26,9 @@ Wird beim Interview automatisch ergänzt.
 ## Marketing
 - [Kanäle und Erfahrungen](marketing/kanaele-und-erfahrungen.md) — Block 6: Meta-Ads und Masterclass als Hauptweg, Tests, ungenutzte Kanäle (Sarah)
 
+## Team
+- [Team](team/team.md) — Block 9, in Arbeit (Sarah, vertraulich)
+
 ## Sprache
 - [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
