@@ -17,7 +17,7 @@ Wird beim Interview automatisch ergänzt.
 - [Wunschkunde](wunschkunde/wunschkunde.md) — Block 2: Zielgruppe A (Clear Words) und B (Unternehmerinnen, B2B), Passung und Ausschluss (Sarah)
 
 ## Angebot
-- [Angebot](angebot/angebot.md) — Block 3, in Arbeit: Clear Words (Sarah)
+- [Angebot](angebot/angebot.md) — Block 3: Clear Words (4.397 €, 4 Monate), brandyourAI (7–9k, 7 Monate), Einstieg, Upsell (Sarah)
 
 ## Sprache
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026

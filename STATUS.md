@@ -8,7 +8,7 @@
 | 0b | Profil Geschäftsführung | `profil-geschaeftsfuehrung.md` | erledigt (Sarah, 2026-11-03); kein weiteres Profil nötig |
 | 1 | Firma | `firma/profil.md` | Fragen erledigt (Sarah, 2026-11-03); Website und Bewertungen noch lesen |
 | 2 | Wunschkunde | `wunschkunde/wunschkunde.md` | erledigt (Sarah, 2026-11-05) |
-| 3 | Angebot | `angebot/angebot.md` | angefangen (Sarah, 2026-11-05) |
+| 3 | Angebot | `angebot/angebot.md` | erledigt (Sarah, 2026-11-05) |
 | 4 | Sprache | `sprache/tonfall.md` | offen |
 | 5 | Branchenregeln | `firma/branchenregeln.md` | offen |
 | 6 | Marketing | `marketing/kanaele-und-erfahrungen.md` | offen |

@@ -1,6 +1,6 @@
 # Block 3 — Angebot
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Angebot für Zielgruppe A: Clear Words – Schreib dich frei
 
@@ -51,3 +51,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 ## Was wird oft angefragt, das wir NICHT machen?
 
 „Eigentlich gar nichts. Also das passt.“ (Sarah, 2026-11-05)
+
+## Zusatzverkäufe an bestehende Kundinnen
+
+- **Verlängerung von Clear Words:** Teilnehmerinnen können das Mentoring verlängern.
+- **Upsell von Clear Words zu brandyourAI:** Wenn eine Clear-Words-Teilnehmerin schon Kundinnen gewonnen hat und Geld verdient, wird ihr brandyourAI angeboten.
+
+(Sarah, 2026-11-05)
