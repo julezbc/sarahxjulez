@@ -1,6 +1,6 @@
 # Block 8 — Leistung
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Nach der Unterschrift: Was passiert in welcher Reihenfolge?
 
@@ -33,6 +33,6 @@ _Anmerkungen (Claude):_
 ## Wiederkehrende Termine mit den Teilnehmerinnen
 
 - **Bis zu 3 Calls pro Woche**, Themen: **Strategie, Mindset, Q&A**
-- **brandyourAI:** genauso, plus ein zusätzlicher … _(Antwort brach ab, Fortsetzung folgt)_
+- **brandyourAI:** genauso, plus ein zusätzlicher **Technik-Call** (passt zum Technik- und KI-Schwerpunkt, z. B. Website und Mail-Automation nach Anleitung).
 
 (Sarah, 2026-11-05)
