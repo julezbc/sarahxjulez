@@ -1,6 +1,6 @@
 # Block 11 — Routinen
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Was wiederholt sich täglich, wöchentlich, monatlich?
 
@@ -24,5 +24,12 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 
 - Sarah **„tingelt manchmal schon zu viel auf Instagram rum“**.
 - Sonst frisst nichts „so krass“ Zeit. Sarah kann ihre Zeit gut steuern, und das Team übernimmt das meiste.
+
+(Sarah, 2026-11-05)
+
+## Was macht Sarah selbst, obwohl es jemand anderes machen könnte?
+
+- **Kaum noch etwas.** Die Rollen sind seit der HR-Unterstützung gut definiert.
+- **Bewusst selbst gemacht:** die **Instagram-Strategie**, also welche Postings rausgehen. Grund: Es ist Sarahs **Personal Brand**, und die will sie nicht voll und ganz an die Copywriterin abgeben.
 
 (Sarah, 2026-11-05)

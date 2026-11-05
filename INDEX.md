@@ -33,7 +33,7 @@ Wird beim Interview automatisch ergänzt.
 - [Programme und Daten](programme/systeme.md) — Block 10: Tools heute, AIOS-System, doppeltes Tracking (Sarah)
 
 ## Routinen
-- [Routinen](routinen/uebersicht.md) — Block 11, in Arbeit (Sarah)
+- [Routinen](routinen/uebersicht.md) — Block 11: feste Termine, Media Buyer ohne Routine, Zeitfresser (Sarah)
 
 ## Sprache
 - [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)
