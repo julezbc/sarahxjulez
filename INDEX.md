@@ -14,7 +14,7 @@ Wird beim Interview automatisch ergänzt.
 - [Guidelines Brand Your Voice](firma/guidelines.md) — Design, Mission, Vision, Avatar, Touchpoints, Tools (älterer Stand)
 
 ## Wunschkunde
-- [Wunschkunde](wunschkunde/wunschkunde.md) — Block 2, in Arbeit: zwei Zielgruppen, Avatar Zielgruppe A (Sarah)
+- [Wunschkunde](wunschkunde/wunschkunde.md) — Block 2: Zielgruppe A (Clear Words) und B (Unternehmerinnen, B2B), Passung und Ausschluss (Sarah)
 
 ## Sprache
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026

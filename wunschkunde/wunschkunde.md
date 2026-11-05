@@ -1,6 +1,6 @@
 # Block 2 — Wunschkunde
 
-_Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Zwei Zielgruppen
 
@@ -92,3 +92,7 @@ Zielgruppe A wäre eigentlich der einfachere Weg für das neue Angebot, aber die
 - Sie will sich **weiterentwickeln**.
 
 (Sarah)
+
+## Wann passt es bei Zielgruppe B nicht?
+
+- Wenn sie eine **Done-for-You-Lösung** erwartet. Brand Your Voice gibt ihr alles, was sie braucht, aber es ist **sehr viel Eigenverantwortung** gefragt. (Sarah, 2026-11-05)
