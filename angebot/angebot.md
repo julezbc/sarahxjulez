@@ -39,3 +39,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - Inhalte aus Block 2: Positionierung, Angebotserstellung (auch hochpreisig), Copywriting, Produkt oder Dienstleistung auf den Markt bringen, LinkedIn-Masterclass, Copywriting-Masterclass, KI-Teil
 
 (Sarah, 2026-11-05)
+
+## Häufigster Einstieg und größtes Paket
+
+- **Clear Words:** Einstieg über den **Evergreen-Funnel** (laut Setting-Skript: kostenlose Masterclass, dann Setter-Call, dann Strategiegespräch).
+- **Brand Your AI:** bisher nur **ein Launch**, 5 Tage live (das Webinar aus Block 0). Wie es weitergeht, ist noch offen. Im Januar …? _(Antwort brach ab, Fortsetzung folgt.)_
+
+(Sarah, 2026-11-05)
