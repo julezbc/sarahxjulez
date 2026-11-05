@@ -11,6 +11,7 @@ Wird beim Interview automatisch ergänzt.
 ## Firma
 - [Ziel und Engpass](firma/ziele-und-engpass.md) — Block 0: Stand, Ziel 2027, Engpässe, Prioritäten für 14 Tage (Sarah, vertraulich)
 - [Firmenprofil](firma/profil.md) — Block 1: Gründerinnen, Geschichte, Unterschied, Stolz (Sarah)
+- [Branchenregeln](firma/branchenregeln.md) — Block 5, in Arbeit: Recht, Versprechen, Pflichtangaben (Sarah)
 - [Guidelines Brand Your Voice](firma/guidelines.md) — Design, Mission, Vision, Avatar, Touchpoints, Tools (älterer Stand)
 
 ## Wunschkunde

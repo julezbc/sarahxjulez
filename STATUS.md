@@ -10,7 +10,7 @@
 | 2 | Wunschkunde | `wunschkunde/wunschkunde.md` | erledigt (Sarah, 2026-11-05) |
 | 3 | Angebot | `angebot/angebot.md` | erledigt (Sarah, 2026-11-05) |
 | 4 | Sprache | `sprache/tonfall.md` | erledigt (Sarah, 2026-11-05) |
-| 5 | Branchenregeln | `firma/branchenregeln.md` | offen |
+| 5 | Branchenregeln | `firma/branchenregeln.md` | angefangen (Sarah, 2026-11-05) |
 | 6 | Marketing | `marketing/kanaele-und-erfahrungen.md` | offen |
 | 7 | Vertrieb | `vertrieb/prozess-und-einwaende.md` | offen |
 | 8 | Leistung | `leistung/prozess.md` | offen |
