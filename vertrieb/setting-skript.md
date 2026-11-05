@@ -2,6 +2,8 @@
 
 _Quelle: PDF „Settingskript Mai 2026“, hochgeladen von Sarah am 2026-11-04 (Original: `docs/original/Settingskript_Mai_2026.pdf`). Hier zusammengefasst; Wortlaut der Formulierungen im Original._
 
+> **Ergänzung (Sarah, 2026-11-05):** Das Strategiegespräch führen heute die **Closerinnen**, nicht mehr Sarah und Jana. Wo im Skript „mit Jana oder Sarah“ steht, ist das veraltet.
+
 ## Grundhaltung
 
 - Am Anfang die Leute lieber „durchlassen“, um gemeinsam ein Gefühl zu entwickeln, wer in die Closing Calls kommt.

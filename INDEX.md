@@ -28,6 +28,7 @@ Wird beim Interview automatisch ergänzt.
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
 
 ## Vertrieb
+- [Prozess und Einwände](vertrieb/prozess-und-einwaende.md) — Block 7, in Arbeit (Sarah)
 - [Setting-Skript](vertrieb/setting-skript.md) — Ablauf und Qualifizierung im Setter-Call, Stand Mai 2026
 
 ## Notizen
