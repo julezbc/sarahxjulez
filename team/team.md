@@ -17,6 +17,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **Media Buyer**: Meta-Ads
 - **Persönliche Assistenz**
 - **KI: André**: KI-Betreuung, Automationen und Ähnliches
+- **Technik: René**: gehört mit zum Team und baut mit André das eigene Automations-System (Ergänzung aus Block 10, 2026-11-05)
 - **Webdesign**: unterstützt bei Bedarf
 
 **Struktur:** Über ein Jahr lang hat eine HR-Unterstützung beim Onboarding, Offboarding, Recruiting und bei der Rollendefinition geholfen. Laut Sarah gibt es deshalb ein richtig gutes Fundament und viel Struktur, beim Team sind sie „total safe“.

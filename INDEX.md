@@ -29,6 +29,9 @@ Wird beim Interview automatisch ergänzt.
 ## Team
 - [Team](team/team.md) — Block 9: Rollen, Zuständigkeiten, Freigaben, Vertretung (Sarah, vertraulich)
 
+## Programme
+- [Programme und Daten](programme/systeme.md) — Block 10, in Arbeit (Sarah)
+
 ## Sprache
 - [Tonfall](sprache/tonfall.md) — Block 4: Du, Unterschriften, No-Go-Wörter (Sarah)
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
