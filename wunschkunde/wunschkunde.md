@@ -12,6 +12,10 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 
 **Problem und Motiv (Sarah, 2026-11-04):** „Der Klassiker“: Sie will mehr vom Leben und ist unglücklich. Sie ist im Job nicht erfüllt, hat nicht viel Geld und wünscht sich mehr Freiheit und Unabhängigkeit.
 
+**Berufe vorher (Sarah, 2026-11-05):** „Alles Mögliche“, zum Beispiel Verkäuferin, Physiotherapeutin, Polizistin, Ärztin.
+
+**Warum sie sich für Brand Your Voice entscheiden (Sarah):** Was immer wieder genannt wird, sind **Vertrauen** und **Sympathie**. Viele kennen Sarah und Jana schon vorher, zum Beispiel aus dem **Podcast** „Clear Words to go“ oder von **Instagram**. _(Antwort brach ab bei „…oder kennen uns“, Fortsetzung folgt.)_
+
 **Avatar laut Guidelines** (Quelle: `firma/guidelines.md`, älterer Stand, ohne Datum):
 - Weiblich, 25–45 Jahre. Die Brand Voice vom 01.10.2026 nennt 25–55 für die Zielgruppe insgesamt.
 - Wünscht sich Selbstbestimmung und Unabhängigkeit, will frei über ihre Zeit verfügen, reisen, auswandern oder ortsunabhängig werden.
