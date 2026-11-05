@@ -46,3 +46,11 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 (Sarah)
 
 _Für Zielgruppe B gibt es noch keinen ausgearbeiteten Avatar in den Unterlagen._
+
+## Welche Kundin würden wir nie wieder annehmen, und warum? (Zielgruppe A)
+
+- **Frauen, die kein Geld haben.** Es gibt zwar feste Ratenzahlungsoptionen, trotzdem passt es dann nicht.
+- **Frauen, die schon im Erstkontakt auffällig sind**, also im Setting oder im Closing.
+- Laut Sarah sortiert das Vertriebssystem solche Frauen inzwischen gut vorher aus.
+
+(Sarah, 2026-11-05)
