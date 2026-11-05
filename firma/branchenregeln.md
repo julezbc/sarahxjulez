@@ -19,3 +19,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - **Zu klären mit den Anwälten:** Wurde ausdrücklich geprüft, ob Clear Words und brandyourAI unter das Fernunterrichtsschutzgesetz (FernUSG) fallen, gerade mit Blick auf Widerrufe und Rückforderungen? Claude hat die aktuelle Rechtslage nicht nachgeprüft.
 
 (Sarah, 2026-11-05)
+
+## Was gehört unter jede E-Mail und auf jede Rechnung?
+
+- Rechnungen wurden **mit den Anwälten erstellt**, „das ist auch safe“. Laut Sarah passt alles. (Sarah, 2026-11-05)
+- Die genauen Pflichtangaben (Firmenname, Rechtsform, Sitz, Register, Steuerhinweise) sind hier noch nicht hinterlegt.
