@@ -1,6 +1,6 @@
 # Block 7 — Vertrieb
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Von der Anfrage bis zum Auftrag
 
@@ -33,3 +33,12 @@ Laut Sarah „die Klassiker“:
 **Warum diese Einwände so oft kommen (Sarah):** Brand Your Voice holt die Frauen über Keywords ab. Viele stehen in ihrer **Bewusstseinsstufe** noch an einem ganz anderen Punkt und haben **Angst, zum ersten (oder zweiten) Mal in sich zu investieren**.
 
 (Sarah, 2026-11-05)
+
+## Warum scheitern Abschlüsse?
+
+1. **Geld**, eindeutig die **Nummer 1**.
+2. **Angst** ist auch ein Punkt, lässt sich in den Calls aber meist gut klären.
+
+(Sarah, 2026-11-05)
+
+_Zusammenhang (Claude): Geld als Hauptgrund zieht sich durch Block 0 (Leads ohne Budget), Block 2 (Zielgruppe A hat oft kein Geld, deshalb B2B) und Block 7. Im Setting-Skript wird das Budget erst in Schritt 7 abgefragt. Ansatzpunkte für den Spielplan: Budget früher im Funnel klären (Ads, Masterclass, Buchungsformular) und Zielgruppe B mit vorhandenem Umsatz stärken._
