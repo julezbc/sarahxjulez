@@ -25,15 +25,15 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 
 (Sarah, 2026-11-05)
 
-## Angebot für Zielgruppe B: Brand Your AI
+## Angebot für Zielgruppe B: brandyourAI
 
-- **Name:** Brand Your AI (Schreibweise laut Spracheingabe, bitte bestätigen)
+- **Name:** brandyourAI (Schreibweise von Sarah bestätigt, 2026-11-05)
 - **Dauer:** 7 Monate Begleitung
 - **Preis:** Start mit **7.000 €**, geplant ist eine Erhöhung auf **9.000 €** (Angaben von Sarah; brutto oder netto noch offen)
 - **Format:** Im Grunde ist alles von Clear Words drin, nur **intensiver**. **Keine 1:1-Begleitung.**
 - **Zusätzlich zu Clear Words:**
   - mehr **Technik** und **KI**
-  - **Website:** Die Teilnehmerinnen bauen sie selbst, Brand Your AI gibt die **Anleitung**.
+  - **Website:** Die Teilnehmerinnen bauen sie selbst, brandyourAI gibt die **Anleitung**.
   - **Automation** für Reminder- und Follow-up-E-Mails: ebenfalls **Anleitung**, umsetzen tun sie selbst.
   - **Kein Done-for-You:** „Wir geben halt nur Anleitung, aber machen müssen die alles selber.“ (Sarah, nachgefragt)
 - Inhalte aus Block 2: Positionierung, Angebotserstellung (auch hochpreisig), Copywriting, Produkt oder Dienstleistung auf den Markt bringen, LinkedIn-Masterclass, Copywriting-Masterclass, KI-Teil
@@ -43,6 +43,6 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 ## Häufigster Einstieg und größtes Paket
 
 - **Clear Words:** Einstieg über den **Evergreen-Funnel** (laut Setting-Skript: kostenlose Masterclass, dann Setter-Call, dann Strategiegespräch).
-- **Brand Your AI:** bisher nur **ein Launch**, 5 Tage live (das Webinar aus Block 0). Wie es weitergeht, ist noch offen. Im Januar …? _(Antwort brach ab, Fortsetzung folgt.)_
+- **brandyourAI:** bisher nur **ein Launch**, 5 Tage live (das Webinar aus Block 0). Wie es weitergeht, ist noch offen. Im Januar …? _(Antwort brach ab, Fortsetzung folgt.)_
 
 (Sarah, 2026-11-05)
