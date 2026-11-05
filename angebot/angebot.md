@@ -24,3 +24,17 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - Laut Sarah: „Alles ist im Grunde mit drin.“
 
 (Sarah, 2026-11-05)
+
+## Angebot für Zielgruppe B: Brand Your AI
+
+- **Name:** Brand Your AI (Schreibweise laut Spracheingabe, bitte bestätigen)
+- **Dauer:** 7 Monate Begleitung
+- **Preis:** Start mit **7.000 €**, geplant ist eine Erhöhung auf **9.000 €** (Angaben von Sarah; brutto oder netto noch offen)
+- **Format:** Im Grunde ist alles von Clear Words drin, nur **intensiver**. **Keine 1:1-Begleitung.**
+- **Zusätzlich zu Clear Words:**
+  - mehr **Technik** und **KI**
+  - **Website:** wird für die Teilnehmerinnen erstellt (laut Spracheingabe „wir stellen sie ihre Website“, siehe Nachfrage)
+  - **Automation** für Reminder-Mails und Follow-up-E-Mails wird erstellt
+- Inhalte aus Block 2: Positionierung, Angebotserstellung (auch hochpreisig), Copywriting, Produkt oder Dienstleistung auf den Markt bringen, LinkedIn-Masterclass, Copywriting-Masterclass, KI-Teil
+
+(Sarah, 2026-11-05)
