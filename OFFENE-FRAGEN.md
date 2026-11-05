@@ -13,3 +13,4 @@ _(noch keine)_
 - [Block 3] Clear Words: Wer gibt die Impulse zu den Texten (Sarah, Jana, Copywriterin)? Gibt es das Praxismodul mit fiktiven Unternehmen noch? Ist der Preis von 4.397 € brutto oder netto? — eingetragen von Claude für Sarah, 2026-11-05
 - [Block 6 / Spielplan] Live-Launch brandyourAI im Januar: Was wird anders als beim ersten Launch, der „semi“ lief, weil die neue Zielgruppe zu wenig Vertrauen hatte? — eingetragen von Claude für Sarah, 2026-11-05
 - [Block 3] Verlängerung Clear Words: Wie lange und zu welchem Preis? Wie viele Teilnehmerinnen sind bisher von Clear Words zu brandyourAI gewechselt? — eingetragen von Claude für Sarah, 2026-11-05
+- [Block 5] Mit den Anwälten klären: Fallen Clear Words und brandyourAI unter das FernUSG (ohne ZFU-Zulassung)? Gibt es eine schriftliche Einschätzung? — eingetragen von Claude für Sarah, 2026-11-05
