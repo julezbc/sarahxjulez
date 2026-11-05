@@ -15,3 +15,16 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 „Relativ easy.“ (Sarah, 2026-11-05)
 
 _Hinweis: In den älteren Guidelines steht Memberspot als Mitgliederbereich. Heute läuft die Plattform über die **Learning Suite**._
+
+## Wo hakt es?
+
+Laut Sarah hakt es nicht an der Begleitung selbst, sondern an **bestimmten Menschentypen**:
+- **Abtauchen:** Manche starten voller Motivation, danach hört man gefühlt nichts mehr von ihnen. Weil das Mentoring stark auf **Eigenverantwortung** setzt, ist das für Sarah „eigentlich fein“.
+- **Widerrufe:** Manchmal sind Teilnehmerinnen nach dem Start **knapp bei Kasse** und widerrufen.
+- Dahinter stehen Menschen, die **Verantwortung abgeben** und nicht weitermachen, „wenn es ein bisschen unbequem wird“.
+
+(Sarah, 2026-11-05)
+
+_Anmerkungen (Claude):_
+- _In den älteren Guidelines steht als Wertversprechen: „Wir haken nach, wenn es still wird“ und „Sie möchten an die Hand genommen werden“. Das passt nicht ganz zu „Abtauchen ist fein, Eigenverantwortung“. Klären, was heute versprochen wird, damit Verkauf und Begleitung zusammenpassen._
+- _Widerrufe wegen Geld hängen mit dem Kernengpass Budget zusammen (siehe Block 7)._

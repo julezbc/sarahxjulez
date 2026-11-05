@@ -15,3 +15,4 @@ _(noch keine)_
 - [Block 3] Verlängerung Clear Words: Wie lange und zu welchem Preis? Wie viele Teilnehmerinnen sind bisher von Clear Words zu brandyourAI gewechselt? — eingetragen von Claude für Sarah, 2026-11-05
 - [Block 5] Mit den Anwälten klären: Fallen Clear Words und brandyourAI unter das FernUSG (ohne ZFU-Zulassung)? Gibt es eine schriftliche Einschätzung? — eingetragen von Claude für Sarah, 2026-11-05
 - [Block 6] Zahlen aus dem Tracking- und Reporting-Sheet nachtragen (Masterclass-Anmeldungen, Setter-Calls, Strategiegespräche, Abschlüsse pro Monat, Werbebudget, Kosten pro Lead). Sarah schickt das Sheet an Julez. Beim Hochladen ins Repo keine Kontaktdaten von Leads oder Kundinnen. — eingetragen von Claude für Sarah, 2026-11-05
+- [Block 8] Wird Teilnehmerinnen, die abtauchen, heute aktiv nachgegangen (Guidelines: „wir haken nach, wenn es still wird“)? Was wird im Verkauf dazu versprochen? — eingetragen von Claude für Sarah, 2026-11-05
