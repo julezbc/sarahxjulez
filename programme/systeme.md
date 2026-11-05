@@ -16,6 +16,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 | Mentoring-Plattform | **Learning Suite** | ersetzt Memberspot |
 | Website | **WordPress**, **WebGo** | WebGo auch für E-Mail |
 | Geschäftskonto | **Wise** | |
+| Zahlungsabwicklung | **eigene Formulare** | mit den Anwälten angelegt, „abgehakt“ (Sarah, 2026-11-05) |
 | Podcast | wie in den Guidelines (Riverside, Podigee, Audacity, Adobe Podcast) | „das passt auch“ |
 | Tracking und Reporting | **Google Sheets** und **Excel** | Tracking- und Reporting-Sheet |
 | Automationen und mehr | **AIOS-System** (eigene Plattform) | bauen André und René, ersetzt Zapier |

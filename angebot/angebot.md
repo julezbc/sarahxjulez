@@ -5,7 +5,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 ## Angebot für Zielgruppe A: Clear Words – Schreib dich frei
 
 - **Nur noch ein Programm.** Die drei Stufen aus den Guidelines gibt es nicht mehr.
-- **Preis:** 4.397 € (Angabe von Sarah; ob brutto oder netto, ist noch offen)
+- **Preis:** 4.397 €. **Brutto gleich netto**, weil Brand Your Voice eine LLC ist. Bei **Ratenzahlung** kommt ein Aufschlag dazu. (Sarah, 2026-11-05)
 - **Begleitung:** 4 Monate
 - **Zugriff auf die Plattform:** 12 Monate
 - **Ratenzahlung:** Es gibt feste Ratenzahlungsoptionen (aus Block 2).
@@ -29,7 +29,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 - **Name:** brandyourAI (Schreibweise von Sarah bestätigt, 2026-11-05)
 - **Dauer:** 7 Monate Begleitung
-- **Preis:** Start mit **7.000 €**, geplant ist eine Erhöhung auf **9.000 €** (Angaben von Sarah; brutto oder netto noch offen)
+- **Preis:** Start mit **7.000 €**, geplant ist eine Erhöhung auf **9.000 €** (Angaben von Sarah; brutto gleich netto, LLC)
+- **Teilnehmerinnen bisher:** etwa **8**, alle **neu eingestiegen**, keine von Clear Words gewechselt (Sarah, „ich glaube, das waren 8“, 2026-11-05)
 - **Format:** Im Grunde ist alles von Clear Words drin, nur **intensiver**. **Keine 1:1-Begleitung.**
 - **Zusätzlich zu Clear Words:**
   - mehr **Technik** und **KI**
@@ -54,7 +55,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Zusatzverkäufe an bestehende Kundinnen
 
-- **Verlängerung von Clear Words:** Teilnehmerinnen können das Mentoring verlängern.
-- **Upsell von Clear Words zu brandyourAI:** Wenn eine Clear-Words-Teilnehmerin schon Kundinnen gewonnen hat und Geld verdient, wird ihr brandyourAI angeboten.
+- **Verlängerung von Clear Words:** Teilnehmerinnen können das Mentoring verlängern, für etwa **500 € im Monat** (Sarah: „glaube ich“, 2026-11-05).
+- **Upsell von Clear Words zu brandyourAI:** Wenn eine Clear-Words-Teilnehmerin schon Kundinnen gewonnen hat und Geld verdient, wird ihr brandyourAI angeboten. **Bisher ist noch keine gewechselt.** (Sarah, 2026-11-05)
 
 (Sarah, 2026-11-05)

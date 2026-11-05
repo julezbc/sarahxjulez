@@ -19,7 +19,7 @@ Noch nicht gelesen: Die Cloud-Sitzung durfte am 2026-11-03 nicht auf diese Seite
 
 _In Sarahs Worten zusammengefasst:_
 
-- **Ausgangspunkt:** Sarah ist Ergotherapeutin von Beruf. Danach hat sie Psychologie bzw. Wirtschaftspsychologie studiert (Bachelor und Master).
+- **Ausgangspunkt:** Sarah ist Ergotherapeutin von Beruf. Danach hat sie **Wirtschaftspsychologie** studiert (Sarah, 2026-11-05).
 - **Angestellt:** Sie war in typischen Angestelltenjobs, auch als Führungskraft. Dann hat sie gemerkt: „Das ist es nicht im Leben.“ Sie wollte nicht nur funktionieren, sondern das Leben wirklich leben.
 - **Einstieg in die Online-Welt:** Sie hat ein Mentoring gemacht und ist als **Copywriterin** eingestiegen, zuerst als Dienstleisterin.
 - **Die Vision:** Sie hat gespürt, dass sie wirklich etwas in der Welt bewegen und **Frauen empowern** will.

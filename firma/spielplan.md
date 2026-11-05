@@ -29,7 +29,7 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 
 **Worum es geht:**
 - **Wofür ist Brand Your Voice bekannt?** Heute stehen mehrere Bilder nebeneinander: in den Guidelines das „beste Copywriting-Mentoring auf dem deutschen Markt“, in Sarahs Kopf Clear Mind, Clear Words, Clear Voice und KI, dazu „Vorreiterin für KI für Frauen“.
-- **Wie gehören A und B zusammen?** Vorschlag zum Prüfen: nicht zwei getrennte Welten, sondern **eine Leiter**. Clear Words ist der Einstieg (Copywriting-Business aufbauen), brandyourAI der nächste Schritt (Business mit Positionierung, Hochpreis-Angebot und KI auf die Straße bringen). Der Upsell von Absolventinnen, die schon verdienen, gibt es heute schon (Block 3).
+- **Wie gehören A und B zusammen?** Vorschlag zum Prüfen: nicht zwei getrennte Welten, sondern **eine Leiter**. Clear Words ist der Einstieg (Copywriting-Business aufbauen), brandyourAI der nächste Schritt (Business mit Positionierung, Hochpreis-Angebot und KI auf die Straße bringen). Den Upsell für Absolventinnen, die schon verdienen, gibt es auf dem Papier schon (Block 3). **Bisher ist aber noch keine gewechselt.** Die etwa 8 Teilnehmerinnen von brandyourAI sind alle neu eingestiegen (Sarah, 2026-11-05). Die Leiter ist also angelegt, wird aber noch nicht genutzt.
 - **Ist das zu breit?** Diese Frage hat Sarah selbst gestellt. Einschätzung: Die vier Themen sind als **Methode** stark (Mindset, Texte, Auftritt, KI greifen ineinander). Als **Positionierung** brauchen sie einen gemeinsamen Nenner, den eine Frau in einem Satz versteht. „Copywriting 2.0: erst Psychologie und Strategie, dann KI“ steht schon in eurer Brand Voice und wäre ein Kandidat.
 
 **Challenge:** Sarah lässt sich nach eigenen Worten gern von Ideen anfixen. Positionierung kann ewig dauern. Deshalb mit **Frist**: Die Entscheidung für Zielgruppe B sollte stehen, **bevor die Texte für den Januar-Launch geschrieben werden**, also spätestens Anfang Dezember. Den genauen Termin legen Sarah und Julez fest.
@@ -50,7 +50,7 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 **Warum:** Ein Verkauf bringt etwa 1,6- bis 2-mal so viel Umsatz wie Clear Words (7.000 bzw. 9.000 € gegenüber 4.397 €). Die Zielgruppe hat Budget, und das Gruppenformat ohne 1:1 skaliert gut.
 
 **Worum es geht:**
-- **Januar-Launch zuerst an die warme Zielgruppe:** Clear-Words-Absolventinnen, die schon Kundinnen haben, dazu Podcast-Hörerinnen, Newsletter und LinkedIn-Kontakte. Das sind Frauen, die euch schon vertrauen. Genau das hat beim ersten Launch gefehlt.
+- **Januar-Launch zuerst an die warme Zielgruppe:** Clear-Words-Absolventinnen, die schon Kundinnen haben (bisher ist keine gewechselt, hier liegt also ungenutztes Potenzial), dazu Podcast-Hörerinnen, Newsletter und LinkedIn-Kontakte. Das sind Frauen, die euch schon vertrauen. Genau das hat beim ersten Launch gefehlt.
 - **Vertrauen vor dem Launch aufbauen:** die erste Erfolgsgeschichte aus brandyourAI (die Teilnehmerin mit Social Media, ersten Paketen und erstem Webinar) als Case Study, Podcast-Folgen zum Thema, vielleicht Gastauftritte.
 - **Preis auf 9.000 €:** Das passt zum Hebel. Aber erst, wenn Positionierung und Erfolgsbeispiele den höheren Preis tragen.
 - **Mittelfristig 2027:** **Bühnen, Presse, Podcast-Gastauftritte und Netzwerk** zahlen genau auf diese Zielgruppe ein. Eine Unternehmerin kauft ein Mentoring für 9.000 € eher von jemandem, den sie auf einer Bühne erlebt hat. Das ist der richtige Ort für Sarahs Sichtbarkeitswünsche aus dem Dokument an Julez (Keynotes, Events, Presse, Buch).
@@ -82,7 +82,7 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 
 - **Klumpenrisiko Meta:** fast alle Leads aus einem Kanal.
 - **Sarah als Engpass:** Strategie, Instagram, Gruppencalls und das Gesicht der Marke hängen an ihr. Bei mehr Wachstum wird das mehr.
-- **Rechtliches:** Mit den Anwälten klären, ob das FernUSG für Clear Words und brandyourAI geprüft ist (keine ZFU-Zulassung). Das hängt auch mit Widerrufen zusammen.
+- **Rechtliches:** Das FernUSG ist laut Sarah mit den Anwälten geprüft, bleibt aber „Auslegungssache“ (keine ZFU-Zulassung). Die Rechtsprechung im Blick behalten, gerade wegen der Widerrufe.
 
 ## Vorschlag: Woran merken wir nach drei Monaten, ob es wirkt?
 

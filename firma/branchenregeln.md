@@ -16,7 +16,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 - **Keine ZFU-Zulassung** (Staatliche Zentralstelle für Fernunterricht).
 - Laut Sarah ist das Mentoring „mit entsprechenden Anwälten“ abgestimmt. _(Satz brach ab.)_
-- **Zu klären mit den Anwälten:** Wurde ausdrücklich geprüft, ob Clear Words und brandyourAI unter das Fernunterrichtsschutzgesetz (FernUSG) fallen, gerade mit Blick auf Widerrufe und Rückforderungen? Claude hat die aktuelle Rechtslage nicht nachgeprüft.
+- **FernUSG:** Laut Sarah haben die Anwälte das **geprüft** („im Grunde ja“). Das Programm wurde mit ihnen aufgebaut, „es ist natürlich immer alles Auslegungssache“. (Sarah, 2026-11-05)
 
 (Sarah, 2026-11-05)
 
