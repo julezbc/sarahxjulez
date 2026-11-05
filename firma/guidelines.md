@@ -31,6 +31,7 @@ _Quelle: PDF „Guidelines Brand your Voice“ (26 Seiten, ohne Datum), hochgela
 - **A:** Null Plan, wie sie sich ihre Wünsche erfüllt, wie sie ein Copywriting-Business aufbaut, wo sie beginnt.
 - **Z:** stabiles Mindset, glaubt an sich, eigenes Copywriting-Business und damit mehr finanzielle, örtliche und zeitliche Freiheit.
 - Es gibt **drei Stufen des Mentorings**, die nicht aufeinander aufbauen. Sie unterscheiden sich darin, wie lange und intensiv die Betreuung ist.
+  - _Ergänzung (Sarah, 2026-11-05): veraltet. Es gibt nur noch ein Programm, siehe `angebot/angebot.md`._
 
 ## Wahrgenommener Wert: Warum sie uns vertrauen und kaufen
 
