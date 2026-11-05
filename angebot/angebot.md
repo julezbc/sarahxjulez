@@ -43,6 +43,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 ## Häufigster Einstieg und größtes Paket
 
 - **Clear Words:** Einstieg über den **Evergreen-Funnel** (laut Setting-Skript: kostenlose Masterclass, dann Setter-Call, dann Strategiegespräch).
-- **brandyourAI:** bisher nur **ein Launch**, 5 Tage live (das Webinar aus Block 0). Wie es weitergeht, ist noch offen. Im Januar …? _(Antwort brach ab, Fortsetzung folgt.)_
+- **brandyourAI:** bisher nur **ein Launch**, 5 Tage live (das Webinar aus Block 0). **Im Januar** ist wieder ein **Live-Launch** geplant. (Sarah)
+- **Größtes Paket:** brandyourAI (7 Monate, 7.000 €, geplant 9.000 €).
 
 (Sarah, 2026-11-05)
