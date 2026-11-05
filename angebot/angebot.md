@@ -47,3 +47,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - **Größtes Paket:** brandyourAI (7 Monate, 7.000 €, geplant 9.000 €).
 
 (Sarah, 2026-11-05)
+
+## Was wird oft angefragt, das wir NICHT machen?
+
+„Eigentlich gar nichts. Also das passt.“ (Sarah, 2026-11-05)
