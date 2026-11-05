@@ -1,6 +1,6 @@
 # Block 9 — Team
 
-_Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
+_Stand: 2026-11-05 · Antworten von: Sarah_
 
 > Vertraulich wie Block 0: nur für Sarah und Julez.
 
@@ -31,5 +31,13 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
   - **Newsletter und LinkedIn-Postings** liest Sarah inzwischen **nicht mehr gegen**.
   - Sarah konzentriert sich auf **Podcast-Folgen und Instagram**. Daraus macht die Copywriterin per **Content-Recycling** die Inhalte für alle anderen Plattformen.
 - **Zusammenarbeit:** über **Asana** mit „richtig guten Workflows“. Entscheidungswege sind geklärt.
+
+(Sarah, 2026-11-05)
+
+## Wer gibt frei, was nach außen geht, und wer vertritt?
+
+- **Freigabe:** siehe oben. Sarah gibt Podcast und Instagram frei, Newsletter und LinkedIn laufen über die Copywriterin.
+- **Vertretung:** Es gibt **Vertretungsregelungen**, „alles geklärt“.
+- Sarah selbst macht **keinen Urlaub** („Ich brauche keinen Urlaub“) und arbeitet nicht 8 Stunden am Tag.
 
 (Sarah, 2026-11-05)
