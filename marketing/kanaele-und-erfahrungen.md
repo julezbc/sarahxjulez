@@ -21,3 +21,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
   - _Hinweis:_ In den älteren Guidelines stehen TikTok und Pinterest noch als Kanäle. Laut Sarah wurden sie nicht wirklich genutzt.
 
 (Sarah, 2026-11-05)
+
+## Wofür geben wir Geld aus, und wissen wir, was es bringt?
+
+**Steht im Tracking- und Reporting-Sheet** (Werbebudget, Kosten, Kosten pro Lead und Abschluss). Wird nachgetragen, sobald das Sheet vorliegt. (Sarah, 2026-11-05)
