@@ -33,7 +33,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Block in Arbeit_
 - **Format:** Im Grunde ist alles von Clear Words drin, nur **intensiver**. **Keine 1:1-Begleitung.**
 - **Zusätzlich zu Clear Words:**
   - mehr **Technik** und **KI**
-  - **Website:** Die Teilnehmerinnen bauen sie selbst, brandyourAI gibt die **Anleitung**.
+  - **Website:** Die Teilnehmerinnen bauen sie selbst, Brand Your Voice gibt die **Anleitung**.
   - **Automation** für Reminder- und Follow-up-E-Mails: ebenfalls **Anleitung**, umsetzen tun sie selbst.
   - **Kein Done-for-You:** „Wir geben halt nur Anleitung, aber machen müssen die alles selber.“ (Sarah, nachgefragt)
 - Inhalte aus Block 2: Positionierung, Angebotserstellung (auch hochpreisig), Copywriting, Produkt oder Dienstleistung auf den Markt bringen, LinkedIn-Masterclass, Copywriting-Masterclass, KI-Teil
