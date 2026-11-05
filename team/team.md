@@ -12,10 +12,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 **Team** (alle **Freelancerinnen über die LLC**, die meisten davon **Vollzeit** für Brand Your Voice, keine klassische Agentur):
 - **Copywriterin: Julia** (Name aus Block 11, 2026-11-05)
-- **2 Setterinnen**: Setting-Gespräche, siehe `vertrieb/setting-skript.md`
-- **2 Closerinnen**: Closing-Gespräche, siehe `vertrieb/prozess-und-einwaende.md`
+- **2 Setterinnen: Laura und Kayla**: Setting-Gespräche, siehe `vertrieb/setting-skript.md` (Namen bestätigt von Sarah, 2026-11-05)
+- **2 Closerinnen: Sandra und Lydia**: Closing-Gespräche, siehe `vertrieb/prozess-und-einwaende.md` (bestätigt von Sarah, 2026-11-05)
 - **Media Buyer**: Meta-Ads
-- **Persönliche Assistenz**
+- **Persönliche Assistenz / Executive Assistant: Katrin** (bestätigt von Sarah, 2026-11-05)
 - **KI: André**: KI-Betreuung, Automationen und Ähnliches
 - **Technik: René**: gehört mit zum Team und baut mit André das eigene Automations-System (Ergänzung aus Block 10, 2026-11-05)
 - **Webdesign**: unterstützt bei Bedarf
@@ -48,4 +48,4 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Team laut Website (2026-11-05)
 
-Namen und Rollen laut https://brandyourvoice.de/about/, siehe `firma/website-stand-2026-11.md`. Welche Person welche Rolle aus dem Interview hat (z. B. welche Setterinnen und Closerinnen), ist noch nicht bestätigt. Vermutung: Laura und Kayla führen die Erstgespräche (Setting), Vera das Strategiegespräch (Closing), Katrin ist die Executive Assistant (PA), Sharon eine der Mentorinnen.
+Namen und Rollen laut https://brandyourvoice.de/about/, siehe `firma/website-stand-2026-11.md`. Welche Person welche Rolle aus dem Interview hat (z. B. welche Setterinnen und Closerinnen), ist noch nicht bestätigt. **Bestätigt (Sarah, 2026-11-05):** Laura und Kayla machen das Setting, Sandra und Lydia das Closing, Katrin ist Executive Assistant. **Vera ist nicht mehr dabei**, steht aber noch auf der Website. Offen: Ist Annabelle (HR) noch dabei? Sharon ist laut Website Mentorin.
