@@ -47,6 +47,17 @@ _Stand: 2026-11-03 · Antworten von: Sarah · Block in Arbeit_
 
 _Für Zielgruppe B gibt es noch keinen ausgearbeiteten Avatar in den Unterlagen._
 
+**Ergänzung (Sarah, 2026-11-05):**
+- Die Frauen sind schon selbstständig und haben ein Unternehmen, **„bringen aber ihre PS nicht auf die Straße“**.
+- Das Angebot für sie ist ein klassisches Mentoring, das tiefer geht:
+  - **Positionierung**
+  - **Angebotserstellung**, auch für ein **hochpreisiges Angebot**
+  - **Copywriting**
+  - Produkt oder Dienstleistung entwickeln und auf den Markt bringen
+  - enthalten sind eine **LinkedIn-Masterclass**, eine **Copywriting-Masterclass** und ein **KI-Teil**
+
+_Details zum Angebot kommen in Block 3._
+
 ## Welche Kundin würden wir nie wieder annehmen, und warum? (Zielgruppe A)
 
 - **Frauen, die kein Geld haben.** Es gibt zwar feste Ratenzahlungsoptionen, trotzdem passt es dann nicht.
