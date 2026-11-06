@@ -62,3 +62,9 @@ _Erste Einordnung (Claude, 2026-11-06), für das Audit mit Julez:_
 - _**Möglicher roter Faden:** Fast alles kreist um **Selbstbestimmung statt Fremdsteuerung**, also eigene Gedanken, eigene Worte, eigenes Geld, eigenes Business und KI selbst führen. Auf der Website steht das schon: „Raus aus fremden Systemen. Rein in dein eigenes.“ Das könnte die Klammer sein, die Clear Mind, Clear Words, Clear Voice und KI verbindet (offene Frage: „zu breit?“)._
 - _**„Ausgelutscht?“** Die Wörter Mindset und Empowerment sind abgenutzt. Sarahs Blickwinkel ist es nicht: die eigene Geschichte, „beides“ statt entweder oder (Strategie und Intuition, Wissenschaft und Spiritualität, stark und weich), Klartext gegen People-Pleasing._
 - _**Bewusst entscheiden, was öffentlich wird:** Sarah will ihre private Haltung zu Gesundheit und Politik vorerst nicht nach außen tragen. Für das Audit trotzdem einmal klären, wie viel davon in Haltung und Content durchscheinen soll. Das betrifft die B2B-Zielgruppe, Werbeanzeigen und die Regel „keine Heilversprechen“ (Block 5). Das ist eine strategische Frage, keine Bewertung der Ansichten._
+
+## Was sollen Menschen nach einer Keynote über Sarah sagen? (Sarah, 2026-11-06)
+
+- „**Mitreißend. Lebensverändernd.**“
+- Der Kern: für **Aha-Momente** sorgen. „Das ist so ganz tief in mir: Leben zu verändern, positiv natürlich.“
+- Ein **Wow-Effekt**, und mindestens **ein Key-Takeaway**, den die Menschen „im Herzen mittragen“.
