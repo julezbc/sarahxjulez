@@ -10,6 +10,7 @@ Wird beim Interview automatisch ergänzt.
 
 ## Firma
 - [Ziel und Engpass](firma/ziele-und-engpass.md) — Block 0: Stand, Ziel 2027, Engpässe, Prioritäten für 14 Tage (Sarah, vertraulich)
+- [**Ziele für 3 Monate (Nov 2026 bis Feb 2027)**](firma/ziele-3-monate.md) — verbindlich beschlossen am 05.11.: Klarheit, Brand Your Voice, Personal Brand (Sarah und Julez, vertraulich)
 - [Spielplan](firma/spielplan.md) — 3 Hebel, Reihenfolge, 3 schnelle Erfolge (Entwurf, vertraulich)
 - [Website-Stand 2026-11](firma/website-stand-2026-11.md) — was die Website sagt, Team laut Website, Abweichungen zum Interview
 - [Firmenprofil](firma/profil.md) — Block 1: Gründerinnen, Geschichte, Unterschied, Stolz (Sarah)

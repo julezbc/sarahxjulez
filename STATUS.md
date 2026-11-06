@@ -30,6 +30,8 @@
 
 - Onboarding-Call Sarah & Julez (05.11.2026) gespeichert: Transkript `notizen/2026-11-05-onboarding-call-transkript.md`, To-dos `notizen/2026-11-05-todos-onboarding-call.md`; Entscheidungen und offene Fragen eingetragen (Julez, 2026-11-06).
 
+**Ziele für die 3 Monate bis Februar 2027:** `firma/ziele-3-monate.md` (beschlossen am 05.11.2026)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
