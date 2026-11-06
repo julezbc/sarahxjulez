@@ -49,3 +49,14 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 ## Team laut Website (2026-11-05)
 
 Namen und Rollen laut https://brandyourvoice.de/about/, siehe `firma/website-stand-2026-11.md`. Welche Person welche Rolle aus dem Interview hat (z. B. welche Setterinnen und Closerinnen), ist noch nicht bestätigt. **Bestätigt (Sarah, 2026-11-05):** Laura und Kayla machen das Setting, Sandra und Lydia das Closing, Katrin ist Executive Assistant. **Vera ist nicht mehr dabei**, steht aber noch auf der Website. Offen: Ist Annabelle (HR) noch dabei? Sharon ist laut Website Mentorin.
+
+## Nachtrag aus dem Onboarding-Call (05.11.2026)
+
+_Ergänzt von Claude für Julez, 2026-11-06. Quelle: `notizen/2026-11-05-onboarding-call-transkript.md`._
+
+- **Annabelle** ist dabei und macht die **Struktur** (HR/Organisation); sie sucht gerade eine neue Setterin und darf Julez die Team- und Tool-Übersicht geben (Sarah).
+- **Kein CMO:** Sarah erarbeitet Texte mit der Copywriterin, die Webdesignerin setzt um.
+- **Kein Head of Sales:** Sandra (Closerin) schaut schon federführend auf das Sales-Team und wird dahin entwickelt; Jana kümmert sich ums Team, auch ums Sales-Team. Einmal pro Woche Call mit dem Sales-Team; Closings und Settings werden aufgenommen.
+- **René:** Technik, Tracking, Reporting, E-Mail-Marketing. **André:** Automationen (mit René umgebaut).
+- **Jana, René und Sarah** sind das „Dreier-Gespann“, das gemeinsam entscheidet.
+- **Adam (Media Buyer):** Sarah ist ihm gegenüber loyal, findet ihn aber zu teuer und zu wenig proaktiv. Siehe `ENTSCHEIDUNGEN.md`.

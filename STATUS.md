@@ -28,9 +28,21 @@
 - Spielplan-Entwurf geschrieben: `firma/spielplan.md` (2026-11-05).
 - Website gelesen: `firma/website-stand-2026-11.md`, `kundenstimmen/website-erfolgsgeschichten.md` (2026-11-05).
 
+- Onboarding-Call Sarah & Julez (05.11.2026) gespeichert: Transkript `notizen/2026-11-05-onboarding-call-transkript.md`, To-dos `notizen/2026-11-05-todos-onboarding-call.md`; Entscheidungen und offene Fragen eingetragen (Julez, 2026-11-06).
+
+## Nächste Termine (aus dem Call vom 05.11.2026)
+- **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
+- **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
+- **Di 10.11., 13 Uhr:** Technik-/Automations-Call mit René und Patrick (Patrick muss noch zusagen).
+- **Do 12.11.:** Sarah: Call mit Christian vom Next Level Verlag.
+- **Mo 21.12.:** Spendengala Gate 108 (Julez).
+- **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
+- Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
+- Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
+
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
-- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen.
+- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen. → Prioritäten am 05.11. teilweise beschlossen (siehe `ENTSCHEIDUNGEN.md`); offen: brandyourAI-Launch im Januar vs. Brand-Your-Voice-Webinar.
 - Tracking-Sheet von Sarah: Zahlen in Block 6 nachtragen und den Funnel auswerten.
 - ProvenExpert lesen: `*.provenexpert.com` in den erlaubten Domains ergänzen.
 - Website: Einkommensaussagen mit den Anwälten prüfen, Clear-Words-Seite und Team-Seite aktualisieren.

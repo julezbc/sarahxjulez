@@ -59,3 +59,10 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **Upsell von Clear Words zu brandyourAI:** Wenn eine Clear-Words-Teilnehmerin schon Kundinnen gewonnen hat und Geld verdient, wird ihr brandyourAI angeboten. **Bisher ist noch keine gewechselt.** (Sarah, 2026-11-05)
 
 (Sarah, 2026-11-05)
+
+## Nachtrag aus dem Onboarding-Call (05.11.2026)
+
+_Ergänzt von Claude für Julez, 2026-11-06._
+- **Verlängerung Clear Words:** **500 oder 800 € im Monat**, je nachdem, ob mit persönlicher Begleitung (in der Gruppe, kein 1:1) oder nur mit der Learning Suite; Laufzeit **3, 6 oder 12 Monate**. Nur wenige verlängern; genaue Zahlen schickt Sarah an Julez.
+- **Kein Downsell** unter Clear Words.
+- **brandyourAI** (laut Sarah): Klarheit, Positionierung, Hochpreis-Angebot, Ziel mindestens 10–15k im Monat, KI-Teil eher am Ende (Content Recycling, Claude, Website); beratend, nichts „done for you“. Lief nicht gut. Zahl „7600 799“ im Call unklar (Preis oder Werbebudget?), siehe `OFFENE-FRAGEN.md`.

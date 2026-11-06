@@ -52,3 +52,4 @@ Wird beim Interview automatisch ergänzt.
 ## Notizen
 - [Sarah: Erwartungen an die Zusammenarbeit mit Julez & Themen](notizen/sarah-erwartungen-an-julez.md) — Prio 1, Positionierung, Reichweite, Bühne, Presse, Buch (2026-11-03)
 - [Onboarding-Call Sarah & Julez, 05.11.2026](notizen/2026-11-05-onboarding-call-transkript.md) — Zusammenfassung, Action Items und vollständiges Transkript: 3-Monats-Prios, Sales-Team, Live-Webinar Januar, Adam vs. Jan & Pierre (Julez, vertraulich)
+- [To-dos aus dem Onboarding-Call 05.11.2026](notizen/2026-11-05-todos-onboarding-call.md) — Termine, To-dos für Julez und Sarah, Vorschläge, Korrekturen an Fireflies (Julez, vertraulich)

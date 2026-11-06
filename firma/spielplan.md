@@ -100,3 +100,11 @@ Antwort auf Sarahs Frage an Julez, als Vorschlag zum Festlegen. Die Ausgangswert
 - **brandyourAI:** Verkäufe aus dem Januar-Launch, besser als beim ersten Launch.
 - **Positionierung:** ein Satz, den Sarah, Jana und das Team gleich formulieren.
 - **Gewinn pro Monat** als übergeordnete Zahl.
+
+## Nachtrag nach dem Onboarding-Call (05.11.2026)
+
+_Ergänzt von Claude für Julez, 2026-11-06. Quelle: `notizen/2026-11-05-onboarding-call-transkript.md`, Beschlüsse in `ENTSCHEIDUNGEN.md`._
+
+- **Abweichung bei Hebel 3:** Im Call wurde **Brand Your Voice / Clear Words** zum Hauptprojekt der nächsten drei Monate gemacht. brandyourAI wird vorerst nicht gepusht; Julez schlägt vor, es später neu auszurichten (bestehende Copywriterinnen statt Unternehmerinnen aus allen Branchen). Das **Live-Webinar im Januar** ist für **Brand Your Voice** gedacht, nicht als brandyourAI-Launch. Die Tabelle „Reihenfolge“ oben ist in diesem Punkt überholt; offen in `OFFENE-FRAGEN.md`.
+- **Hebel 1 (Klarheit) und Hebel 2 (Funnel)** wurden bestätigt. Konkrete Schritte: Zahlen auswerten, Clarity installieren, Adams Ad-Report, Sales-Team testen, Bio-Links vereinfachen.
+- **Schneller Erfolg 1 (fester Termin mit dem Media Buyer)** wird ersetzt durch: Ad-Report von Adam und Kennenlernen von Jan und Pierre.

@@ -33,3 +33,12 @@ _Stand: 2026-11-05 · Antworten von: Sarah · Zahlen aus dem Tracking-Sheet folg
 - Ausführliche Wünsche dazu (Events, Keynotes, Presse, Buch): `notizen/sarah-erwartungen-an-julez.md`
 
 (Sarah, 2026-11-05)
+
+## Nachtrag aus dem Onboarding-Call (05.11.2026)
+
+_Ergänzt von Claude für Julez, 2026-11-06._
+- **Evergreen-Funnel** läuft seit etwa **dreieinhalb Jahren**, wird bei Bedarf neu aufgenommen.
+- **Oktober 2026:** nicht gut profitabel („eher Standgas“), laut Sarah.
+- **Bio auf Instagram:** drei Links (Podcast, Evergreen-Funnel, Website). Feedback aus Julez' Team: verwirrend. Vorschlag: nur ein Weg zur Masterclass.
+- **Beste Ad** läuft laut Adam nicht mehr (abgelehnt). Report zu den Ads der letzten 12 Monate ist angefragt.
+- **Vorschlag Julez:** Live-Webinare (fester Termin alle vier Wochen), Landingpage mit VSL, Split-Test mit 3–5 Headlines, Telefonnummern per Umfrage nach der Anmeldung sammeln.

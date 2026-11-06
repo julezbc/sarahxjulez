@@ -40,3 +40,8 @@ Eine **eigene Plattform**, gebaut von **André** (KI) und **René** (Technik). S
 
 - **Die Zahlen werden bewusst doppelt getrackt.** Ergebnisse gibt es in **WebinarGeek** und **Meta**, zusätzlich werden sie im Tracking-Sheet erfasst. „Das passt für uns, weil die Zahlen ja stimmen müssen, egal wie.“ (Sarah, 2026-11-05)
 - _Möglicher Kandidat fürs AIOS-System: Zahlen aus WebinarGeek und Meta automatisch ins Reporting übernehmen. Die Kontrolle von Hand kann bleiben (Idee von Claude)._
+
+## Nachtrag aus dem Onboarding-Call (05.11.2026)
+- **Clarity** (Heatmap) soll René für Funnel und Website installieren (Wunsch von Julez).
+- **No-Show:** Nach einem verpassten Termin geht eine E-Mail raus, **keine WhatsApp** (Stand laut Call). Thema für den Technik-Call am 10.11.
+(Claude für Julez, 2026-11-06)
