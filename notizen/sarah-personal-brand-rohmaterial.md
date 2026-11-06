@@ -2,6 +2,8 @@
 
 _Stand: 2026-11-06 · von Sarah für Julez, Grundlage für das Personal-Brand-Audit (Aufgabe aus dem Onboarding-Call, siehe `notizen/2026-11-05-todos-onboarding-call.md`). Sarah hat „einfach alles rausgehauen“. Hier in ihren Worten geordnet, Zitate wörtlich._
 
+> **Kurzfassung für Julez:** Sarah steht für **Selbstbestimmung statt Fremdsteuerung**, mit Klartext, Haltung und „beides“ statt entweder oder. Ihr möglicher Rahmen ist die Kette **Denken → Aussprechen → Glauben → Verkörpern → Leben** („passt im ersten Step“). Dazu kommen ihre Leitsätze und ihre eigene Geschichte. Sarahs Ziel mit diesem Material: ihre Gedanken zu Werten und Haltung festhalten, damit ihr im Audit gemeinsam mehr Klarheit gewinnt.
+
 > **Vertraulich:** nur für Sarah und Julez. Der Abschnitt „Private Haltung“ ist ausdrücklich **nicht für die Außendarstellung** gedacht, solange Sarah das nicht selbst entscheidet.
 
 ## Themen, für die Sarah stehen will
@@ -83,5 +85,7 @@ _Erste Einordnung (Claude, 2026-11-06), für das Audit mit Julez:_
 **Denken → Aussprechen → Glauben → Verkörpern → Leben**
 
 „Bevor etwas Realität wird, wird es zuerst gedacht und ausgesprochen. Und es ist egal, ob du das laut aussprichst oder nur denkst, die Wirkung ist die gleiche.“ Wer permanent so denkt, macht es irgendwann zur eigenen **Realität und Identität**.
+
+**Sarah dazu:** „Das passt im ersten Step.“ (2026-11-06)
 
 _Einordnung (Claude): Diese Kette verbindet **Clear Mind** (Denken, Glauben) und **Clear Words** (Aussprechen) mit Verkörpern und Leben (Clear Voice, Auftritt). Sie könnte Sarahs **eigenes Modell** für Keynotes, Podcast und Buch werden. „Am Anfang steht das Wort“ ist schon die Überschrift auf der Startseite. „Nur EIN Leben“ steht schon in der Brand Voice._
