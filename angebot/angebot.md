@@ -56,6 +56,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 ## Zusatzverkäufe an bestehende Kundinnen
 
 - **Verlängerung von Clear Words:** Teilnehmerinnen können das Mentoring verlängern, für etwa **500 € im Monat** (Sarah: „glaube ich“, 2026-11-05).
+  - **Angebotsseite zur Verlängerung:** https://offer.brandyourvoice.de/p/clear-words-mentoring-verlaengerung (von Sarah für Julez, 2026-11-06). Dort stehen die Möglichkeiten der Verlängerung. Claude konnte die Seite noch nicht lesen, weil `offer.brandyourvoice.de` in der Sitzung gesperrt war.
+  - **Wie viele verlängern:** steht im **Reporting-Sheet** (Sarah, 2026-11-06).
 - **Upsell von Clear Words zu brandyourAI:** Wenn eine Clear-Words-Teilnehmerin schon Kundinnen gewonnen hat und Geld verdient, wird ihr brandyourAI angeboten. **Bisher ist noch keine gewechselt.** (Sarah, 2026-11-05)
 
 (Sarah, 2026-11-05)
