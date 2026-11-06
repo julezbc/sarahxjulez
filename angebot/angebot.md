@@ -41,6 +41,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 (Sarah, 2026-11-05)
 
+> **Ideen zur Weiterentwicklung (Sarah, 2026-11-06):** brandyourAI als Angebot für das **One-Woman-Business mit KI-Agenten**, eventuell mit eigener Software. Siehe `notizen/sarah-brandyourai-ideen.md`.
+
 ## Häufigster Einstieg und größtes Paket
 
 - **Clear Words:** Einstieg über den **Evergreen-Funnel** (laut Setting-Skript: kostenlose Masterclass, dann Setter-Call, dann Strategiegespräch).

@@ -52,6 +52,7 @@ Wird beim Interview automatisch ergänzt.
 - [Setting-Skript](vertrieb/setting-skript.md) — Ablauf und Qualifizierung im Setter-Call, Stand Mai 2026
 
 ## Notizen
+- [brandyourAI: Ideen zur Weiterentwicklung](notizen/sarah-brandyourai-ideen.md) — One-Woman-Business mit KI-Agenten (Sarah, 2026-11-06)
 - [Sarah: Personal Brand, Rohmaterial](notizen/sarah-personal-brand-rohmaterial.md) — Themen, Werte, Geschichte, Idee KI für Frauen (vertraulich, 2026-11-06)
 - [Sarahs perfekter Arbeitstag](notizen/sarah-perfekter-arbeitstag.md) — für Julez, 2026-11-06
 - [Sarah: Erwartungen an die Zusammenarbeit mit Julez & Themen](notizen/sarah-erwartungen-an-julez.md) — Prio 1, Positionierung, Reichweite, Bühne, Presse, Buch (2026-11-03)
