@@ -46,3 +46,11 @@ _Einschätzung von Claude als Grundlage für das Gespräch mit Julez, keine Ents
 - _Naheliegende Variante: **Evergreen weiterlaufen lassen** und das Live als **eigene Kampagne mit eigenem Budget** bewerben. Wer sich fürs Live angemeldet hat, wird aus den Evergreen-Anzeigen **ausgeschlossen** (und umgekehrt), damit sich beide nicht gegenseitig die Leute wegnehmen und die Zahlen sauber vergleichbar bleiben._
 - _Danach vergleichen: **Kosten pro qualifiziertem Gespräch und pro Abschluss**, live gegen Evergreen. Die Grundlage sind das Reporting-Sheet und der Ad-Report von Adam._
 - _Die **VSL** ist eine eigene Testfrage: als kürzere Alternative zur 90-minütigen Masterclass im Evergreen, nicht gleichzeitig mit dem Live-Start einführen, sonst weiß man nicht, was gewirkt hat._
+
+## Sarahs Gedanken dazu (2026-11-06)
+
+- Strategisch genau anschauen, welche Variante es wird:
+  1. Evergreen laufen lassen und **in der Bewerbungsphase vor dem Live abschalten**
+  2. Evergreen **gar nicht mehr nutzen** und stattdessen **eine VSL laufen lassen**
+  3. _(Variante aus Claudes Einschätzung oben: Evergreen weiterlaufen lassen, Live als eigene Kampagne)_
+- **Fest steht: Im Januar gehen wir live.** Der Januar ist für Sarah „ein sehr, sehr starker Monat“, um die Leute gut abzuholen und richtig gut ins Jahr einzusteigen.
