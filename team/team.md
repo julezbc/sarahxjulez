@@ -21,7 +21,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **Webdesign**: unterstützt bei Bedarf
 - **Mentorinnen** (nicht Vollzeit, punktuell): geben die **Impulse zu den Texten** der Teilnehmerinnen und übernehmen einzelne **Live-Meetings** (Ergänzung aus Block 11, 2026-11-05)
 
-**Gruppencalls:** Die leitet **Sarah** selbst, bei Clear Words und bei brandyourAI. (Sarah, 2026-11-05)
+**Gruppencalls:** Insgesamt gibt es bis zu 3 pro Woche. Sarah leitet davon selbst **etwa alle 3 Wochen einen**, bei Clear Words und brandyourAI. Die übrigen übernehmen die Mentorinnen. (Korrektur Sarah, 2026-11-06)
 
 **Struktur:** Über ein Jahr lang hat eine HR-Unterstützung beim Onboarding, Offboarding, Recruiting und bei der Rollendefinition geholfen. Laut Sarah gibt es deshalb ein richtig gutes Fundament und viel Struktur, beim Team sind sie „total safe“.
 
