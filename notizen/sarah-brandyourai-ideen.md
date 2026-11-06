@@ -16,6 +16,18 @@ brandyourAI war, auch im Gespräch mit Julez, im Grunde als **Skalierungsprogram
 
 (Sarah, 2026-11-06)
 
+## Brainstorming (Sarah, 2026-11-06), Platzhalter
+
+- **Slogan-Idee:** „**One-Woman-Show war gestern, sondern ist heute.**“ _(Spracheingabe: „One-Woman-Show. War ja nicht gestern, sondern ist heute.“ Gemeint ist sinngemäß: Die One-Woman-Show ist nicht von gestern, sie ist das Modell von heute.)_
+- **Grundannahme:** Die meisten wollen gar kein großes Team.
+- **Noch zu durchdenken:**
+  - Wie baut man das Programm auf?
+  - Welches **Ziel** hat es überhaupt?
+  - Welche **Zielgruppe**?
+    - **Absolventinnen** aus dem Mentoring, als **Upsell** (bisher ist noch keine von Clear Words zu brandyourAI gewechselt, siehe `angebot/angebot.md`)
+    - oder **Frauen in jedem Business**, besonders alles rund um **Social Media**: „ein riesiger Markt, wo wir uns voll gut platzieren könnten“
+  - **Invest und Pricing**
+
 ---
 
 _Verbindungen und Fragen (Claude), für das Gespräch mit Julez:_
