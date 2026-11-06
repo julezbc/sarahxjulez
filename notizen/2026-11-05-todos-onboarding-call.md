@@ -72,7 +72,7 @@ Abhaken: `- [ ]` durch `- [x]` ersetzen und Name und Datum dazuschreiben.
 - [ ] **Call mit Christian vom Next Level Verlag** am 12.11. führen und mit Julez' Buchkontakt vergleichen. (17:44, 18:19)
 
 ### Für Julez aufschreiben (in Claude oder in einem Google Doc)
-- [ ] **Perfekten Arbeitstag beschreiben** und an Julez schicken. (01:15:43)
+- [x] **Perfekten Arbeitstag beschreiben** und an Julez schicken. (01:15:43) → erledigt von Sarah am 2026-11-06: `notizen/sarah-perfekter-arbeitstag.md`
 - [ ] **Personal Brand:** Wofür willst du stehen? Werte, Gedanken zu Bühne, Speeches, Podcast, „alles über Sarah“. Grundlage für das Personal-Brand-Audit. Tipp: Vieles steht schon im Interview, z. B. `profil-geschaeftsfuehrung.md` und `firma/profil.md`. (01:25:43)
 
 ### Termine und Kontakte
