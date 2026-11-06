@@ -68,3 +68,20 @@ _Erste Einordnung (Claude, 2026-11-06), für das Audit mit Julez:_
 - „**Mitreißend. Lebensverändernd.**“
 - Der Kern: für **Aha-Momente** sorgen. „Das ist so ganz tief in mir: Leben zu verändern, positiv natürlich.“
 - Ein **Wow-Effekt**, und mindestens **ein Key-Takeaway**, den die Menschen „im Herzen mittragen“.
+
+## Sarahs Leitsätze (sagt sie „immer wieder“, Sarah, 2026-11-06)
+
+- „**Du kannst nicht scheitern, du kannst nur lernen. Nur gewinnen.**“
+- „**Keine Entscheidung ist auch eine Entscheidung**, nämlich dafür, dass alles so bleibt, wie es ist.“
+- „**Ausgabe und Invest**“ (der Unterschied zwischen beidem)
+- „**Du bist das Problem und gleichzeitig die Lösung.**“ (Eigenverantwortung)
+- „**Du hast nur ein Leben.** Keine Wiederholung, keine Pause-Taste, kein Rückspulen.“ Wenn Menschen das nicht nur mit dem Verstand verstehen, sondern verinnerlichen, würden sie ganz viel anders machen.
+- „**Am Anfang steht das Wort.**“ Wie du über dich denkst und sprichst, wird deine Realität. Gemeint sind die „Bullshit-Stories“: „Ich habe keine Zeit“, „Menschen kaufen nicht mehr“, „Ich bin eine schlechte Verkäuferin“, „KI übernimmt meinen Job“.
+
+### Sarahs Kette: vom Gedanken zur Identität
+
+**Denken → Aussprechen → Glauben → Verkörpern → Leben**
+
+„Bevor etwas Realität wird, wird es zuerst gedacht und ausgesprochen. Und es ist egal, ob du das laut aussprichst oder nur denkst, die Wirkung ist die gleiche.“ Wer permanent so denkt, macht es irgendwann zur eigenen **Realität und Identität**.
+
+_Einordnung (Claude): Diese Kette verbindet **Clear Mind** (Denken, Glauben) und **Clear Words** (Aussprechen) mit Verkörpern und Leben (Clear Voice, Auftritt). Sie könnte Sarahs **eigenes Modell** für Keynotes, Podcast und Buch werden. „Am Anfang steht das Wort“ ist schon die Überschrift auf der Startseite. „Nur EIN Leben“ steht schon in der Brand Voice._
