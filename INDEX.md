@@ -27,6 +27,7 @@ Wird beim Interview automatisch ergänzt.
 - [Ablauf der Begleitung](leistung/prozess.md) — Block 8: Start, Learning Suite, Calls, Nachbetreuung, Verlängerung (Sarah)
 
 ## Marketing
+- [Live-Webinar Januar 2027](marketing/live-webinar.md) — Fokus Clear Words, Datum, Claim-Ideen (Sarah)
 - [Kanäle und Erfahrungen](marketing/kanaele-und-erfahrungen.md) — Block 6: Meta-Ads und Masterclass als Hauptweg, Tests, ungenutzte Kanäle (Sarah)
 
 ## Team

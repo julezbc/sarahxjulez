@@ -48,6 +48,8 @@ Eigene Rechnung aus Sarahs Schätzungen, keine Zahlen aus dem Tracking-Sheet:
 - **Botschaft der Masterclass prüfen (Nachtrag Website):** Die Copywriting-Masterclass verspricht „1.000 € bis 5.000 € monatlich (nebenberuflich und OHNE Vorkenntnisse!)“ und spricht Frauen „neben deinem Job“ an. Damit zieht sie vermutlich genau die Leads an, die oft kein Budget haben, und sie widerspricht „keine Versprechungen“. Ein Hebel für bessere Leads und weniger rechtliches Risiko.
 - **Verknappung prüfen:** Das Setting-Skript arbeitet stark mit Knappheit („Plätze sind LIMITIERT!!!!!“). Eure Brand Voice sagt: „Verknappung nur, wenn sie echt ist.“ Wenn ihr mit „authentisch ohne FOMO“ werbt, sollte das Skript dazu passen. Änderungen am Verkaufsprozess bitte mit den Anwälten abstimmen, weil er mit ihnen festgelegt wurde.
 
+> **Nachtrag (Sarah, 2026-11-06):** Das Live-Webinar im Januar 2027 konzentriert sich auf **Clear Words**, nicht auf brandyourAI. Siehe `marketing/live-webinar.md`. Wann der nächste Launch von brandyourAI kommt, ist offen. Die Abschnitte zum „Januar-Launch“ von brandyourAI unten sind damit überholt.
+
 ### Hebel 3: brandyourAI zum Gewinnhebel machen
 
 **Warum:** Ein Verkauf bringt etwa 1,6- bis 2-mal so viel Umsatz wie Clear Words (7.000 bzw. 9.000 € gegenüber 4.397 €). Die Zielgruppe hat Budget, und das Gruppenformat ohne 1:1 skaliert gut.
