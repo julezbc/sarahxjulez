@@ -49,6 +49,7 @@ Wird beim Interview automatisch ergänzt.
 - [Brand Voice](sprache/brand-voice.md) — verbindliche Stimme für alle Texte, Stand 01.10.2026
 
 ## Vertrieb
+- [No-Show-Prozess](vertrieb/no-show-prozess.md) — Setting und Closing: Anrufe, Mails, Lead-Hunting, Score (Sarah für Julez, 2026-11-08)
 - [Prozess und Einwände](vertrieb/prozess-und-einwaende.md) — Block 7: Setterin → Closerin, Einwände, Geld als Hauptgrund (Sarah)
 - [Setting-Skript](vertrieb/setting-skript.md) — Ablauf und Qualifizierung im Setter-Call, Stand Mai 2026
 

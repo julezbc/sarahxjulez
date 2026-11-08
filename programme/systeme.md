@@ -44,4 +44,5 @@ Eine **eigene Plattform**, gebaut von **Andre** (KI) und **René** (Technik). Si
 ## Nachtrag aus dem Onboarding-Call (05.11.2026)
 - **Clarity** (Heatmap) soll René für Funnel und Website installieren (Wunsch von Julez).
 - **No-Show:** Nach einem verpassten Termin geht eine E-Mail raus, **keine WhatsApp** (Stand laut Call). Thema für den Technik-Call am 10.11.
+  - _Ergänzung (Sarah, 2026-11-08): vollständiger Ablauf in `vertrieb/no-show-prozess.md`. WhatsApp ist Teil des Lead-Huntings am Folgetag._
 (Claude für Julez, 2026-11-06)

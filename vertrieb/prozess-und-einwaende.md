@@ -15,6 +15,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 **Grundhaltung:** Das Team ist gut mit Einwänden, kann aber **keinen großen Druck** machen, „weil dann sind die Leute auch weg“.
 
+**No-Show:** Ablauf für Setting und Closing in [`vertrieb/no-show-prozess.md`](no-show-prozess.md) (Sarah, 2026-11-08).
+
 ## Was sagen wir als Erstes im ersten Gespräch?
 
 Steht im Setting-Skript (Icebreaker): Begrüßung, Bezug auf die Masterclass und den gebuchten Call, dann „Was war der Auslöser in der Masterclass, dass wir heute miteinander sprechen?“ und das Framing „Wir schauen, ob du zu uns passt“.
