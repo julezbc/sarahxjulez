@@ -20,7 +20,7 @@ _Gelesen von Claude am 2026-11-05 (Startseite, Team, Erfolgsgeschichten, Impress
 ## Team laut Website (Seite „about“)
 
 Julia (Copywriterin, auch Marketingstrategie und Produktentwicklung) · Katrin (Executive Assistant) · Jaina (Customer Success) · Annabelle (HR, „Teamarchitektin mit Herz“) · Sandra („Klare Impulsgeberin“) · Sharon (Mentorin, Live-Meetings) · Lydia („Perspektivwechslerin“) · Johanna („Struktur-Queen“, unterstützt Teilnehmerinnen bei Struktur) · Vera (Strategiegespräch, „Smarte Strategin“) · Laura (Erstgespräche, „Türöffnerin mit Herz“) · Kayla (erstes Telefonat, „Matchmakerin“) · René (Tools: ActiveCampaign, Meta Business Suite, Ads, HubSpot, Zapier, „The man behind“).
-André und der Media Buyer stehen nicht auf der Website.
+Andre und der Media Buyer stehen nicht auf der Website.
 
 ## Wird die Clear-Words-Seite gebraucht? (Frage von Sarah, 2026-11-05)
 

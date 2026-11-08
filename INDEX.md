@@ -31,6 +31,7 @@ Wird beim Interview automatisch ergänzt.
 - [Kanäle und Erfahrungen](marketing/kanaele-und-erfahrungen.md) — Block 6: Meta-Ads und Masterclass als Hauptweg, Tests, ungenutzte Kanäle (Sarah)
 
 ## Team
+- [Organigramm 07.11.2026](team/orgchart-2026-11.md) — Rollen entlang der Customer Journey, offene Stellen, Befristungen (vertraulich)
 - [Team](team/team.md) — Block 9: Rollen, Zuständigkeiten, Freigaben, Vertretung (Sarah, vertraulich)
 
 ## Programme

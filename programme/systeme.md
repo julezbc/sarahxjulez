@@ -19,7 +19,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 | Zahlungsabwicklung | **eigene Formulare** | mit den Anwälten angelegt, „abgehakt“ (Sarah, 2026-11-05) |
 | Podcast | wie in den Guidelines (Riverside, Podigee, Audacity, Adobe Podcast) | „das passt auch“ |
 | Tracking und Reporting | **Google Sheets** und **Excel** | Tracking- und Reporting-Sheet |
-| Automationen und mehr | **AIOS-System** (eigene Plattform) | bauen André und René, ersetzt Zapier |
+| Automationen und mehr | **AIOS-System** (eigene Plattform) | bauen Andre und René, ersetzt Zapier |
 
 **Nicht mehr genutzt:** Memberspot, Stripe, ThriveCart, Zapier.
 
@@ -27,7 +27,7 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 
 ## Das AIOS-System
 
-Eine **eigene Plattform**, gebaut von **André** (KI) und **René** (Technik). Sie soll **nach und nach Tools wie Zapier, HubSpot und Co. ersetzen**, damit **alles bei Brand Your Voice selbst liegt**. Zapier ist schon ersetzt, HubSpot läuft „aktuell noch“. (Sarah, 2026-11-05)
+Eine **eigene Plattform**, gebaut von **Andre** (KI) und **René** (Technik). Sie soll **nach und nach Tools wie Zapier, HubSpot und Co. ersetzen**, damit **alles bei Brand Your Voice selbst liegt**. Zapier ist schon ersetzt, HubSpot läuft „aktuell noch“. (Sarah, 2026-11-05)
 
 ## Wo liegt die Wahrheit, wenn sich zwei Programme widersprechen?
 

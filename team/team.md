@@ -16,8 +16,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 - **2 Closerinnen: Sandra und Lydia**: Closing-Gespräche, siehe `vertrieb/prozess-und-einwaende.md` (bestätigt von Sarah, 2026-11-05)
 - **Media Buyer**: Meta-Ads
 - **Persönliche Assistenz / Executive Assistant: Katrin** (bestätigt von Sarah, 2026-11-05)
-- **KI: André**: KI-Betreuung, Automationen und Ähnliches
-- **Technik: René**: gehört mit zum Team und baut mit André das eigene Automations-System (Ergänzung aus Block 10, 2026-11-05)
+- **KI: Andre**: KI-Betreuung, Automationen und Ähnliches
+- **Technik: René**: gehört mit zum Team und baut mit Andre das eigene Automations-System (Ergänzung aus Block 10, 2026-11-05)
 - **Webdesign**: unterstützt bei Bedarf
 - **Mentorinnen** (nicht Vollzeit, punktuell): geben die **Impulse zu den Texten** der Teilnehmerinnen und übernehmen einzelne **Live-Meetings** (Ergänzung aus Block 11, 2026-11-05)
 
@@ -57,6 +57,10 @@ _Ergänzt von Claude für Julez, 2026-11-06. Quelle: `notizen/2026-11-05-onboard
 - **Annabelle** ist dabei und macht die **Struktur** (HR/Organisation); sie sucht gerade eine neue Setterin und darf Julez die Team- und Tool-Übersicht geben (Sarah).
 - **Kein CMO:** Sarah erarbeitet Texte mit der Copywriterin, die Webdesignerin setzt um.
 - **Kein Head of Sales:** Sandra (Closerin) schaut schon federführend auf das Sales-Team und wird dahin entwickelt; Jana kümmert sich ums Team, auch ums Sales-Team. Einmal pro Woche Call mit dem Sales-Team; Closings und Settings werden aufgenommen.
-- **René:** Technik, Tracking, Reporting, E-Mail-Marketing. **André:** Automationen (mit René umgebaut).
+- **René:** Technik, Tracking, Reporting, E-Mail-Marketing. **Andre:** Automationen (mit René umgebaut).
 - **Jana, René und Sarah** sind das „Dreier-Gespann“, das gemeinsam entscheidet.
 - **Adam (Media Buyer):** Sarah ist ihm gegenüber loyal, findet ihn aber zu teuer und zu wenig proaktiv. Siehe `ENTSCHEIDUNGEN.md`.
+
+## Organigramm (Stand 07.11.2026)
+
+Aktuelle Struktur mit allen Rollen, offenen Stellen und Befristungen: **`team/orgchart-2026-11.md`**. Damit beantwortet: Annabelle ist dabei (extern, HR/Organisationsentwicklung). Die Setterin heißt **Keyla** (nicht Kayla). (Claude für Julez, 2026-11-08)

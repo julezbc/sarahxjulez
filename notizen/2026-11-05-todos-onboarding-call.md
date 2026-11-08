@@ -14,7 +14,7 @@ Abhaken: `- [ ]` durch `- [x]` ersetzen und Name und Datum dazuschreiben.
 |---|---|---|---|
 | Mo, 09.11. | Henning bucht ein Setting bei der neuen Setterin, direkt danach ein Closing (01:02:26) | Henning, Sales-Team | geplant |
 | Di, 10.11., 10 Uhr | Sales-Team-Call mit Henning: Feedback zu Setting und Closing, Training (01:02:26) | Julez, Henning, Sarah, Sales-Team | **vorsorglich eingetragen**, Henning muss noch bestätigen |
-| Di, 10.11., 13 Uhr | Technik- und Automations-Call mit René, (André) und Patrick (01:22:33) | Julez, René, Patrick | **vorsorglich eingetragen**, Patrick muss noch bestätigen |
+| Di, 10.11., 13 Uhr | Technik- und Automations-Call mit René, (Andre) und Patrick (01:22:33) | Julez, René, Patrick | **vorsorglich eingetragen**, Patrick muss noch bestätigen |
 | Do, 12.11. | Call mit Christian vom Next Level Verlag (Buch) (17:44) | Sarah | fest |
 | Mo, 21.12. | Spendengala (Gate 108), Julez lernt dort Claudio kennen, Dani Gruber ist auch da (22:29) | Julez | fest |
 | Anfang Januar 2027 | Erstes Live-Webinar Brand Your Voice (01:04:58) | Sarah, Julez | Datum offen |
