@@ -4,6 +4,8 @@ _Stand: 2026-11-06 · Input von Sarah. Grundlage: Entscheidung vom 2026-11-05 (`
 
 ## Fokus
 
+> **Offene Frage (2026-11-09):** Sarah stellt die „Money-Making“-Richtung für Zielgruppe A grundsätzlich infrage, siehe `notizen/sarah-gedanken-programme.md`. Vor Inhalten und Claim klären, wen das Januar-Live abholen soll.
+
 - **Clear Words**, nicht brandyourAI: „weil da der Markt einfach noch da ist“ und dort „noch super viel rauszuholen“ ist. (Sarah, 2026-11-06)
 
 ## Datum (Vorschlag von Sarah)
