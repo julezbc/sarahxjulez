@@ -241,6 +241,8 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
    - Angebot hinter @sarah skizzieren (Sarah und Julez)
    - Folgetermin Masterdokument (○-Fragen, ca. 45 Min.), Claude füllt vorher vor (Julez)
 
+**Zum Ausfüllen am Ende:** Im Miro-Board steht in Frame 12 der Creator-College-Baum (what / who / why mit message, avatar, story und den Unterpunkten) zweimal, einmal für @sarah und einmal für @brandyourvoice. Unter jedem Punkt klebt ein gelber Zettel. Dort werden die Antworten aus den Blöcken 7 und 8 zusammengetragen (Julez, 2026-11-12).
+
 **Nach dem Call:** Ergebnisse ins Brain (`ENTSCHEIDUNGEN.md`, Creator Visions als eigene Datei), Zusammenfassung an Sarah. Die Zoom-Zusammenfassung kommt über die Routine.
 
 ## Hausaufgabe für Sarah: Fremdbild einholen (am Ende des Calls mitgeben)
