@@ -4,6 +4,8 @@ _Stand: 2026-11-12 · Ablauf von Claude für Julez, überarbeitet mit Sarahs eig
 
 > **Vertraulich.** Enthält Zahlen aus Block 0 und persönliche Aussagen. Nur für Sarah und Julez, nicht fürs Team und nicht teilen.
 
+**Miro-Board für den Call:** https://miro.com/app/board/uXjVEOlk3Ho= (privat, im Konto von Julez; angelegt von Claude am 2026-11-12)
+
 ## Grundidee
 
 Sarah hat in den letzten zehn Tagen schon sehr viel gesagt, aber verteilt und teils widersprüchlich. Der Workshop **sammelt nicht neu, sondern hält ihr ihre eigenen Sätze hin** und zwingt zu Entscheidungen. Sie hat sich genau das gewünscht: „Ich möchte wirklich gechallenged werden und auch mal unangenehme Fragen gestellt bekommen.“ und „Du darfst mich liebevoll ausbremsen … Was für mich stimmig ist, möchte ich dabei selbst herausfinden.“
