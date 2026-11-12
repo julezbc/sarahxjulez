@@ -29,8 +29,8 @@ Sarah hat in den letzten zehn Tagen schon sehr viel gesagt, aber verteilt und te
 | 18–24 | 4. Vision 2031: Brand Your Voice | Vision + Mission BYV, Sarahs Rolle |
 | 24–28 | 5. Das Spannungsfeld: 250k vs. „kein goldenes Hamsterrad“ | Was die Zahl für das Modell bedeutet |
 | 28–36 | 6. Zwei Profile trennen | Sortierung S / B / X |
-| 36–48 | 7. Creator Vision @sarah mit Masterdokument-Kernfragen | Who / What / Why + Methodenname |
-| 48–53 | 8. Creator Vision @brandyourvoice | Vorbefüllung bestätigt oder korrigiert |
+| 36–42 | 7. Creator Vision @sarah | Raster kurz ausgefüllt |
+| 42–53 | 8. Creator Vision @brandyourvoice mit Marketing-Masterdokument | Kernfragen ★ beantwortet |
 | 53–57 | 9. Die nächsten 6–12 Monate | je 3 Ziele + Stopp-Liste |
 | 57–60 | 10. Abschluss | Creator Vision in einem Satz, neuer Wert, To-dos |
 
@@ -157,46 +157,57 @@ Julez nennt die Karten schnell, Sarah sagt sofort **S** (@sarah), **B** (@brandy
 
 ---
 
-## 7. Creator Vision @sarah mit den Kernfragen aus dem Marketing-Masterdokument (36–48 Min.)
+## 7. Creator Vision @sarah (36–42 Min.)
 
-_Ergänzt 2026-11-12 (Julez): Die Fragen aus dem Marketing-Masterdokument von Logical Lemon füllen das Raster. Alle Fragen, Vorbefüllungen und Challenges stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`, Teil A. Im Call nur die ★-Fragen, der Rest (○) kommt in einen Folgetermin._
+Raster im Miro-Board (Frame 7) live ausfüllen, kurz halten. Das Marketing-Masterdokument gilt hier **nicht**: Sarahs Personal Brand bekommt ein eigenes, wenn das Angebot für Unternehmerinnen steht. Pro Feld: Sarah zuerst, dann Julez' Vorschlag aus der Vorbereitung als Reibung.
 
-**WHO (4 Min.)**
-- Zielgruppe mit den 5 Filtern prüfen: zahlungskräftig, angenehm, von außen erkennbar, entscheidet selbst, Markt wächst.
-- Negativ- und Positiv-Filter, nur aus echter Erfahrung.
-- 3 Symptome **in den Worten der Kundin**: „Was steht in den DMs?“
-- Younger-You-Prinzip: „Wer warst du vor 2–3 Jahren?“
+**WHAT: Message (1–2 Min.)**
+- Aufwärmen mit den drei Fragen: Was ist deine Gegenposition zum Mainstream? Welche Veränderung sollen Menschen erleben? Wofür kommen Leute von sich aus zu dir?
+- „Vervollständige: **Ich glaube, dass Unternehmerinnen …**“
+- Challenge: „Das könnte auch jede andere Business-Coachin sagen. Was sagst **nur du**?“
+
+**WHAT: 4 Säulen (1–2 Min.)** Skill (hier wird verdient) · Perspective (wie du denkst) · Lifestyle (wie du lebst) · Passions (was du liebst)
+- Challenge: „Über welche Säule könntest du 100 Posts machen, ohne dich zu langweilen? Welche bringt Kundinnen?“
+
+**WHO: Avatar (1–2 Min.)**
+- Demografie: Alter, Branche, Umsatz, Lebenssituation
+- Psychografie: größter Pain, größter Wunsch
+- **Younger-You-Prinzip:** „Wer warst du vor 2–3 Jahren? Für die machst du Content.“
+- Challenge: „Kann diese Frau sich ein Angebot ab 5.000 € leisten? Woher weißt du das?“
+
+**WHY: Story (1–2 Min.)** Problem → Pursuit → Payoff
+- „Welcher Moment hat dich zu der gemacht, die Unternehmerinnen heute etwas beibringen darf?“
+- Challenge: „Was davon erzählst du öffentlich, was bleibt privat?“
+
+---
+
+## 8. Creator Vision @brandyourvoice mit dem Marketing-Masterdokument (42–53 Min.)
+
+_Ergänzt 2026-11-12 (Julez): Das Marketing-Masterdokument von Logical Lemon gilt für **Brand Your Voice**: Zielgruppe Anfängerinnen, Angebot Clear Words. Alle Fragen, Vorschläge aus dem Brain und Challenges stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`. Im Call nur die ★-Fragen, der Rest (○) kommt in einen Folgetermin. Miro: Frame 8+._
+
+Ablauf pro Frage: Sarah antwortet zuerst. Dann zeigt Julez den blauen Brain-Vorschlag, und Sarah sagt: stimmt, ändern oder streichen.
+
+**WHO (3 Min.)**
+- Zielgruppe mit den 5 Filtern prüfen
+- Negativ- und Positiv-Filter (nur, was man von außen sieht)
+- 3 Symptome in den Worten der Kundinnen
 
 **WHAT (6 Min.)**
-- Hauptproblem und Hauptwunsch, je ein Satz.
-- Alternativen: Was machen sie stattdessen?
-- **Output:** die eine große Sache am Ende.
-- **Methodenname** mit Titel-Test („Du hast [Problem]? Mach [Name]!“).
-- **2–3 Dominos:** Was muss sie glauben?
-- Die 4 Content-Säulen (Skill, Perspective, Lifestyle, Passions) nur kurz gegenchecken: Passen sie zu Output und Dominos?
+- Hauptproblem und Hauptwunsch
+- Alternativen
+- **Output:** die eine Sache
+- **Methodenname** mit Titel-Test
+- **2–3 Dominos**
 
 **WHY (2 Min.)**
-- Expertennachweis: **einer**, der Unternehmerinnen überzeugt.
-- Story: Problem → Pursuit → Payoff, nur die Überschrift.
+- ein Expertennachweis
+- wessen Story: Sarah, Jana oder beide?
 
 **Challenges:**
-- „Das sind fünf Dinge. Welches ist **das eine**?“
-- „Das könnte jede Business-Coachin sagen. Was sagst **nur du**?“
-- „Fast alle Erfolgsgeschichten sind von Anfängerinnen. Was beweist Unternehmerinnen, dass du ihnen hilfst?“
-
----
-
-## 8. Creator Vision @brandyourvoice (48–53 Min.)
-
-Claude hat das Masterdokument für Clear Words vorher aus dem Brain vorbefüllt (Teil B). Sarah bestätigt oder korrigiert nur:
-- Zielgruppe
-- Hauptproblem und Hauptwunsch
-- Output
-- Expertennachweis
-
-Dazu die Kernfrage: „Wer ist das Gesicht von @brandyourvoice, du, Jana oder beide? Und was heißt das für deine Zeit?“
-
----
+- „Du sagst, diese Frauen haben oft kein Geld. Sind sie zahlungskräftig für 4.397 €?“
+- „Bock und Energie sieht man nicht von außen. Was **sieht** man?“
+- Eileen: „Zu wenig, wie eine Anfängerin dorthin kommt.“ Wie heißt der Weg?
+- „Wer ist das Gesicht von @brandyourvoice: du, Jana oder beide?“
 
 ---
 
@@ -220,7 +231,7 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 ## 10. Abschluss (57–60 Min.)
 
-1. **Creator Vision in einem Satz:** Sarah setzt aus den ★-Antworten selbst zusammen: „Ich helfe [Wunschkundin], die [Hauptproblem], mit [Methodenname] zu [Hauptwunsch], weil [wichtigster Domino].“ Danach dasselbe für Brand Your Voice. Prüffragen stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`.
+1. **Creator Vision Brand Your Voice in einem Satz:** Sarah setzt aus den ★-Antworten selbst zusammen: „Brand Your Voice hilft [Wunschkundin], die [Hauptproblem], mit [Methodenname] zu [Hauptwunsch], weil [wichtigster Domino].“ Prüffragen stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`.
    **Laut sagen:** „Ich stehe für …“ und „Brand Your Voice steht für …“ (Julez schreibt wörtlich mit)
 2. **Klarheits-Skala** nochmal für beide. Vergleich mit dem Wert vom Anfang.
 3. **Hausaufgabe mitgeben:** WhatsApp-Nachricht ans Umfeld (Text unten)
@@ -263,6 +274,6 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 ## Plan B, wenn die Zeit knapp wird
 - Block 2 auf die Fragen 1, 2 und 4 kürzen.
-- Block 8 nur Zielgruppe und Hauptwunsch bestätigen, Rest im Folgetermin.
-- Block 7: wenn nötig Alternativen und Säulen-Check in den Folgetermin schieben, nie Output, Methodenname und Dominos.
+- Block 7 (@sarah) auf Message und Who kürzen.
+- Block 8: wenn nötig Alternativen und Story in den Folgetermin schieben, nie Output, Methodenname und Dominos.
 - Nie streichen: Block 3 bis 5 (Vision und Geld) und Block 10 (die Creator Vision in einem Satz).

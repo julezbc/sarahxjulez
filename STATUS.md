@@ -40,7 +40,7 @@
   - Verlängerung Clear Words: Link zur Angebotsseite in `angebot/angebot.md`
   - No-Show-Prozess Setting und Closing: `vertrieb/no-show-prozess.md`
 - Profilanalyse von Eileen Gechert (Miro) gespeichert: `marketing/profilanalyse-eileen-2026-11.md`; Workshop-Vorbereitung Creator Vision: `notizen/2026-11-12-workshop-creator-vision-vorbereitung.md` (Claude für Julez, 2026-11-12)
-- Marketing-Masterdokument (Logical Lemon) in den Workshop eingebunden: `notizen/2026-11-12-workshop-marketing-masterdokument.md` (Kernfragen ★ im Workshop, Rest ○ im Folgetermin; Ziel: Creator Vision in einem Satz). Miro-Board: Frames 7+ und 11 neu (Claude für Julez, 2026-11-12)
+- Marketing-Masterdokument (Logical Lemon) für **Brand Your Voice** (Anfängerinnen, Clear Words) in den Workshop eingebunden: `notizen/2026-11-12-workshop-marketing-masterdokument.md` (Kernfragen ★ in Block 8, Rest ○ im Folgetermin; Ziel: Creator Vision BYV in einem Satz). Miro-Board: Frames 8+ und 11 (Claude für Julez, 2026-11-12)
 - Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
 
 ## Nächste Termine (aus dem Call vom 05.11.2026)
