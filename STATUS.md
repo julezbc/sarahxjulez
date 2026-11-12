@@ -50,7 +50,7 @@
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
-- _Hinweis (Claude, 2026-11-12): Ergebnisse von Hennings Test-Setting/-Closing und den Calls vom 10.11. sind noch nicht im Repo; ob sie stattgefunden haben, ist hier nicht dokumentiert._
+- **Calls vom 10.11. haben stattgefunden.** Zoom-KI-Zusammenfassungen (kein Wortlaut-Transkript vorhanden): Sales-Analyse `notizen/2026-11-10-sales-analyse-zusammenfassung.md`, Technik-Call `notizen/2026-11-10-technik-call-zusammenfassung.md` (Claude für Julez, 2026-11-12).
 
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
