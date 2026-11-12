@@ -206,12 +206,42 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 1. **Laut sagen:** „Ich stehe für …“ und „Brand Your Voice steht für …“ (Julez schreibt wörtlich mit)
 2. **Klarheits-Skala** nochmal für beide. Vergleich mit dem Wert vom Anfang.
-3. **Max. 3 nächste Schritte** mit Name und Datum, zum Beispiel:
+3. **Hausaufgabe mitgeben:** WhatsApp-Nachricht ans Umfeld (Text unten)
+4. **Max. 3 nächste Schritte** mit Name und Datum, zum Beispiel:
    - BYV-Vision und Mission mit Jana abstimmen (Sarah)
    - Creator Visions in Content-Säulen und Redaktionsplan für beide Profile übersetzen (Julez mit Eileen)
    - Angebot hinter @sarah skizzieren (Sarah und Julez)
 
 **Nach dem Call:** Ergebnisse ins Brain (`ENTSCHEIDUNGEN.md`, Creator Visions als eigene Datei), Zusammenfassung an Sarah. Die Zoom-Zusammenfassung kommt über die Routine.
+
+## Hausaufgabe für Sarah: Fremdbild einholen (am Ende des Calls mitgeben)
+
+**Warum:** Sarah weiß sehr klar, was sie nicht will, und hat viele Themen. Das Fremdbild zeigt, wofür andere sie **schon heute** wahrnehmen. Genau das ist der Kern der Personal Brand („Wofür kommen Menschen von sich aus zu mir?“).
+
+**An wen (8–12 Menschen, gemischt):**
+- 2–3 aus Familie und engstem Freundeskreis
+- 2–3 Unternehmerinnen aus dem Netzwerk (z. B. SHEO Days, Masterminds)
+- 2–3 Kundinnen oder Absolventinnen (Clear Words und brandyourAI)
+- Jana und 1–2 aus dem Team
+
+**Bis wann:** Antworten bis zum nächsten Call sammeln. Sprachnachrichten sind ausdrücklich erlaubt. Sarah leitet die Antworten (ohne Namen und Nummern) an Julez weiter, Claude wertet sie aus und legt sie im Brain ab.
+
+**Nachrichtentext (Vorschlag, in Sarahs Ton, gern anpassen):**
+
+> Hey du 🤍 ich hab mal eine etwas andere Bitte an dich.
+>
+> Ich arbeite gerade sehr bewusst daran, wofür ich in den nächsten Jahren stehen will. Und manchmal sehen andere klarer als man selbst. Deshalb frage ich ein paar Menschen, die mir wichtig sind.
+>
+> Magst du mir ganz ehrlich und aus dem Bauch heraus beantworten:
+> 1. Was schätzt du an mir am meisten?
+> 2. Mit welchem Thema oder Problem würdest du immer zu mir kommen?
+> 3. Wenn du mich jemandem in einem Satz vorstellen müsstest: Wie würdest du mich beschreiben?
+> 4. Was kann ich deiner Meinung nach besser als die meisten?
+> 5. Und ganz ehrlich: Was sollte ich lassen oder weniger machen?
+>
+> Gern als Sprachnachricht, kurz reicht völlig. Es gibt kein Richtig oder Falsch, und ich freue mich auch über unbequeme Antworten. Danke dir von Herzen! 🙏
+
+**Auswertung (Claude, nach Eingang):** Häufigste Begriffe, wiederkehrende Themen, Abgleich mit den Content-Säulen aus dem Workshop und mit Sarahs Selbstbild („Ich stehe für …“). Unterschiede zwischen Familie, Netzwerk und Kundinnen getrennt zeigen.
 
 ## Plan B, wenn die Zeit knapp wird
 - Block 2 auf die Sätze 1, 2 und 5 kürzen.
