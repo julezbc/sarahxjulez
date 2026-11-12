@@ -1,4 +1,4 @@
-# Workshop mit Sarah: Vision, Mission und Creator Vision (60 Minuten)
+# Workshop mit Sarah: Werte, Impact, Vision und Creator Vision (so weit wir kommen, Rest im 2. Termin)
 
 _Stand: 2026-11-12 · Ablauf von Claude für Julez, überarbeitet mit Sarahs eigenen Aussagen. Quellen: Sarahs Dokument an Julez (`notizen/sarah-erwartungen-an-julez.md`), Onboarding-Call 05.11. (`notizen/2026-11-05-onboarding-call-transkript.md`, Zeitmarken in Klammern), Interview Block 0, 0b, 1, 2, perfekter Arbeitstag, Personal-Brand-Rohmaterial, brandyourAI-Ideen, Ziele 3 Monate, Eileens Profilanalyse._
 
@@ -17,26 +17,35 @@ Sarah hat in den letzten zehn Tagen schon sehr viel gesagt, aber verteilt und te
 4. Fokus für die nächsten 6–12 Monate mit Stopp-Liste
 5. Klarheits-Wert vorher/nachher (Ziel aus dem Onboarding: von 5–6 auf 8–9)
 
+**Überarbeitet 2026-11-12 (Julez):** Ausführlich statt 60 Minuten. Kein Teil wird gekürzt. Wir gehen so weit, wie wir in der Tiefe kommen, der Rest folgt in einem zweiten Termin. Neu sind drei Blöcke, die vor der Vision für Tiefe sorgen: **2a Werte**, **2b Impact** und **3+ Vision vertiefen**. Fokus: Sarahs eigene Vision und was sie im Außen an Impact und Werten schaffen will.
+
+**Tiefen-Regel (gilt für jeden Block):** Jede Antwort bekommt mindestens ein „Warum?“ und ein „Woran würde man das sehen?“. Bei Floskeln: „Und was heißt das konkret?“ Bei „Weiß ich nicht“: „Wenn du es wüsstest, was wäre es?“
+
 **Spielregeln (am Anfang ansagen):** Erste Antwort zählt. Julez stellt Fragen zu Sarahs eigenen Sätzen, Sarah antwortet aus dem Bauch. Julez schreibt mit, Sarah redet. Kein Schönformulieren, das macht Claude danach.
 
 ## Ablauf auf einen Blick
 
-| Min. | Block | Ergebnis |
+| ca. Min. | Block | Ergebnis |
 |---|---|---|
-| 0–3 | 1. Einstieg mit Sarahs eigenem Satz | Klarheits-Wert |
-| 3–10 | 2. Challenge: Deine eigenen Sätze weitergedacht | 6 Antworten, unangenehmste Frage |
-| 10–18 | 3. Vision 2031: Sarah | Vision + Mission Sarah |
-| 18–24 | 4. Vision 2031: Brand Your Voice | Vision + Mission BYV, Sarahs Rolle |
-| 24–28 | 5. Das Spannungsfeld: 250k vs. „kein goldenes Hamsterrad“ | Was die Zahl für das Modell bedeutet |
-| 28–36 | 6. Zwei Profile trennen | Sortierung S / B / X |
-| 36–42 | 7. Creator Vision @sarah | Raster kurz ausgefüllt |
-| 42–53 | 8. Creator Vision @brandyourvoice mit Marketing-Masterdokument | Kernfragen ★ beantwortet |
-| 53–57 | 9. Die nächsten 6–12 Monate | je 3 Ziele + Stopp-Liste |
-| 57–60 | 10. Abschluss | Creator Vision in einem Satz, neuer Wert, To-dos |
+| 5 | 1. Einstieg mit Sarahs eigenem Satz | Klarheits-Wert |
+| 10 | 2. Challenge: Deine eigenen Sätze weitergedacht | 6 Antworten, unangenehmste Frage |
+| 15 | **2a. Werte: Wofür stehst du, und wogegen?** | 3 Werte + „Dagegen stehe ich“ |
+| 15 | **2b. Impact: Was soll sich im Außen verändern?** | Impact-Satz |
+| 10 | 3. Vision 2031: Sarah | Vision + Mission Sarah (Entwurf) |
+| 15 | **3+. Vision vertiefen** | Vision 2031 ohne „nicht“ |
+| 10 | 4. Vision 2031: Brand Your Voice | Vision + Mission BYV, Sarahs Rolle |
+| 8 | 5. Geld: 250k vs. „kein goldenes Hamsterrad“ | Modell, Mangel oder Fülle |
+| 10 | 6. Zwei Profile trennen | Sortierung S / B / X |
+| 10 | 7. Creator Vision @sarah | Raster, verbunden mit Werten und Impact |
+| 12 | 8. Creator Vision @brandyourvoice mit Marketing-Masterdokument | Kernfragen ★ |
+| 6 | 9. Die nächsten 6–12 Monate | je 3 Ziele + Stopp-Liste |
+| 5 | 10. Abschluss | Sätze, neuer Wert, To-dos |
+
+**Zusammen etwa 2 Stunden.** Natürliche Schnittpunkte für den 2. Termin: nach **3+** (Sarahs Kern ist fertig) oder nach **7** (Sarah komplett, BYV folgt). Block 10 (Klarheits-Wert, To-dos, Hausaufgabe) trotzdem in jedem Fall kurz am Ende des ersten Termins machen.
 
 ---
 
-## 1. Einstieg mit Sarahs eigenem Satz (0–3 Min.)
+## 1. Einstieg mit Sarahs eigenem Satz (ca. 5 Min.)
 
 Julez liest vor (aus Sarahs Dokument an Julez):
 > „Solange ich nicht weiß, wofür ich stehen will, bleiben Funnel, Content und Sichtbarkeit Stückwerk.“
@@ -49,7 +58,7 @@ Beide Werte notieren.
 
 ---
 
-## 2. Challenge: Deine eigenen Sätze weitergedacht (3–10 Min.)
+## 2. Challenge: Deine eigenen Sätze weitergedacht (ca. 10 Min.)
 
 _Geändert 2026-11-12 (Julez): Die Sätze kennen wir schon, „stimmt / stimmt nicht“ bringt keine neue Klarheit. Deshalb wird aus jedem Satz eine Frage, die Sarah zwingt, ihn zu Ende zu denken._
 
@@ -74,7 +83,39 @@ Julez stellt die Frage, Sarah antwortet aus dem Bauch. Julez hakt **einmal** nac
 
 ---
 
-## 3. Vision 2031: Sarah (10–18 Min.)
+## 2a. Werte: Wofür stehst du, und wogegen? (ca. 15 Min., Miro-Frame 2a unter der Reihe)
+
+_Neu 2026-11-12. Spiegel aus Sarahs Worten: „Ich bin super werteorientiert, mir ist meine Haltung wichtig.“ · „Wenn ich für etwas bin, bin ich automatisch auch gegen etwas, und das kann ich total gut aushalten.“ · „Wenn mir die Menschen nicht liegen, könnten es die erfolgreichsten der Welt sein.“ (`notizen/sarah-personal-brand-rohmaterial.md`, `notizen/sarah-erwartungen-an-julez.md`)_
+
+1. **Nur drei:** „Nenne deine 3 wichtigsten Werte. Nur drei.“ Dann für jeden: „Wann hast du ihn zuletzt verletzt, und was hat es dich gekostet?“
+2. **Dagegen:** „Wogegen bist du? Sag es so klar, dass sich jemand angegriffen fühlt. Wer genau? Welchem Mainstream folgst du nicht?“
+3. **Unverkäuflich:** „Welcher Wert ist unverkäuflich, auch für eine Million? Und wo hast du ihn trotzdem schon mal verkauft?“ (Bezug: „dafür ist mir eine Million … nicht wert“, Call 05.11.)
+4. **People-Pleasing:** „Du sagst, viele Frauen stecken im People-Pleasing. Wo pleast du selbst noch: im Team, bei Kundinnen, auf Instagram?“
+5. **Getrieben:** „‚Ich will immer gewinnen, ich bin sehr getrieben.‘ Welcher Wert steckt dahinter, und welcher Schatten? Wofür zahlst du heute den Preis?“
+6. **Sichtbar:** „Woran merkt eine Frau nach 5 Minuten in deinem Content, wofür du stehst? Und woran merkt sie es heute noch nicht?“
+
+_Nur wenn sie hängt (aus dem Brain, nicht vorlesen):_ Selbstbestimmung, Klartext und Wahrheit, „beides“ (stark und weich), Eigenverantwortung, Verbindung, Vertrauen.
+
+**Ergebnis:** „Meine 3 Werte: … · Dagegen stehe ich: …“
+
+---
+
+## 2b. Impact: Was soll sich im Außen verändern, weil es dich gibt? (ca. 15 Min., Miro-Frame 2b)
+
+_Spiegel: „Leben zu verändern, positiv natürlich. Das ist so ganz tief in mir.“ · „Mitreißend. Lebensverändernd.“ · „Du hast nur ein Leben.“ · „Ich will Frauen wachrütteln, dass sie Verantwortung für sich übernehmen.“_
+
+1. **Eine Frau, 2031:** „Sie hat dich nie getroffen, kennt aber deinen Content. Was macht sie an einem Dienstag anders als heute? Ganz konkret.“
+2. **Weniger und mehr:** „Was soll es in der Welt WENIGER geben, weil es dich gibt? Und was mehr?“
+3. **Der eine Aha-Moment:** „Welchen Satz soll jede Frau von dir mitnehmen, so dass sie ihn ihrer Tochter weitersagt?“
+4. **Nächste Generation:** „Du sprichst von der Ahnenreihe: Frauen, die sich rund machen, um reinzupassen. Was soll die nächste Generation von dir übernehmen?“
+5. **Messen ohne Zahlen:** „Woran merkst du 2031, dass du Impact hattest, ohne Umsatz, Follower oder Forbes?“
+6. **Nur ein Leben:** „Wenn du nur noch 5 Jahre Zeit hättest: Was müsste bis dahin passiert sein? Was würdest du sofort lassen?“
+
+**Ergebnis:** Impact-Satz „Weil es mich gibt, können Frauen …“
+
+---
+
+## 3. Vision 2031: Sarah (ca. 10 Min.)
 
 **Einstieg:** „November 2031, ein Dienstag, 10 Uhr. Du hast laut deinem perfekten Arbeitstag einen fast leeren Kalender, Calls nur bis 13 Uhr. Was machst du gerade, und wer hat dich heute angefragt?“ (2 Min. frei erzählen lassen)
 
@@ -97,7 +138,24 @@ _Reibungsvorschlag, nur wenn sie hängt (aus ihren Worten gebaut): „Ich zeige 
 
 ---
 
-## 4. Vision 2031: Brand Your Voice (18–24 Min.)
+## 3+. Vision vertiefen: ohne „nicht“, Mangel oder Fülle, der Preis (ca. 15 Min., Miro-Frame 3+)
+
+_Spiegel: „Mir ist manchmal leichter zu sagen, was ich nicht will.“ · „Ich habe das jetzt nicht als konkrete Vision.“ · Zur Zielgruppe Unternehmerinnen: „Ich glaube, es war auch aus dem Mangel heraus.“ (Call 05.11., 29:25) · „Ich lasse mich gern von Ideen anfixen.“_
+
+1. **Ohne „nicht“:** „Beschreib 2031 in drei Sätzen, ohne ‚nicht‘, ‚kein‘ und ‚weg von‘. Nur, was DA ist.“
+2. **Anti-Vision:** „Du machst drei Jahre so weiter wie heute, ohne Klarheit. Wie fühlt sich 2029 ein Dienstag an? Was ist das Schlimmste daran?“
+3. **Mangel oder Fülle:** „Unternehmerinnen kamen laut dir ‚aus dem Mangel heraus‘. Geh deine Ziele durch (Forbes, Bühne, Buch, 250k, KI-Software): Welche kommen aus Mangel, welche aus Fülle?“
+4. **Nichts beweisen:** „Was würdest du wollen, wenn du niemandem mehr etwas beweisen müsstest, auch dir selbst nicht?“
+5. **Der Preis:** „Was gibst du für diese Vision auf? Wer wird enttäuscht sein? Bist du bereit, den Preis zu zahlen?“
+6. **Angst vor dem Einen:** „Wovor hast du Angst, wenn du dich auf EIN Thema festlegst? Was verlierst du dann wirklich?“
+7. **Brand Your Voice:** „Was soll 2031 in der Branche anders sein, weil es BYV gibt? Was davon ist deine Vision, was Janas?“
+8. **Der Test:** Werte (2a) und Impact-Satz (2b) vorlesen. „Passt die Vision dazu? Wo widerspricht sie?“
+
+**Ergebnis:** Vision 2031 ohne „nicht“.
+
+---
+
+## 4. Vision 2031: Brand Your Voice (ca. 10 Min.)
 
 Julez liest vor:
 > 2022 gegründet „mit der Mission, Frauen in ein unabhängiges, selbstbestimmtes Leben zu begleiten“. (Block 1)
@@ -123,7 +181,7 @@ Julez liest vor:
 
 ---
 
-## 5. Das Spannungsfeld: 250k Gewinn vs. „kein goldenes Hamsterrad“ (24–28 Min.)
+## 5. Das Spannungsfeld: 250k Gewinn vs. „kein goldenes Hamsterrad“ (ca. 8 Min.)
 
 Julez legt zwei Sätze nebeneinander:
 > **Ziel 2027:** „Mindestens 250k Gewinn pro Monat.“ (Block 0) Heute: etwa 200k Umsatz, 50–100k Gewinn. Bei heutiger Marge heißt das etwa 500k bis 1 Mio. Umsatz im Monat (Rechnung aus Sarahs Schätzungen).
@@ -134,11 +192,13 @@ Julez legt zwei Sätze nebeneinander:
 - „Ist die 250k ein Ziel für Brand Your Voice oder für dich? Gilt sie noch?“
 - „Du willst kein Mentoring mit viel Fulfillment für Unternehmerinnen aufbauen (brandyourAI: ‚Ich sehe mich da nicht‘). Was verkaufst du dann auf deinem Account?“
 
+**Tiefer (neu):** „Ist die 250k eine Zahl aus Mangel oder aus Fülle? Was würdest du mit dem Geld konkret tun, und wofür bräuchtest du es nicht?“
+
 **Ergebnis:** Eine Zeile: „Das Geld kommt 2027 vor allem aus …“ (und gegebenenfalls: Ziel angepasst auf …)
 
 ---
 
-## 6. Zwei Profile trennen (28–36 Min.)
+## 6. Zwei Profile trennen (ca. 10 Min.)
 
 Julez nennt die Karten schnell, Sarah sagt sofort **S** (@sarah), **B** (@brandyourvoice) oder **X** (streichen / später). Danach nur die Karten besprechen, bei denen sie gezögert hat.
 
@@ -157,7 +217,7 @@ Julez nennt die Karten schnell, Sarah sagt sofort **S** (@sarah), **B** (@brandy
 
 ---
 
-## 7. Creator Vision @sarah (36–42 Min.)
+## 7. Creator Vision @sarah (ca. 10 Min.)
 
 Raster im Miro-Board (Frame 7) live ausfüllen, kurz halten. Das Marketing-Masterdokument gilt hier **nicht**: Sarahs Personal Brand bekommt ein eigenes, wenn das Angebot für Unternehmerinnen steht. Pro Feld: Sarah zuerst, dann Julez' Vorschlag aus der Vorbereitung als Reibung.
 
@@ -181,7 +241,11 @@ Raster im Miro-Board (Frame 7) live ausfüllen, kurz halten. Das Marketing-Maste
 
 ---
 
-## 8. Creator Vision @brandyourvoice mit dem Marketing-Masterdokument (42–53 Min.)
+**Brücke (neu):** Werte (2a), Impact-Satz (2b) und Vision (3+) vorlesen. Message = wofür du stehst + was sich dadurch verändert. Challenge: „Welche Säule zahlt auf deinen Impact ein, welche nur auf Reichweite? Dient eine Säule keinem Wert: raus.“
+
+---
+
+## 8. Creator Vision @brandyourvoice mit dem Marketing-Masterdokument (ca. 12 Min.)
 
 _Ergänzt 2026-11-12 (Julez): Das Marketing-Masterdokument von Logical Lemon gilt für **Brand Your Voice**: Zielgruppe Anfängerinnen, Angebot Clear Words. Alle Fragen, Vorschläge aus dem Brain und Challenges stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`. Im Call nur die ★-Fragen, der Rest (○) kommt in einen Folgetermin. Miro: Frame 8+._
 
@@ -211,7 +275,7 @@ Ablauf pro Frage: Sarah antwortet zuerst. Dann zeigt Julez den blauen Brain-Vors
 
 ---
 
-## 9. Die nächsten 6–12 Monate (53–57 Min.)
+## 9. Die nächsten 6–12 Monate (ca. 6 Min.)
 
 Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.md`): Klarheit, Clear Words optimieren (Hauptprojekt), Personal Brand als Motor; Januar-Live-Webinar für Clear Words; Buch und brandyourAI bewusst später.
 
@@ -229,7 +293,7 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 ---
 
-## 10. Abschluss (57–60 Min.)
+## 10. Abschluss (ca. 5 Min.)
 
 1. **Creator Vision Brand Your Voice in einem Satz:** Sarah setzt aus den ★-Antworten selbst zusammen: „Brand Your Voice hilft [Wunschkundin], die [Hauptproblem], mit [Methodenname] zu [Hauptwunsch], weil [wichtigster Domino].“ Prüffragen stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`.
    **Laut sagen:** „Ich stehe für …“ und „Brand Your Voice steht für …“ (Julez schreibt wörtlich mit)
@@ -274,8 +338,9 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 **Auswertung (Claude, nach Eingang):** Häufigste Begriffe, wiederkehrende Themen, Abgleich mit den Content-Säulen aus dem Workshop und mit Sarahs Selbstbild („Ich stehe für …“). Unterschiede zwischen Familie, Netzwerk und Kundinnen getrennt zeigen.
 
-## Plan B, wenn die Zeit knapp wird
-- Block 2 auf die Fragen 1, 2 und 4 kürzen.
-- Block 7 (@sarah) auf Message und Who kürzen.
-- Block 8: wenn nötig Alternativen und Story in den Folgetermin schieben, nie Output, Methodenname und Dominos.
-- Nie streichen: Block 3 bis 5 (Vision und Geld) und Block 10 (die Creator Vision in einem Satz).
+## Wenn die Zeit nicht reicht
+
+_Geändert 2026-11-12 (Julez): Nichts wird gekürzt. Wir hören an einem natürlichen Schnittpunkt auf und machen im 2. Termin weiter._
+- **Schnittpunkt 1, nach 3+:** Sarahs Kern (Werte, Impact, Vision) ist fertig. Der 2. Termin beginnt mit Block 4 (BYV).
+- **Schnittpunkt 2, nach 7:** Sarah ist komplett. Der 2. Termin beginnt mit Block 8 (BYV und Masterdokument).
+- **Immer am Ende des ersten Termins:** kurz Block 10 (Klarheits-Wert, Hausaufgabe Fremdbild, To-dos mit Datum).
