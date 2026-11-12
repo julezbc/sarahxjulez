@@ -32,6 +32,15 @@
 
 **Ziele für die 3 Monate bis Februar 2027:** `firma/ziele-3-monate.md` (beschlossen am 05.11.2026)
 
+- Sarahs Material für Julez gespeichert (2026-11-06 bis 2026-11-08):
+  - Perfekter Arbeitstag: `notizen/sarah-perfekter-arbeitstag.md` (inkl. Korrektur: Sarah leitet nur etwa alle 3 Wochen selbst einen Gruppencall)
+  - Personal Brand, Rohmaterial fürs Audit (Leitsätze, Kette Denken → Aussprechen → Glauben → Verkörpern → Leben, Geschichte; teils vertraulich): `notizen/sarah-personal-brand-rohmaterial.md`
+  - brandyourAI-Ideen: One-Woman-Business mit KI-Agenten, Slogan-Idee, Zielgruppe und Pricing offen (noch keine Entscheidung): `notizen/sarah-brandyourai-ideen.md`
+  - Live-Webinar Januar: Fokus Clear Words, Datumsvarianten 07./10.01. oder 14./17.01.2027, Claim-Ideen, Frage Evergreen/VSL/Live: `marketing/live-webinar.md`
+  - Verlängerung Clear Words: Link zur Angebotsseite in `angebot/angebot.md`
+  - No-Show-Prozess Setting und Closing: `vertrieb/no-show-prozess.md`
+- Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
@@ -41,11 +50,16 @@
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
+- _Hinweis (Claude, 2026-11-12): Ergebnisse von Hennings Test-Setting/-Closing und den Calls vom 10.11. sind noch nicht im Repo; ob sie stattgefunden haben, ist hier nicht dokumentiert._
 
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
-- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen. → Prioritäten am 05.11. teilweise beschlossen (siehe `ENTSCHEIDUNGEN.md`); offen: brandyourAI-Launch im Januar vs. Brand-Your-Voice-Webinar.
+- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen. → Prioritäten am 05.11. teilweise beschlossen (siehe `ENTSCHEIDUNGEN.md`); offen: brandyourAI-Launch im Januar vs. Brand-Your-Voice-Webinar. → Sarah (2026-11-06): Januar-Webinar mit **Fokus Clear Words**, brandyourAI wird neu gedacht (`notizen/sarah-brandyourai-ideen.md`). Noch nicht als Entscheidung in `ENTSCHEIDUNGEN.md`.
 - Tracking-Sheet von Sarah: Zahlen in Block 6 nachtragen und den Funnel auswerten.
+- Live-Webinar: Datum (Variante A oder B), Claim, Werbebudget, VSL und Umgang mit dem Evergreen in der Bewerbungsphase festlegen (`marketing/live-webinar.md`).
+- brandyourAI: Ziel, Zielgruppe, Aufbau, Pricing und Frage „Software oder Agenten-Vorlagen?“ klären, eher nach dem Januar (`notizen/sarah-brandyourai-ideen.md`).
+- Personal-Brand-Audit mit Sarahs Rohmaterial (`notizen/sarah-personal-brand-rohmaterial.md`).
+- Adams Ad-Report steht noch aus.
 - ProvenExpert lesen: `*.provenexpert.com` in den erlaubten Domains ergänzen.
 - Website: Einkommensaussagen mit den Anwälten prüfen, Clear-Words-Seite und Team-Seite aktualisieren.
 - Weitere offene Punkte: `OFFENE-FRAGEN.md`.
