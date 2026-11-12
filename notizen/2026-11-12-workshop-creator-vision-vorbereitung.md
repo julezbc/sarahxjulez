@@ -4,6 +4,23 @@ _Stand: 2026-11-12 · vorbereitet von Claude für Julez. Raster nach Creator Col
 
 > Vertraulich: Sarahs private Haltung (siehe `notizen/sarah-personal-brand-rohmaterial.md`) gehört bewusst **nicht** aufs Board.
 
+## Arbeitshypothese für den Workshop (Julez, 2026-11-12)
+
+Sarah braucht zuerst **Klarheit**. Sie sagt immer wieder, dass ihr Themen für **Unternehmerinnen** mehr Spaß machen. Deshalb:
+
+| | **Sarahs Personal Brand** | **@brandyourvoice** |
+|---|---|---|
+| Zielgruppe | Unternehmerinnen (Zielgruppe B) | Anfängerinnen (Zielgruppe A) |
+| Themen | Verkaufspsychologie, Worte, die Umsatz machen, Positionierung, Business mit KI (One-Woman-Show) | Einstieg ins Copywriting, Mindset, Mut zum Neuanfang, Erfolgsgeschichten |
+| Angebot dahinter | noch offen (Mentoring Zielgruppe B / neues brandyourAI?) | Clear Words, 0-€-Copywriting-Masterclass |
+
+_Noch keine Entscheidung, im Workshop mit Sarah prüfen._
+
+_Anmerkungen (Claude):_
+- _Unterschied zu Eileen: Eileen schlägt vor, **Empowerment/Mindset auf Sarahs Account** zu verlagern und @brandyourvoice businessnäher (Copywriting-Grundlagen) zu machen. Die Hypothese hier legt Mindset eher zu @brandyourvoice. Im Workshop klären: Welches Mindset gehört wohin? Möglich: Anfängerinnen-Mindset („Bin ich gut genug?“, Job kündigen, Sichtbarkeit) bei @brandyourvoice; Unternehmerinnen-Mindset (Preise, Invest, Entscheidungen, Selbstbestimmung) bei Sarah._
+- _Für Sarahs Account braucht es ein **Angebot für Unternehmerinnen**, sonst baut die Personal Brand Reichweite ohne Produkt auf (Eileens Punkt 4). Kandidat: das Mentoring für Zielgruppe B bzw. die One-Woman-Business-Idee (`notizen/sarah-brandyourai-ideen.md`)._
+- _Der Januar-Launch läuft über @brandyourvoice für Clear Words (Anfängerinnen). Das passt zur Aufteilung._
+
 ## Aufwärmen: „Find your message“ (drei Leitfragen aus dem Raster)
 
 1. **Habe ich eine Gegenposition zum Mainstream?** Vorschläge: „Mindset ohne Strategie ist Esoterik, Strategie ohne Mindset ist Druck: es braucht beides.“ / „Du brauchst kein 10-köpfiges Team und keine 80-Stunden-Woche.“ / „Nicht stark *oder* weich: beides.“ / „KI nimmt dir nicht den Job, wenn du sie führst.“ (Personal Brand, brandyourAI-Ideen)
