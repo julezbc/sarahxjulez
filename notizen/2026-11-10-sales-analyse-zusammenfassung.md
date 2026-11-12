@@ -1,5 +1,7 @@
 # Sales-Analyse-Call 10.11.2026 (Zoom-KI-Zusammenfassung)
 
+_Zoom-UUID: RRhAMcHMQdiHRceG+mObbA==_
+
 _Quelle: Zoom-AI-Companion-Zusammenfassung des Calls vom 10.11.2026, ca. 09:52–11:08 Uhr. Teilnehmende laut Zoom: Julez (mit Jacky), Henning Strohauer, Sarah, Jana, René. Ein Wortlaut-Transkript ist in Zoom nicht vorhanden (Fireflies war als Notetaker dabei, darauf hat Claude keinen Zugriff). Eingespeichert von Claude für Julez am 2026-11-12._
 
 > **Achtung, KI-Zusammenfassung:** Namen und Zahlen können falsch erkannt sein. Offensichtliche Widersprüche sind unten markiert. Zahlen erst nach Prüfung verwenden.

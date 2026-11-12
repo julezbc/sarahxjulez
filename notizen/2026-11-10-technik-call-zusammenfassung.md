@@ -1,5 +1,7 @@
 # Technik-/Automations-Call 10.11.2026 (Zoom-KI-Zusammenfassung)
 
+_Zoom-UUID: z2Ha+rZaTN6DRcTiSplGeQ==_
+
 _Quelle: Zoom-AI-Companion-Zusammenfassung des Calls vom 10.11.2026, ca. 13:36–14:01 Uhr. Teilnehmende laut Zoom: Julez (mit Jacky), Sarah, „BYV Admin“, Andre. Ein Wortlaut-Transkript ist in Zoom nicht vorhanden. Eingespeichert von Claude für Julez am 2026-11-12._
 
 > **Achtung, KI-Zusammenfassung:** Namen können falsch erkannt sein (z. B. „Pia“ statt Pierre, „Selters Team“ statt Setter-Team).
