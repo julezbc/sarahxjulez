@@ -29,10 +29,10 @@ Sarah hat in den letzten zehn Tagen schon sehr viel gesagt, aber verteilt und te
 | 18–24 | 4. Vision 2031: Brand Your Voice | Vision + Mission BYV, Sarahs Rolle |
 | 24–28 | 5. Das Spannungsfeld: 250k vs. „kein goldenes Hamsterrad“ | Was die Zahl für das Modell bedeutet |
 | 28–36 | 6. Zwei Profile trennen | Sortierung S / B / X |
-| 36–46 | 7. Creator Vision @sarah | Raster ausgefüllt |
-| 46–53 | 8. Creator Vision @brandyourvoice | Raster ausgefüllt |
+| 36–48 | 7. Creator Vision @sarah mit Masterdokument-Kernfragen | Who / What / Why + Methodenname |
+| 48–53 | 8. Creator Vision @brandyourvoice | Vorbefüllung bestätigt oder korrigiert |
 | 53–57 | 9. Die nächsten 6–12 Monate | je 3 Ziele + Stopp-Liste |
-| 57–60 | 10. Abschluss | Ein Satz, neuer Wert, To-dos |
+| 57–60 | 10. Abschluss | Creator Vision in einem Satz, neuer Wert, To-dos |
 
 ---
 
@@ -157,38 +157,44 @@ Julez nennt die Karten schnell, Sarah sagt sofort **S** (@sarah), **B** (@brandy
 
 ---
 
-## 7. Creator Vision @sarah (36–46 Min.)
+## 7. Creator Vision @sarah mit den Kernfragen aus dem Marketing-Masterdokument (36–48 Min.)
 
-Raster in Canva live ausfüllen. Pro Feld: Sarah zuerst, dann Julez' Vorschlag aus der Vorbereitung als Reibung.
+_Ergänzt 2026-11-12 (Julez): Die Fragen aus dem Marketing-Masterdokument von Logical Lemon füllen das Raster. Alle Fragen, Vorbefüllungen und Challenges stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`, Teil A. Im Call nur die ★-Fragen, der Rest (○) kommt in einen Folgetermin._
 
-**WHAT: Message (3 Min.)**
-- Aufwärmen mit den drei Fragen: Was ist deine Gegenposition zum Mainstream? Welche Veränderung sollen Menschen erleben? Wofür kommen Leute von sich aus zu dir?
-- „Vervollständige: **Ich glaube, dass Unternehmerinnen …**“
-- Challenge: „Das könnte auch jede andere Business-Coachin sagen. Was sagst **nur du**?“
+**WHO (4 Min.)**
+- Zielgruppe mit den 5 Filtern prüfen: zahlungskräftig, angenehm, von außen erkennbar, entscheidet selbst, Markt wächst.
+- Negativ- und Positiv-Filter, nur aus echter Erfahrung.
+- 3 Symptome **in den Worten der Kundin**: „Was steht in den DMs?“
+- Younger-You-Prinzip: „Wer warst du vor 2–3 Jahren?“
 
-**WHAT: 4 Säulen (3 Min.)** Skill (hier wird verdient) · Perspective (wie du denkst) · Lifestyle (wie du lebst) · Passions (was du liebst)
-- Challenge: „Über welche Säule könntest du 100 Posts machen, ohne dich zu langweilen? Welche bringt Kundinnen?“
+**WHAT (6 Min.)**
+- Hauptproblem und Hauptwunsch, je ein Satz.
+- Alternativen: Was machen sie stattdessen?
+- **Output:** die eine große Sache am Ende.
+- **Methodenname** mit Titel-Test („Du hast [Problem]? Mach [Name]!“).
+- **2–3 Dominos:** Was muss sie glauben?
+- Die 4 Content-Säulen (Skill, Perspective, Lifestyle, Passions) nur kurz gegenchecken: Passen sie zu Output und Dominos?
 
-**WHO: Avatar (3 Min.)**
-- Demografie: Alter, Branche, Umsatz, Lebenssituation
-- Psychografie: größter Pain, größter Wunsch
-- **Younger-You-Prinzip:** „Wer warst du vor 2–3 Jahren? Für die machst du Content.“
-- Challenge: „Kann diese Frau sich ein Angebot ab 5.000 € leisten? Woher weißt du das?“
+**WHY (2 Min.)**
+- Expertennachweis: **einer**, der Unternehmerinnen überzeugt.
+- Story: Problem → Pursuit → Payoff, nur die Überschrift.
 
-**WHY: Story (3 Min.)** Problem → Pursuit → Payoff
-- „Welcher Moment hat dich zu der gemacht, die Unternehmerinnen heute etwas beibringen darf?“
-- Challenge: „Was davon erzählst du öffentlich, was bleibt privat?“
+**Challenges:**
+- „Das sind fünf Dinge. Welches ist **das eine**?“
+- „Das könnte jede Business-Coachin sagen. Was sagst **nur du**?“
+- „Fast alle Erfolgsgeschichten sind von Anfängerinnen. Was beweist Unternehmerinnen, dass du ihnen hilfst?“
 
 ---
 
-## 8. Creator Vision @brandyourvoice (46–53 Min.)
+## 8. Creator Vision @brandyourvoice (48–53 Min.)
 
-Gleiches Raster, schneller. Die Antworten aus Block 4 (Vision BYV) und Block 6 (Sortierung) sind die Grundlage. Vorschlag zum Abgleich:
-- **Message:** „Wie du mit Worten dein eigenes Einkommen aufbaust, auch ohne Vorkenntnisse.“ (Eileen: „Wie du mit Worten UMSATZ machst“)
-- **Säulen:** Skill = Copywriting-Grundlagen und KI für Einsteigerinnen · Perspective = Mindset für den Neustart · Lifestyle = Alltag einer Copywriterin, Mütter, ortsunabhängig · Passions = Erfolgsgeschichten, Community, Ubuntu
-- **Who:** Angestellte Frau 25–45, oft Mutter, „sonntags Bauchweh vor Montag“, wünscht Freiheit und eigenes Einkommen
-- **Why:** Sarahs **und Janas** Story (Jana introvertiert, „Copywriting ist das beste Business für Introvertierte“)
-- Challenge: „Wer ist das Gesicht von @brandyourvoice, du, Jana oder beide? Und was heißt das für deine Zeit?“
+Claude hat das Masterdokument für Clear Words vorher aus dem Brain vorbefüllt (Teil B). Sarah bestätigt oder korrigiert nur:
+- Zielgruppe
+- Hauptproblem und Hauptwunsch
+- Output
+- Expertennachweis
+
+Dazu die Kernfrage: „Wer ist das Gesicht von @brandyourvoice, du, Jana oder beide? Und was heißt das für deine Zeit?“
 
 ---
 
@@ -214,13 +220,15 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 ## 10. Abschluss (57–60 Min.)
 
-1. **Laut sagen:** „Ich stehe für …“ und „Brand Your Voice steht für …“ (Julez schreibt wörtlich mit)
+1. **Creator Vision in einem Satz:** Sarah setzt aus den ★-Antworten selbst zusammen: „Ich helfe [Wunschkundin], die [Hauptproblem], mit [Methodenname] zu [Hauptwunsch], weil [wichtigster Domino].“ Danach dasselbe für Brand Your Voice. Prüffragen stehen in `notizen/2026-11-12-workshop-marketing-masterdokument.md`.
+   **Laut sagen:** „Ich stehe für …“ und „Brand Your Voice steht für …“ (Julez schreibt wörtlich mit)
 2. **Klarheits-Skala** nochmal für beide. Vergleich mit dem Wert vom Anfang.
 3. **Hausaufgabe mitgeben:** WhatsApp-Nachricht ans Umfeld (Text unten)
 4. **Max. 3 nächste Schritte** mit Name und Datum, zum Beispiel:
    - BYV-Vision und Mission mit Jana abstimmen (Sarah)
    - Creator Visions in Content-Säulen und Redaktionsplan für beide Profile übersetzen (Julez mit Eileen)
    - Angebot hinter @sarah skizzieren (Sarah und Julez)
+   - Folgetermin Masterdokument (○-Fragen, ca. 45 Min.), Claude füllt vorher vor (Julez)
 
 **Nach dem Call:** Ergebnisse ins Brain (`ENTSCHEIDUNGEN.md`, Creator Visions als eigene Datei), Zusammenfassung an Sarah. Die Zoom-Zusammenfassung kommt über die Routine.
 
@@ -255,5 +263,6 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 
 ## Plan B, wenn die Zeit knapp wird
 - Block 2 auf die Fragen 1, 2 und 4 kürzen.
-- Block 8 nur Message und Who, Rest per Sprachnachricht nachreichen.
-- Nie streichen: Block 3 bis 5 (Vision und Geld) und Block 10 (ein Satz).
+- Block 8 nur Zielgruppe und Hauptwunsch bestätigen, Rest im Folgetermin.
+- Block 7: wenn nötig Alternativen und Säulen-Check in den Folgetermin schieben, nie Output, Methodenname und Dominos.
+- Nie streichen: Block 3 bis 5 (Vision und Geld) und Block 10 (die Creator Vision in einem Satz).
