@@ -17,14 +17,14 @@ Sarah hat in den letzten zehn Tagen schon sehr viel gesagt, aber verteilt und te
 4. Fokus für die nächsten 6–12 Monate mit Stopp-Liste
 5. Klarheits-Wert vorher/nachher (Ziel aus dem Onboarding: von 5–6 auf 8–9)
 
-**Spielregeln (am Anfang ansagen):** Erste Antwort zählt. Julez liest Sarahs eigene Sätze vor, Sarah reagiert nur mit „stimmt“, „stimmt nicht mehr“ oder „stimmt, aber …“. Julez schreibt mit, Sarah redet. Kein Schönformulieren, das macht Claude danach.
+**Spielregeln (am Anfang ansagen):** Erste Antwort zählt. Julez stellt Fragen zu Sarahs eigenen Sätzen, Sarah antwortet aus dem Bauch. Julez schreibt mit, Sarah redet. Kein Schönformulieren, das macht Claude danach.
 
 ## Ablauf auf einen Blick
 
 | Min. | Block | Ergebnis |
 |---|---|---|
 | 0–3 | 1. Einstieg mit Sarahs eigenem Satz | Klarheits-Wert |
-| 3–10 | 2. Spiegel: Was du schon gesagt hast | 6 Aussagen bestätigt oder verworfen |
+| 3–10 | 2. Challenge: Deine eigenen Sätze weitergedacht | 6 Antworten, unangenehmste Frage |
 | 10–18 | 3. Vision 2031: Sarah | Vision + Mission Sarah |
 | 18–24 | 4. Vision 2031: Brand Your Voice | Vision + Mission BYV, Sarahs Rolle |
 | 24–28 | 5. Das Spannungsfeld: 250k vs. „kein goldenes Hamsterrad“ | Was die Zahl für das Modell bedeutet |
@@ -49,20 +49,28 @@ Beide Werte notieren.
 
 ---
 
-## 2. Spiegel: Was du schon gesagt hast (3–10 Min.)
+## 2. Challenge: Deine eigenen Sätze weitergedacht (3–10 Min.)
 
-Julez liest jeden Satz vor. Sarah antwortet sofort: **stimmt / stimmt nicht mehr / stimmt, aber …** Nur bei „aber“ 30 Sekunden nachfragen.
+_Geändert 2026-11-12 (Julez): Die Sätze kennen wir schon, „stimmt / stimmt nicht“ bringt keine neue Klarheit. Deshalb wird aus jedem Satz eine Frage, die Sarah zwingt, ihn zu Ende zu denken._
 
-1. „Ich will dafür bekannt sein wie Elke Rock: Zu der gehst du und weißt, was die macht. … Wenn wir eine Expertin wollen, dann rufen wir die an.“ (Call 05.11., 1:13)
-2. „Am wohlsten würde ich mich darin fühlen: dieser ganze psychologische Part, wie denken Menschen, wie kaufen Menschen, in den Texten drin bleiben und die KI draufsetzen. Den **Unternehmerinnen** das zu teachen, da hätte ich Bock. Aber nicht mit diesem ganzen Technik-Part und wie schaltest du Ads.“ (Call 05.11., 38:23)
-3. „Ich will nicht so ein zweites LLP werden, eine zweite Verena. … Ich will keine elf Tage Webinare schieben. Ich will nicht dieses goldene Hamsterrad.“ (Call 05.11., 39:09 und 1:14)
-4. „Ich liebe diese Calls, da vergesse ich Raum und Zeit … aber bekannt bin ich halt nicht dafür.“ (Call 05.11., 1:14, über ihren Workshop bei den SHEO Days)
-5. „Ich stehe morgens nicht wegen Geld auf. … Wenn ich das mache, worauf ich richtig Bock habe, dann ist Geld die logische Konsequenz.“ (Call 05.11., 1:17)
-6. „Clear Mind, Clear Words, Clear Voice, KI. Das braucht man im ganzen Leben. Ich weiß nur manchmal nicht, ob das für eine Positionierung zu breit ist.“ (Dokument an Julez)
+Julez stellt die Frage, Sarah antwortet aus dem Bauch. Julez hakt **einmal** nach: „Woran merkst du das?“ oder „Und warum?“
 
-**Bonus, falls Zeit:** „Bei KI für Frauen möchte ich die Vorreiterin sein, und zwar für genau diese eine Sache.“ (Dokument an Julez) und „Ist Mindset und Frauen-Empowerment nicht total ausgelutscht?“ (Personal-Brand-Material, 06.11.)
+1. **Elke Rock** („Ich will dafür bekannt sein wie Elke Rock …“, Call 05.11., 1:13)
+   Vervollständige: „Wenn wir eine Expertin für ___ brauchen, rufen wir Sarah an.“ Und wofür rufen dich die Leute heute wirklich an?
+2. **Psychologie + KI für Unternehmerinnen** („Den Unternehmerinnen das teachen, da hätte ich Bock.“, Call 05.11., 38:23)
+   Das macht dir am meisten Spaß. Warum ist es heute noch nicht der Kern deines Contents und deines Umsatzes? Was hält dich ab?
+3. **Kein goldenes Hamsterrad** („Ich will nicht so ein zweites LLP werden …“, Call 05.11., 39:09 und 1:14)
+   Du weißt genau, was du NICHT willst. Wie sieht das Modell aus, das du stattdessen willst: wie viele Kundinnen, welcher Preis, wie viele Stunden pro Woche?
+4. **Calls lieben, nicht bekannt dafür** („… aber bekannt bin ich halt nicht dafür.“, Call 05.11., 1:14, SHEO Days)
+   Warum nicht? Was müsstest du zeigen, damit man dich in 12 Monaten genau dafür bucht?
+5. **Geld als Folge** („Ich stehe morgens nicht wegen Geld auf.“, Call 05.11., 1:17)
+   Worauf genau hast du richtig Bock, sodass das Geld folgt? Und wenn Geld nicht der Antrieb ist: Wessen Ziel ist dann die große Gewinnzahl für 2027? (Vorgriff auf Block 5, hier nur anreißen)
+6. **Zu breit?** („Clear Mind, Clear Words, Clear Voice, KI … zu breit?“, Dokument an Julez)
+   Ist „zu breit“ wirklich das Problem, oder fehlt der rote Faden? Was verbindet die vier, in einem Wort?
 
-**Abschlussfrage des Blocks:** „Wenn alle sechs stimmen: Was folgt daraus für deine Personal Brand, in einem Satz?“
+**Bonus, falls Zeit:** „Du willst Vorreiterin bei KI für Frauen sein und findest Mindset und Empowerment ‚ausgelutscht‘. Warum steht beides dann noch in deinem Content?“
+
+**Abschlussfrage des Blocks:** „Welche Frage war am unangenehmsten, und was sagt dir das über deine Positionierung?“
 
 ---
 
@@ -246,6 +254,6 @@ Julez erinnert an das, was schon beschlossen ist (05.11., `firma/ziele-3-monate.
 **Auswertung (Claude, nach Eingang):** Häufigste Begriffe, wiederkehrende Themen, Abgleich mit den Content-Säulen aus dem Workshop und mit Sarahs Selbstbild („Ich stehe für …“). Unterschiede zwischen Familie, Netzwerk und Kundinnen getrennt zeigen.
 
 ## Plan B, wenn die Zeit knapp wird
-- Block 2 auf die Sätze 1, 2 und 5 kürzen.
+- Block 2 auf die Fragen 1, 2 und 4 kürzen.
 - Block 8 nur Message und Who, Rest per Sprachnachricht nachreichen.
 - Nie streichen: Block 3 bis 5 (Vision und Geld) und Block 10 (ein Satz).
