@@ -49,6 +49,13 @@ Bausteine aus `notizen/sarah-personal-brand-rohmaterial.md` und Block 1, als Vor
 
 **Im Workshop:** Welche Story ist die Ursprungsgeschichte? Was darf öffentlich sein (Mutter, Familie)? Konkrete Zahlen/Momente für den Payoff (nur mit Quelle).
 
+
+## Input aus Eileens Profilanalyse (Miro, siehe `marketing/profilanalyse-eileen-2026-11.md`)
+
+- Auf Sarahs Account sieht Eileen: **Female Empowerment, Mindset, Persönlichkeit, Psychologie**. Vorschlag: Empowerment-Content von @brandyourvoice auf Sarahs Account verlagern, Sarah zusätzlich mit **Verkaufspsychologie** und „Worte, die Umsatz machen“ für **Unternehmerinnen**; @brandyourvoice bleibt bei Anfängerinnen und wird businessorientierter.
+- Das passt zum Raster: **Skill** = Verkaufspsychologie/Worte, die Umsatz machen; **Perspective/Passions** = Empowerment, Mindset, Psychologie; **Who** auf Sarahs Account eher Zielgruppe B (Unternehmerinnen), die laut Eileen auf Instagram ohnehin „sau stark“ vertreten ist.
+- Eileens Kernfrage gilt auch hier: **Welche Hauptzielgruppe?** Und: Wie trennen wir Sarahs Personal Brand klar vom Brand-Your-Voice-Account?
+
 ## Offene Fragen an Sarah (Kurzliste)
 
 1. In einem Satz: Wofür stehst du? (Ziel aus den 3-Monats-Zielen: Klarheit von 5–6 auf 8–9)

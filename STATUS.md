@@ -39,6 +39,7 @@
   - Live-Webinar Januar: Fokus Clear Words, Datumsvarianten 07./10.01. oder 14./17.01.2027, Claim-Ideen, Frage Evergreen/VSL/Live: `marketing/live-webinar.md`
   - Verlängerung Clear Words: Link zur Angebotsseite in `angebot/angebot.md`
   - No-Show-Prozess Setting und Closing: `vertrieb/no-show-prozess.md`
+- Profilanalyse von Eileen Gechert (Miro) gespeichert: `marketing/profilanalyse-eileen-2026-11.md`; Workshop-Vorbereitung Creator Vision: `notizen/2026-11-12-workshop-creator-vision-vorbereitung.md` (Claude für Julez, 2026-11-12)
 - Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
 
 ## Nächste Termine (aus dem Call vom 05.11.2026)
