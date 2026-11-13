@@ -42,6 +42,7 @@
 - Profilanalyse von Eileen Gechert (Miro) gespeichert: `marketing/profilanalyse-eileen-2026-11.md`; Workshop-Vorbereitung Creator Vision: `notizen/2026-11-12-workshop-creator-vision-vorbereitung.md` (Claude für Julez, 2026-11-12)
 - Marketing-Masterdokument (Logical Lemon) für **Brand Your Voice** (Anfängerinnen, Clear Words) in den Workshop eingebunden: `notizen/2026-11-12-workshop-marketing-masterdokument.md` (Kernfragen ★ in Block 8, Rest ○ im Folgetermin; Ziel: Creator Vision BYV in einem Satz). Miro-Board: Frames 8+ und 11 (Claude für Julez, 2026-11-12)
 - Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
+- Workshop Klarheit & Creator Vision mit Sarah (Zoom, 12.11.2026) gespeichert: Zusammenfassung `notizen/2026-11-12-workshop-klarheit-zusammenfassung.md`, Transkript `notizen/2026-11-12-workshop-klarheit-transkript.md`; zweiter Termin offen (Claude für Julez, 2026-11-13)
 
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
