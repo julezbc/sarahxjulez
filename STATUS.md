@@ -32,6 +32,18 @@
 
 **Ziele für die 3 Monate bis Februar 2027:** `firma/ziele-3-monate.md` (beschlossen am 05.11.2026)
 
+- Sarahs Material für Julez gespeichert (2026-11-06 bis 2026-11-08):
+  - Perfekter Arbeitstag: `notizen/sarah-perfekter-arbeitstag.md` (inkl. Korrektur: Sarah leitet nur etwa alle 3 Wochen selbst einen Gruppencall)
+  - Personal Brand, Rohmaterial fürs Audit (Leitsätze, Kette Denken → Aussprechen → Glauben → Verkörpern → Leben, Geschichte; teils vertraulich): `notizen/sarah-personal-brand-rohmaterial.md`
+  - brandyourAI-Ideen: One-Woman-Business mit KI-Agenten, Slogan-Idee, Zielgruppe und Pricing offen (noch keine Entscheidung): `notizen/sarah-brandyourai-ideen.md`
+  - Live-Webinar Januar: Fokus Clear Words, Datumsvarianten 07./10.01. oder 14./17.01.2027, Claim-Ideen, Frage Evergreen/VSL/Live: `marketing/live-webinar.md`
+  - Verlängerung Clear Words: Link zur Angebotsseite in `angebot/angebot.md`
+  - No-Show-Prozess Setting und Closing: `vertrieb/no-show-prozess.md`
+- Profilanalyse von Eileen Gechert (Miro) gespeichert: `marketing/profilanalyse-eileen-2026-11.md`; Workshop-Vorbereitung Creator Vision: `notizen/2026-11-12-workshop-creator-vision-vorbereitung.md` (Claude für Julez, 2026-11-12)
+- Marketing-Masterdokument (Logical Lemon) für **Brand Your Voice** (Anfängerinnen, Clear Words) in den Workshop eingebunden: `notizen/2026-11-12-workshop-marketing-masterdokument.md` (Kernfragen ★ in Block 8, Rest ○ im Folgetermin; Ziel: Creator Vision BYV in einem Satz). Miro-Board: Frames 8+ und 11 (Claude für Julez, 2026-11-12)
+- Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
+- Workshop Klarheit & Creator Vision mit Sarah (Zoom, 12.11.2026) gespeichert: Zusammenfassung `notizen/2026-11-12-workshop-klarheit-zusammenfassung.md`, Transkript `notizen/2026-11-12-workshop-klarheit-transkript.md`; zweiter Termin offen (Claude für Julez, 2026-11-13)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
@@ -41,11 +53,16 @@
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
+- **Calls vom 10.11. haben stattgefunden.** Zoom-KI-Zusammenfassungen (kein Wortlaut-Transkript vorhanden): Sales-Analyse `notizen/2026-11-10-sales-analyse-zusammenfassung.md`, Technik-Call `notizen/2026-11-10-technik-call-zusammenfassung.md` (Claude für Julez, 2026-11-12).
 
 ## Offen
 - Sarah zum Repo einladen (GitHub → Settings → Collaborators).
-- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen. → Prioritäten am 05.11. teilweise beschlossen (siehe `ENTSCHEIDUNGEN.md`); offen: brandyourAI-Launch im Januar vs. Brand-Your-Voice-Webinar.
+- Spielplan mit Sarah und Julez besprechen und Beschlüsse in `ENTSCHEIDUNGEN.md` eintragen. → Prioritäten am 05.11. teilweise beschlossen (siehe `ENTSCHEIDUNGEN.md`); offen: brandyourAI-Launch im Januar vs. Brand-Your-Voice-Webinar. → Sarah (2026-11-06): Januar-Webinar mit **Fokus Clear Words**, brandyourAI wird neu gedacht (`notizen/sarah-brandyourai-ideen.md`). Noch nicht als Entscheidung in `ENTSCHEIDUNGEN.md`.
 - Tracking-Sheet von Sarah: Zahlen in Block 6 nachtragen und den Funnel auswerten.
+- Live-Webinar: Datum (Variante A oder B), Claim, Werbebudget, VSL und Umgang mit dem Evergreen in der Bewerbungsphase festlegen (`marketing/live-webinar.md`).
+- brandyourAI: Ziel, Zielgruppe, Aufbau, Pricing und Frage „Software oder Agenten-Vorlagen?“ klären, eher nach dem Januar (`notizen/sarah-brandyourai-ideen.md`).
+- Personal-Brand-Audit mit Sarahs Rohmaterial (`notizen/sarah-personal-brand-rohmaterial.md`).
+- Adams Ad-Report steht noch aus.
 - ProvenExpert lesen: `*.provenexpert.com` in den erlaubten Domains ergänzen.
 - Website: Einkommensaussagen mit den Anwälten prüfen, Clear-Words-Seite und Team-Seite aktualisieren.
 - Weitere offene Punkte: `OFFENE-FRAGEN.md`.
