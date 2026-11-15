@@ -28,6 +28,19 @@ brandyourAI war, auch im Gespräch mit Julez, im Grunde als **Skalierungsprogram
     - oder **Frauen in jedem Business**, besonders alles rund um **Social Media**: „ein riesiger Markt, wo wir uns voll gut platzieren könnten“
   - **Invest und Pricing**
 
+## brandyourAI als Upsell-Produkt (Sarah, 2026-11-15)
+
+- **brandyourAI soll das Upsell-Produkt sein**, also der nächste Schritt nach Clear Words.
+- **Inhalt: nur das Thema KI**, also KI und Copywriting.
+- **Kernfrage:** Wie „brande“ ich meine KI, damit sie mir liefert:
+  - **Newsletter**
+  - **Beiträge für Social Media**
+  - **Content-Recycling**
+  - und Ähnliches
+- Gegebenenfalls auch **KI-Agenten**: wie ich mir mit KI **Zeit spare**.
+
+_Damit ist die Frage „Zielgruppe: Absolventinnen als Upsell oder Frauen in jedem Business?“ aus dem Brainstorming oben für den Moment zugunsten des **Upsells** beantwortet. Der Fokus liegt auf KI für die eigene Kommunikation, nicht mehr auf einem breiten Skalierungsprogramm (Positionierung, Hochpreis-Angebot, Website)._
+
 ---
 
 _Verbindungen und Fragen (Claude), für das Gespräch mit Julez:_

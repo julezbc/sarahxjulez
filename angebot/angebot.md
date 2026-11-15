@@ -42,6 +42,8 @@ _Stand: 2026-11-05 · Antworten von: Sarah_
 (Sarah, 2026-11-05)
 
 > **Ideen zur Weiterentwicklung (Sarah, 2026-11-06):** brandyourAI als Angebot für das **One-Woman-Business mit KI-Agenten**, eventuell mit eigener Software. Siehe `notizen/sarah-brandyourai-ideen.md`.
+>
+> **Neu (Sarah, 2026-11-15):** brandyourAI soll das **Upsell-Produkt** nach Clear Words sein, **nur zum Thema KI**: die eigene KI so „branden“, dass sie Newsletter, Social-Media-Beiträge und Content-Recycling liefert, gegebenenfalls mit KI-Agenten zum Zeitsparen.
 
 ## Häufigster Einstieg und größtes Paket
 
