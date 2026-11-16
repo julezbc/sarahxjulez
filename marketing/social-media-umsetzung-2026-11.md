@@ -1,193 +1,107 @@
 # Social Media: Umsetzung für Brand Your Voice und Sarahs Personal Brand
 
-_Stand: 2026-11-16 · erstellt von Claude für Julez. Gleicher Inhalt wie im Miro-Board, Frames **U0 bis U7** (rechts neben den Workshop-Frames). Grundlagen:_
-- _Workshop vom 12.11. (`notizen/2026-11-12-workshop-klarheit-transkript.md`)_
-- _das Interview_
-- _Eileens Analyse (`marketing/profilanalyse-eileen-2026-11.md`)_
-- _Sarahs offene Fragen vom 15.11. (`OFFENE-FRAGEN.md`)_
+_Stand: 2026-11-16 · erstellt von Claude für Julez, zweite Fassung (neu aufgebaut nach Julez' Feedback)._
 
-> **Alles hier ist ein Vorschlag.** Werte und Vision sind Entwürfe aus dem Workshop. Sarah bestätigt oder korrigiert.
-> **Vertraulich**, wo es um Sarahs Geschichte geht: Was öffentlich wird, entscheidet Sarah.
+**Miro-Board:** https://miro.com/app/board/uXjVEN01nTM= („Sarah × Julez · Social Media Umsetzung“, privat im Konto von Julez). 22 Folien im 16:9-Format, Präsentationsmodus möglich. Auf jeder Post-Folie gibt es Platzhalter mit gestricheltem Rand für Beispiele. Die erste Fassung (Frames U0–U7 im Workshop-Board) ist ersetzt und gelöscht.
 
-## Was wir seit dem Workshop wissen (U1)
+**Grundlagen:**
+- Workshop vom 12.11. (`notizen/2026-11-12-workshop-klarheit-transkript.md`)
+- Onboarding-Call vom 05.11. (`notizen/2026-11-05-onboarding-call-transkript.md`)
+- das komplette Interview
+- Brand Voice (`sprache/brand-voice.md`)
+- Branchenregeln
+- Eileens Analyse (`marketing/profilanalyse-eileen-2026-11.md`)
+- Sarahs Notizen (Personal-Brand-Material, perfekter Arbeitstag, Gedanken zu Programmen)
+- Sarahs offene Fragen vom 15.11.
 
-### Wofür Sarah angefragt wird
+> **Alles ist ein Vorschlag.** Werte und Vision sind Entwürfe aus dem Workshop, Sarah bestätigt.
+> **Keine Einkommensversprechen** in Posts (Branchenregeln). **Was von Sarahs Geschichte öffentlich wird, entscheidet Sarah.**
 
-Sarah wird für **Klarheit und Kommunikation** angefragt, innen wie außen.
-- **Kern:** Verkaufspsychologie, also „Warum kaufen Menschen, wie kaufen Menschen“, dazu der **Perspektivwechsel**.
-- „Copywriting ist mittlerweile so ausgelutscht“: **Verkaufspsychologie** wird die Überschrift.
+## Folien im Überblick
 
-### Werte (Entwurf)
-
-Aus dem Workshop kommen vier Kandidaten. Sarah wählt drei davon.
-- **Selbstbestimmung:** „Wann arbeite ich? Wo arbeite ich?“
-- **Loyalität**
-- **Ehrlichkeit:** „Ich spreche die Dinge aus“, keine Versprechen.
-- **Eigenverantwortung:** „Laufen und kauen musst du alleine.“
-
-### Wogegen sie steht
-
-- Einheitslösungen
-- Versprechen und Garantien
-- „Premium“ und „Exklusivität“ als Status (Chanel, Prada)
-- die „Bossbitch“-Härte: „Ich muss nicht immer die starke Frau spielen.“
-
-### Vision 2031
-
-- Eine Academy mit Clear Mind, Clear Words und Clear Voice.
-- Sarah ist „die Stimme“: Sie gibt Keynotes und macht etwa einen Special Call im Monat, nichts Operatives.
-- Für jetzt heißt das: Verkaufspsychologie.
-
-### Brand Your Voice
-
-- Die Mission von 2022 gilt.
-- Das Versprechen ist umgeframed: Das Programm soll lebensverändernd sein, auch wenn das Business klein bleibt.
-- Die größte Hürde der Kundinnen ist Sichtbarkeit, denn sichtbar werden heißt bewertet werden.
-
-### Im Workshop beschlossen
-
-- Sarahs privates Profil wird ihre Personal Brand.
-- Das Podcast-Instagram wird aufgelöst, die Snippets kommen auf @brandyourvoice.
-- 3 Test-Reels.
-- Mehr eigene Geschichte in den Storys.
-- Podcast-Folge mit Jana: „5 unangenehme Fragen“.
-
-## Zwei Profile, klare Rollen (U2)
-
-| | @brandyourvoice: die Schule | @sarah: die Stimme |
+| Nr. | Folie | Inhalt |
 |---|---|---|
-| Für wen | **Stufe 1** „Copywriting als Business? Nie gehört.“ **Stufe 2** „Ich texte schon, verdiene aber erst 200–500 € oder finde keine Kundinnen.“ (Julez im Workshop) | Unternehmerinnen und Frauen, die Sarah als Mensch folgen |
-| Ton | unperfekter, Alltag, weniger poliert (Eileen) | facettenreich, Meinung, Geschichte, darf weniger aufgeräumt sein |
-| Gesichter | Sarah und Jana | Sarah |
-| Ziel | **ein** CTA: 0-€-Masterclass, ab Dezember das Januar-Live | Vertrauen, Anfragen für Bühne, Podcast, Presse; später ein Premium-Angebot (Sarahs Idee vom 09.11.) |
-| Nicht hier | allgemeines Empowerment, Politik, Wachstum für Unternehmerinnen | Copywriting-Grundlagen für Anfängerinnen |
+| 00 | Start | Titel, @brandyourvoice = die Schule, @sarah = die Stimme |
+| 01 | Das Fundament | Kernthema Verkaufspsychologie, Werte (Selbstbestimmung, Loyalität, Ehrlichkeit, Eigenverantwortung), Dagegen, Vision 2031 |
+| 02 | Jeder Satz ist ein Hook | 10 Originalsätze von Sarah, jeweils mit Post-Idee |
+| 03 | Zwei Profile, zwei Rollen | Für wen, Gefühl nach dem Post, Ton, Gesicht, Ziel; Brücke zwischen den Profilen |
+| 04 | Bewusstseins-Treppe BYV | Stufe 1–4 mit innerer Stimme, Content und CTA |
+| 05–08 | BYV-Säulen | je 3 ausgearbeitete Posts mit Platzhalter |
+| 09 | BYV-Regeln | 5 Regeln und der Brand-Voice-Check (3 Gefühle) |
+| 10–13 | @sarah-Säulen | Skill, Perspective, Lifestyle, Story mit je 3 Posts |
+| 14 | @sarah Profil-Umbau | Profilbild-Platzhalter, Bio-Vorschlag, 4 Highlights, 5 Regeln |
+| 15 | Content-Maschine | 1 Podcast-Folge → 8 Inhalte, mit Zuständigkeiten |
+| 16 | Test-Reel-Sprint | 5 Schritte und eine Tabelle zum Ausfüllen |
+| 17 | ManyChat-Strecken | BYV: Willkommens-Video, eine Frage, zwei Wege; @sarah: vorerst kein Funnel |
+| 18 | Die ersten 30 Tage | 4 Wochen × 2 Profile, zum Abhaken |
+| 19 | Kennzahlen | Wochentabelle zum Eintragen |
+| 20 | Sarah entscheidet | 8 Fragen auf Zetteln |
+| 21 | Sammelfläche | Platz für Reels, Hooks, Inspirations-Accounts, eigene Top-Posts |
 
-**Brücke zwischen den Profilen:**
-- BYV-Themen dürfen per Recycling auf @sarah.
-- Sarah teilt BYV-Reels in ihren Storys.
-- BYV verweist bei Haltungsthemen auf @sarah.
-- LinkedIn bekommt die Unternehmerinnen-Themen.
-- In der BYV-Bio steht ein Link pro Zielgruppe (Eileen).
+## Die 24 Post-Ideen
 
-## @brandyourvoice: 4 Säulen mit Post-Ideen (U3)
+### @brandyourvoice (die Schule)
 
-1. **Copywriting als Business**
-   - „Ein Tag als Copywriterin in 30 Sekunden“
-   - „Von Lehrerin zur Copywriterin: Kontostand Monat 1, 2, 3“ (Kontostände kommen gut an, Eileen)
-   - Jana: „Copywriting ist das beste Business für Introvertierte“
-2. **Verkaufspsychologie für Einsteigerinnen**
-   - „Warum Menschen kaufen, und warum es selten am Preis liegt“ (Karussell)
-   - „3 Wörter, die in deiner Caption Kundinnen vertreiben“
-   - eine Caption live umschreiben
-3. **Perspektivwechsel**
-   - „Sichtbar sein heißt bewertet werden“
-   - Reihe „Bullshit-Stories“
-   - „Keine Entscheidung ist auch eine Entscheidung“
-4. **Beweise und Community**
-   - Podcast-Snippets
-   - kritische DMs humorvoll beantworten
-   - Erfolgsgeschichte in 3 Sätzen
+**Säule 1: Copywriting als Business (Stufe 1)**
+- **Reel, Jana:** „Ich bin introvertiert. Und genau deshalb schreibe ich für Geld.“
+- **Karussell:** „Kontostand: -1.136 €.“ Die Story von Sarah und Jana, ohne Einkommensversprechen.
+- **Reel:** „Mein Dienstag: 9:30 Uhr Kaffee in Ruhe.“ Ein echter Tag einer Mentee.
 
-**Regeln:**
-- Unperfekt vor poliert.
-- Jeder Post hat genau einen CTA.
-- Sarah und Jana sind beide sichtbar.
-- Bis Januar zahlen alle Säulen auf das Live-Webinar ein.
-- Rhythmus (Vorschlag): 2 Reels und 1 Karussell pro Woche, Storys möglichst täglich.
+**Säule 2: Verkaufspsychologie für Einsteigerinnen**
+- **Reel, Sarah:** „Deine Kundin kauft nicht dein Angebot. Sie kauft ein Gefühl.“
+- **Karussell:** „Wir schreiben deine Caption um.“ Vorher und nachher, mit der Community.
+- **Reel für Stufe 2:** „Du textest schon, aber keiner bucht? Dann liegt es selten an deinen Texten.“ CTA ist das Kennenlerngespräch.
 
-## @sarah: 4 Säulen nach dem Creator-College-Raster (U4)
+**Säule 3: Perspektivwechsel**
+- **Reel:** „Sichtbar sein heißt bewertet werden. Willkommen im Club.“
+- **Serie „Bullshit-Story der Woche“:** „Ich habe keine Zeit.“ / „Ich bin doch nur Lehrerin.“ / „KI nimmt mir den Job weg.“
+- **Karussell:** „Ciao! Hab dem braven Mädchen gekündigt.“
 
-- **Skill: Verkaufspsychologie und Kommunikation**
-  - „Warum deine Kundin nicht kauft: Psychologie statt Preis“
-  - „Wie Menschen Entscheidungen treffen“
-  - „Ich analysiere eine Verkaufsseite in 60 Sekunden“
-- **Perspective: wofür und wogegen**
-  - Reaction-Videos auf Marktversprechen, ohne jemanden zu bashen
-  - „Warum ich keine Garantien gebe“
-  - „Premium hat nichts mit Prada zu tun“
-  - „Ich muss nicht die starke Frau spielen“
-- **Lifestyle: selbstbestimmt als Unternehmerin**
-  - „Warum ich gerade nicht nach Deutschland zurückziehen würde“
-  - „Unternehmerin und Beziehung: Es geht beides“
-  - „Mein Kalender ist fast leer“
-- **Story: meine Geschichte**
-  - Story-Serie „Wo ich herkomme“, nur was Sarah freigibt
-  - „Ich muss alles alleine machen“: wie sie den Glaubenssatz losgelassen hat
-  - Leitsätze
+**Säule 4: Beweise und Community**
+- **Test-Reels:** Podcast-Snippets, wie im Workshop beschlossen.
+- **Reel:** „Kritische DM der Woche“, mit Humor beantwortet.
+- **Reel:** eine Mentee in 3 Szenen, nur mit ihrem Einverständnis.
 
-**Regeln:**
-- Facetten dürfen sein.
-- Talking Heads per Handy, wenn das Leben die Idee liefert.
-- Haltung zeigen, niemanden bashen.
-- Wie viel Geschichte und Meinung öffentlich wird, entscheidet Sarah.
+### @sarah (die Stimme)
 
-## Die ersten 30 Tage (U5, Vorschlag)
+**Skill: Verkaufspsychologie**
+- **Reel:** „Ich analysiere deine Verkaufsseite in 60 Sekunden.“
+- **Karussell:** „Warum Menschen kaufen. Und warum es fast nie am Preis liegt.“
+- **Talking Head:** „Wie sprichst du eigentlich mit dir selbst?“ (Clear Mind, Sarahs Kette)
 
-**Woche 1**
-- Podcast-Instagram auflösen, vorher ein Abschiedspost „Wir ziehen um“.
-- @sarah umstellen: Bio, Profilbild, Highlight „Meine Geschichte“.
-- ManyChat auf @brandyourvoice: Begrüßung mit 60-Sekunden-Video und einem Link.
-- 3 Test-Reels.
+**Perspective: Haltung**
+- **Reaction-Video:** „Ich gebe dir keine Garantie. Und das ist das Ehrlichste, was du heute hörst.“
+- **Karussell:** „Premium hat nichts mit Prada zu tun.“
+- **Talking Head:** „Ich muss nicht immer die starke Frau spielen.“
 
-**Woche 2**
-- Test-Reels auswerten, den Gewinner in den Feed.
-- Podcast mit Jana: „5 unangenehme Fragen“.
-- @sarah: 3 Tage Story-Serie.
-- 2 Talking Heads.
+**Lifestyle: selbstbestimmt**
+- **Reel:** „Warum ich gerade nicht nach Deutschland zurückziehen würde.“ Wie politisch das wird, entscheidet Sarah.
+- **Talking Head:** „Unternehmerin und Beziehung: Bei mir steht die Liebe nicht hinten an.“
+- **Reel:** „Mein Kalender ist fast leer. Absichtlich.“
 
-**Woche 3**
-- Podcast-Folge „Unternehmerin sein: Beziehung, Weiblichkeit, Entscheidungen“.
-- 1 Reaction-Video.
-- Karussell „Keine Garantien“.
-- BYV startet die Reihe „Copywriting als Business“.
+**Story: Wo ich herkomme**
+- **Story-Serie über 3 Tage:** nur, was Sarah freigibt.
+- **Podcast mit Jana:** „5 unangenehme Fragen“, daraus Snippets.
+- **Karussell:** „Ich muss alles alleine machen. Dachte ich.“
 
-**Woche 4**
-- Optional: Folge zum Auswandern.
-- Auswertung.
-- Call mit Julian zum Recycling mit Claude.
-- Plan für Dezember mit Blick auf das Januar-Live.
+## Antworten auf Sarahs offene Fragen vom 15.11.
 
-**Wer macht was (Vorschlag):**
-- Sarah nimmt auf und gibt frei.
-- Julia schneidet.
-- Die Copywriterin recycelt.
-- Claude liefert Hooks, Captions und die Auswertung.
-- Julez begleitet.
+- **Test-Reels:** Folie 16.
+  1. Julia schneidet 3 Snippets.
+  2. Claude liefert 3 Hook-Varianten pro Snippet.
+  3. Als Test-Reel posten.
+  4. Nach 2–3 Tagen vergleichen (Vorschlag).
+  5. Der Gewinner kommt in den Feed.
+- **ManyChat @brandyourvoice:** Folie 17.
+  - Willkommens-DM mit einem Video von 30–60 Sekunden.
+  - Dazu eine Frage: „Wo stehst du gerade?“
+    - A: Masterclass
+    - B: Kennenlerngespräch
+  - Keywords: START, COPY und VOLLGAS (laut Eileen der CTA mit den meisten Kommentaren).
+- **ManyChat @sarah:** vorerst kein Funnel. Später ein Keyword für Podcast oder Newsletter.
 
-## System (U6): Antworten auf Sarahs offene Fragen vom 15.11.
+## Zu prüfen
 
-- **Test-Reels in 5 Schritten:**
-  1. Julia schneidet aus einer Folge 3–5 Snippets, mit Hook in den ersten 2 Sekunden.
-  2. Als Test-Reel posten, das läuft nur bei Nicht-Followern.
-  3. Nach 2–3 Tagen vergleichen: Aufrufe, Wiedergabedauer, Shares, Saves. Der Zeitraum ist ein Vorschlag.
-  4. Den Gewinner in Feed und Story.
-  5. Das Thema auf die Liste „läuft“.
-- **Recycling-Kette:** Podcast → Snippets für BYV → Talking-Head-Zitat für @sarah → Karussell → Newsletter → LinkedIn.
-- **Wie Claude hilft:**
-  - Hooks, Captions und Karussell-Texte aus dem Transkript
-  - Reel-Schnitt mit Captions und B-Roll (Reel Studio)
-  - wöchentliche Auswertung
-- **ManyChat:**
-  - @brandyourvoice: Begrüßung neuer Follower mit kurzem Video, dann genau ein Link, dazu ein Keyword pro Säule.
-  - @sarah: vorerst kein Funnel, später ein Keyword für Podcast oder Newsletter.
-- **Messen (wöchentlich):**
-  - Reichweite bei Nicht-Followern
-  - Shares und Saves
-  - DMs und ManyChat-Leads
-  - Anmeldungen zur 0-€-Masterclass aus Instagram
-  - Anfragen an Sarah für Podcast, Bühne und Kooperationen
-- **Noch offen:**
-  - GEO-Optimierung
-  - Bio-Linkbaum
-  - YouTube erst nach Instagram
-
-## Entscheidungen für Sarah (U7)
-
-1. Welche 3 Werte kommen in deine Bio?
-2. Welche Teile deiner Geschichte sind öffentlich?
-3. Wie viel Meinung zu Deutschland und Politik zeigst du auf @sarah?
-4. Bekommt das private Profil einen klaren Namen und eine neue Bio?
-5. Wer ist das Gesicht von @brandyourvoice: du, Jana oder beide?
-6. Wen holt das Januar-Live ab: Stufe 1 oder Stufe 2?
-7. ManyChat auf @sarah: jetzt oder später?
-8. Wann nimmst du Talking Heads auf, ohne festen Content-Tag?
+- **Follower-Zahl von Sarahs privatem Profil:** laut Julez im Workshop etwa 4.000.
+- **Welches Profil ist gemeint?** In älteren Unterlagen heißt Sarahs Privatprofil @kompass.liebe (`firma/guidelines.md`). Ist das noch das Profil, das zur Personal Brand wird?
+- **Rhythmus und Testdauer:** 2 Reels und 1 Karussell pro Woche sowie 2–3 Tage Testdauer sind Vorschläge von Claude, nicht belegt.

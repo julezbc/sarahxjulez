@@ -44,7 +44,7 @@
 - Organigramm Stand 07.11.2026 gespeichert: `team/orgchart-2026-11.md` (Julez, 2026-11-08)
 - Workshop Klarheit & Creator Vision mit Sarah (Zoom, 12.11.2026) gespeichert: Zusammenfassung `notizen/2026-11-12-workshop-klarheit-zusammenfassung.md`, Transkript `notizen/2026-11-12-workshop-klarheit-transkript.md`; zweiter Termin offen (Claude für Julez, 2026-11-13)
 
-- Social-Media-Umsetzung für @brandyourvoice und Sarahs Personal Brand (Rollen, Content-Säulen mit Post-Ideen, 30-Tage-Plan, Test-Reels, ManyChat, Entscheidungen für Sarah): `marketing/social-media-umsetzung-2026-11.md`, im Miro-Board Frames U0–U7 (Claude für Julez, 2026-11-16)
+- Social-Media-Umsetzung für @brandyourvoice und Sarahs Personal Brand, neu aufgebaut als eigenes Miro-Board mit 22 Folien (https://miro.com/app/board/uXjVEN01nTM=): `marketing/social-media-umsetzung-2026-11.md` (Claude für Julez, 2026-11-16)
 
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
