@@ -46,6 +46,8 @@
 
 - Social-Media-Umsetzung für @brandyourvoice und Sarahs Personal Brand, neu aufgebaut als eigenes Miro-Board mit 22 Folien (https://miro.com/app/board/uXjVEN01nTM=): `marketing/social-media-umsetzung-2026-11.md` (Claude für Julez, 2026-11-16)
 
+- Jahresplanung 2027 (Event-Radar mit recherchierten Terminen, Timeline, Speakerin-Fahrplan, Masterminds, Quartale, Entscheidungen): `firma/jahresplanung-2027.md`, im Miro-Board Folien J0–J6 (Claude für Julez, 2026-11-17)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
