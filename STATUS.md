@@ -54,6 +54,7 @@
 - **Di 10.11., 13 Uhr:** Technik-/Automations-Call mit René und Patrick (Patrick muss noch zusagen).
 - **Do 12.11.:** Sarah: Call mit Christian vom Next Level Verlag.
 - **Mo 21.12.:** Spendengala Gate 108 (Julez).
+- **24.–28.02.2027:** Mastermind von Patrick Wind in der Türkei (Julez, 2026-11-17).
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
