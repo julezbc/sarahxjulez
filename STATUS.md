@@ -48,13 +48,17 @@
 
 - Jahresplanung 2027 (Event-Radar mit recherchierten Terminen, Timeline, Speakerin-Fahrplan, Masterminds, Quartale, Entscheidungen): `firma/jahresplanung-2027.md`, im Miro-Board Folien J0–J6 (Claude für Julez, 2026-11-17)
 
+- Miro-Board Version 2 (19.11.): größer und ausführlicher, 27 Folien Social Media (A00–A26) und 14 Folien Jahresplanung (B00–B12), mit Julez' Änderungen und allem aus WhatsApp: https://miro.com/app/board/uXjVEN01nTM= · WhatsApp-Auswertung: `notizen/2026-11-19-whatsapp-auswertung.md` (Claude für Julez, 2026-11-19)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
 - **Di 10.11., 13 Uhr:** Technik-/Automations-Call mit René und Patrick (Patrick muss noch zusagen).
 - **Do 12.11.:** Sarah: Call mit Christian vom Next Level Verlag.
 - **Mo 21.12.:** Spendengala Gate 108 (Julez).
-- **24.–28.02.2027:** Mastermind von Patrick Wind in der Türkei (Julez, 2026-11-17).
+- **Fr 20.11., 10:30 Uhr:** Weekly Sarah und Julez (verschoben vom Donnerstag), Themen u. a. Community-Plattform, Jahresplanung, Henning.
+- **Anfang Dezember:** Podcast-Aufnahme mit Patrick Wind.
+- **24.–28.02.2027:** Mastermind von Patrick Wind in der Türkei, Sarah als Wildcard, gemeinsame Bühne mit Julez (Julez, 2026-11-17 und WhatsApp 06.11.).
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`

@@ -1,5 +1,16 @@
 # Social Media: Umsetzung für Brand Your Voice und Sarahs Personal Brand
 
+> **Update 2026-11-19:** Version 2 im selben Board (Folien A00–A26), größer und ausführlicher. Neu:
+> - Funnel mit Video-Dankesseite
+> - Community für Leads
+> - Clear Words 4.900 €
+> - Sarahs Inspirations-Profile
+> - Reaction-Format
+> - TikTok-Frage
+> - Hochglanz oder echt
+>
+> Details: `notizen/2026-11-19-whatsapp-auswertung.md`. Version 1 bleibt im Board oben stehen.
+
 _Stand: 2026-11-16 · erstellt von Claude für Julez, zweite Fassung (neu aufgebaut nach Julez' Feedback)._
 
 **Miro-Board:** https://miro.com/app/board/uXjVEN01nTM= („Sarah × Julez · Social Media Umsetzung“, privat im Konto von Julez). 22 Folien im 16:9-Format, Präsentationsmodus möglich. Auf jeder Post-Folie gibt es Platzhalter mit gestricheltem Rand für Beispiele. Die erste Fassung (Frames U0–U7 im Workshop-Board) ist ersetzt und gelöscht.

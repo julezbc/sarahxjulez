@@ -1,5 +1,14 @@
 # Jahresplanung 2027: Entwurf
 
+> **Update 2026-11-19:** Version 2 im Board (Folien B00–B12), mit WhatsApp-Infos:
+> - **„SheSides“ ist Sheciety.**
+> - **Founder Summit:** Konzept von Danny Söder offen.
+> - **Türkei:** Sarah als Wildcard, gemeinsame Bühne mit Julez.
+> - **Podcast Patrick Wind:** Anfang Dezember.
+> - **Buch:** Manuskript fast fertig, eigene Folie B10.
+>
+> Details: `notizen/2026-11-19-whatsapp-auswertung.md`.
+
 _Stand: 2026-11-17 · erstellt von Claude für Julez. Im Miro-Board „Sarah × Julez · Social Media Umsetzung“ (https://miro.com/app/board/uXjVEN01nTM=) im Bereich unter den Social-Media-Folien, Folien **J0–J6** und **J1a**._
 
 > **Alles Vorschlag, Sarah entscheidet.** Die Termine stammen aus einer Web-Recherche vom 17.11.2026, teils nur aus Drittquellen. Vor jeder Buchung oder Bewerbung auf der offiziellen Seite prüfen.
@@ -79,7 +88,7 @@ Leitfrage: Wer sitzt im Publikum, und passt das zu Sarah oder zu Brand Your Voic
 \* Passung ist eine Einschätzung von Claude, gemessen an Sarahs Ziel: Unternehmerinnen, Keynote, Personal Brand.
 
 **Nicht gefunden:**
-- „SheSides“: kein Event unter diesem Namen für 2027. Bitte den Link nachreichen.
+- ~~„SheSides“~~: geklärt, gemeint ist **Sheciety** (Saina Cortez), WhatsApp 19.11.
 - Speaker-Fristen: Für keins der Events gefunden. Bewerbungswege laut Recherche: Female Future Festival per Formular, Women Career Festival per Mail. Bei allen anderen nachfragen.
 
 ## Timeline 2027 (Folie J1)
