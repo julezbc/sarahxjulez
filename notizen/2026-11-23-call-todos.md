@@ -35,7 +35,6 @@ Abhaken: `- [ ]` durch `- [x]` ersetzen und Name und Datum dazuschreiben.
 - [ ] **Sarah die Content-Methode schriftlich schicken**, Sarah hat darum gebeten. (538–554)
 - [ ] **Das Miro-Board mit Sarah teilen**, ergänzen, was noch einfällt. (752)
 - [ ] **Den alten Telegram-Vortrag suchen** und zusammenschreiben, wie man eine Telegram-Community aufbaut. (757)
-- [ ] **Buch:** direkt auf Anton zugehen, wegen Buchmarketing. (113–118)
 - [ ] Falls nötig, Sarah den Kontakt von Raphael (Ablefy) schicken. (77–81)
 
 ## To-dos Sarah
@@ -108,7 +107,7 @@ Abhaken: `- [ ]` durch `- [x]` ersetzen und Name und Datum dazuschreiben.
   - Lives sind dort möglich.
 
   (721–735)
-- [ ] **Buch:** Sarah will über einen Verlag veröffentlichen, nicht selbst, und das Buch als Leadmagnet nutzen. Die Vermarktung vorher planen, eventuell mit einem Buch-Funnel. (104–118)
+- [ ] **Buch:** Sarah will über einen Verlag veröffentlichen, nicht selbst, und das Buch als Leadmagnet nutzen. Die Vermarktung vorher planen, eventuell mit einem Buch-Funnel. Sarah geht dafür direkt auf Anton zu (Buchmarketing). (104–118)
 
 ---
 
