@@ -58,7 +58,7 @@ Abhaken: `- [ ]` durch `- [x]` ersetzen und Name und Datum dazuschreiben.
 ### Brand Your Voice: Content (Schritt 1, für die Copywriterin)
 - [ ] **Mentoring-Calls mit Riverside aufnehmen.** Ein Cutter (die Copywriterin oder Julez' Cutter) schneidet daraus Reels. (368, 391–393, 626)
 - [ ] **Podcast-Snippets so schnell wie möglich auf Brand Your Voice posten**, mit Fokus auf Copywriting. (266, 626–628)
-- [ ] **Mehr Lifestyle-Karussells**, auch einfach 5 Urlaubsbilder mit einer guten Caption. Mehr Werte, Meinung und Haltung. Copywriting nur etwa 20 % des Contents. Mama-Content eher in den Storys. (298–342, 489–490, 690)
+- [ ] **Mehr Lifestyle-Karussells**, auch einfach 5 Urlaubsbilder mit einer guten Caption. Mehr Werte, Meinung und Haltung. Copywriting nur etwa 20 % des Contents. Mama-Content eher in den Storys. _(Hinweis Julez, 2026-11-26: **Sarah ist keine Mutter.** „Mama-Content“ meint hier nicht Content über Sarah als Mutter. Worauf er sich bezieht, im Transkript prüfen.)_ (298–342, 489–490, 690)
 - [ ] **Talking Heads ohne Skript und Teleprompter**, nur Stichpunkte:
   - Einwände beantworten, für absolute Anfänger („Jetzt kommt doch KI“)
   - 10 Reels zu 10 Fragen aus der Q&A der Webinare
