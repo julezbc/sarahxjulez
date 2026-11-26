@@ -11,6 +11,8 @@
 >
 > Details: `notizen/2026-11-19-whatsapp-auswertung.md`. Version 1 bleibt im Board oben stehen.
 
+> **Update 2026-11-26 (Julez, über Claude):** Neue Folie **A19a · Best Performer der Inspirations-Accounts** rechts neben A19. Tabelle mit den stärksten Reels und Karussells der 7 Inspirations-Profile im Zeitraum 29.10.–25.11.2026, sortiert nach Likes + Kommentaren, jeder Post verlinkt. Quelle: Instagram-Scrape (Apify) vom 26.11.2026, Views nicht enthalten.
+
 _Stand: 2026-11-16 · erstellt von Claude für Julez, zweite Fassung (neu aufgebaut nach Julez' Feedback)._
 
 **Miro-Board:** https://miro.com/app/board/uXjVEN01nTM= („Sarah × Julez · Social Media Umsetzung“, privat im Konto von Julez). 22 Folien im 16:9-Format, Präsentationsmodus möglich. Auf jeder Post-Folie gibt es Platzhalter mit gestricheltem Rand für Beispiele. Die erste Fassung (Frames U0–U7 im Workshop-Board) ist ersetzt und gelöscht.
