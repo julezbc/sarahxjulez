@@ -45,5 +45,8 @@ _(noch keine)_
 - [Social Media] **Personal-Brand-Profil (Sarahs privates Instagram):** Sollen neue Follower dort auch abgeholt werden, z. B. mit ManyChat? Sarah ist noch unsicher. Kommt in die Social-Media-Strategie. — eingetragen von Sarah, 2026-11-15
 - [Social Media] **Test-Reel-Strategie:** Wie setzt man sie zügig um (Bezug: Test-Reels mit Podcast-Snippets aus dem Workshop vom 12.11., `notizen/2026-11-12-workshop-klarheit-zusammenfassung.md`), und wie kann Claude dabei helfen? — eingetragen von Sarah, 2026-11-15
 - [Social Media] **Community für Leads:** Telegram, Facebook-Gruppe oder andere Plattform? (Pierre, 18.11.; Thema im Call am 20.11.) — eingetragen von Claude für Julez, 2026-11-19
+  - _Ergänzung (Claude für Julez, 2026-11-27): Im Call vom 27.11. entschieden: zuerst Facebook-Gruppe testen, sonst Telegram. Siehe `ENTSCHEIDUNGEN.md`._
 - [Social Media] **TikTok** parallel zu Instagram mit den Sprech-Reels, jetzt oder später? (Sarah, 19.11.) — eingetragen von Claude für Julez, 2026-11-19
 - [Buch] **Verlag oder Self-Publishing**, und mit wem (Next Level Verlag, Yvonne Kraus, Anton)? Manuskript fast fertig. — eingetragen von Claude für Julez, 2026-11-19
+- [Marketing] **Live-Webinar 17.01.2027:** Wie lange (2 oder 2,5 Stunden)? Gibt es eine Wiederholung, oder schadet sie den Sales Calls? — eingetragen von Claude für Julez, 2026-11-27
+- [E-Mail] **Montags-Serie:** Startet sie am Mo, 30.11.? An welchem Tag kommt die zweite Mail (bisher Freitag)? Im Transkript unklar. — eingetragen von Claude für Julez, 2026-11-27

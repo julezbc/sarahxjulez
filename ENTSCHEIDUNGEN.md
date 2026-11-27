@@ -16,3 +16,11 @@ Format: `- <Datum> — Wir haben <WAS> entschieden, weil <GRUND>. (<Name>)`
 - 2026-11-05 — Wir haben entschieden, dass **Julez ein Intro zu Jan und Pierre** (Marketing/Media Buying) macht und Sarah sie kennenlernt. **Adam bleibt vorerst**; über ihn entscheidet Sarah nach dem Kennenlernen und nach ihrem Bauchgefühl. Begründung: Adam reagiert nur auf Nachfrage und hat die Zahlen nicht im Blick; Jan und Pierre sollen erst getestet werden. (Sarah)
 - 2026-11-05 — Wir haben entschieden, dass **Adam einen schriftlichen Ad-Report** an Julez liefert (letzte 12 Monate, beste Ads, Hooks, Angles, Copy, Captions) und dass wir ihm **vom Januar-Webinar noch nichts sagen**. (Sarah)
 - 2026-11-05 — Wir haben entschieden, das **Sales-Team zuerst zu testen** (Test-Setting und Test-Closing durch Henning, Feedback am 10.11.) und erst danach über Training oder Austausch zu entscheiden. Sarah, Jana und René sind offen dafür, notfalls das ganze Sales-Team auszutauschen. (Sarah)
+
+## Aus dem Call vom 27.11.2026 (Quelle: `notizen/2026-11-27-call-personal-brand-transkript.md`)
+
+- 2026-11-27 — Wir haben entschieden, dass das **Live-Webinar am Sonntag, 17.01.2027, um 11 Uhr** stattfindet, weil das laut Julez die beste Uhrzeit für die Zielgruppe ist. Dauer und Wiederholung sind noch offen. (Sarah und Julez)
+- 2026-11-27 — Wir haben entschieden, den **Newsletter von 1-mal auf 2-mal pro Woche** zu erhöhen und Open Rate und Klickrate zu beobachten, weil die E-Mail-Liste bisher zu wenig genutzt wird. Bleiben die Werte stabil, steigern wir weiter. Dazu kommt Sarahs feste Montags-Serie. (Sarah und Julez)
+- 2026-11-27 — Wir haben entschieden, für die Lead-Community **zuerst eine Facebook-Gruppe zu testen** statt Telegram, weil die Zielgruppe (Frauen 35–45) laut Pierre eher auf Facebook ist (Einschätzung, keine geprüfte Zahl). Wenn es nicht zündet, wechseln wir auf Telegram. Bei Webinaren bleiben WhatsApp-Gruppen. (Sarah und Julez)
+- 2026-11-27 — Wir haben die **5 Säulen von Sarahs Personal Brand** bestätigt: Verkaufspsychologie und Worte, Gedanken zur Realität (Mindset), Haltung und Klartext, selbstbestimmtes Leben, Sarahs Geschichte. Auf dem Personal-Brand-Profil gilt: weniger posten, dafür hochwertig. (Sarah und Julez)
+

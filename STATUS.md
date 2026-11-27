@@ -50,6 +50,8 @@
 
 - Miro-Board Version 2 (19.11.): größer und ausführlicher, 27 Folien Social Media (A00–A26) und 14 Folien Jahresplanung (B00–B12), mit Julez' Änderungen und allem aus WhatsApp: https://miro.com/app/board/uXjVEN01nTM= · WhatsApp-Auswertung: `notizen/2026-11-19-whatsapp-auswertung.md` (Claude für Julez, 2026-11-19)
 
+- Call Sarah & Julez vom 27.11.2026 (Personal Brand, E-Mail-Marketing, Facebook-Gruppe) gespeichert: Action Steps `notizen/2026-11-27-call-todos.md`, Transkript Teil 1 `notizen/2026-11-27-call-personal-brand-transkript.md`, persönlicher Teil getrennt und streng vertraulich in `notizen/2026-11-27-call-personal-brand-transkript-teil-2-persoenlich.md`; Entscheidungen eingetragen (Claude für Julez, 2026-11-27)
+
 ## Nächste Termine (aus dem Call vom 05.11.2026)
 - **Mo 09.11.:** Henning bucht Test-Setting und Test-Closing.
 - **Di 10.11., 10 Uhr:** Sales-Team-Call mit Henning (Henning muss noch zusagen).
@@ -60,6 +62,7 @@
 - **Anfang Dezember:** Podcast-Aufnahme mit Patrick Wind.
 - **24.–28.02.2027:** Mastermind von Patrick Wind in der Türkei, Sarah als Wildcard, gemeinsame Bühne mit Julez (Julez, 2026-11-17 und WhatsApp 06.11.).
 - **Anfang Januar 2027:** Live-Webinar Brand Your Voice (Datum offen).
+  - _Ergänzung (Claude für Julez, 2026-11-27):_ **Datum festgelegt: So, 17.01.2027, 11 Uhr** (Call vom 27.11.). Dauer und Wiederholung offen.
 - Offen ohne Datum: Strategie-Call Marketing (nach der Auswertung der Zahlen), Call Personal Brand.
 - Alle To-dos: `notizen/2026-11-05-todos-onboarding-call.md`
 - **Calls vom 10.11. haben stattgefunden.** Zoom-KI-Zusammenfassungen (kein Wortlaut-Transkript vorhanden): Sales-Analyse `notizen/2026-11-10-sales-analyse-zusammenfassung.md`, Technik-Call `notizen/2026-11-10-technik-call-zusammenfassung.md` (Claude für Julez, 2026-11-12).

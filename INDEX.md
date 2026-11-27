@@ -62,3 +62,6 @@ Wird beim Interview automatisch ergänzt.
 - [Onboarding-Call Sarah & Julez, 05.11.2026](notizen/2026-11-05-onboarding-call-transkript.md) — Zusammenfassung, Action Items und vollständiges Transkript: 3-Monats-Prios, Sales-Team, Live-Webinar Januar, Adam vs. Jan & Pierre (Julez, vertraulich)
 - [To-dos aus dem Onboarding-Call 05.11.2026](notizen/2026-11-05-todos-onboarding-call.md) — Termine, To-dos für Julez und Sarah, Vorschläge, Korrekturen an Fireflies (Julez, vertraulich)
 - [Action Steps aus dem Call 23.11.2026](notizen/2026-11-23-call-todos.md) — Bühnen, Content-Plan Brand Your Voice, Lives, Storys, Termine bis Feb. 2027 (Julez, vertraulich)
+- [Action Steps aus dem Call 27.11.2026](notizen/2026-11-27-call-todos.md) — Webinar 17.01., Newsletter 2-mal pro Woche, Facebook-Gruppe, Personal Brand auf Instagram (Julez, vertraulich)
+- [Call 27.11.2026, Transkript Teil 1](notizen/2026-11-27-call-personal-brand-transkript.md) — Personal Brand, E-Mail-Marketing, Facebook-Gruppe (Julez, vertraulich)
+- [Call 27.11.2026, Transkript Teil 2 (persönlich)](notizen/2026-11-27-call-personal-brand-transkript-teil-2-persoenlich.md) — **streng vertraulich**, nicht an Copywriterin oder Team weitergeben (Julez)

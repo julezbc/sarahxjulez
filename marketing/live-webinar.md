@@ -18,6 +18,8 @@ _Stand: 2026-11-06 · Input von Sarah. Grundlage: Entscheidung vom 2026-11-05 (`
 Sarahs Frage: Ist **Donnerstag** ein guter Tag? Idee: live am Donnerstag, am **Sonntag die Wiederholung**.
 _Hinweis (Claude): Der 06.01. ist in Bayern, Baden-Württemberg und Sachsen-Anhalt Feiertag (Heilige Drei Könige), in Österreich ebenso. Viele sind in der ersten Januarwoche noch im Urlaubsmodus. Das spricht eher für Variante B oder für eine Bewerbung, die schon vor Weihnachten startet. Welche Variante passt, prüft Julez strategisch (To-do vom 05.11.)._
 
+> **Festgelegt im Call vom 27.11.2026:** **Sonntag, 17.01.2027, 11 Uhr.** Dauer offen (Sarah fragt nach 2 Stunden, bei Julez dauern Webinare inzwischen etwa 2,5 Stunden). Wiederholung nicht entschieden: Julez sieht das Risiko, dass ein zweites Webinar direkt danach Leute aus den Sales Calls abspringen lässt. Quelle: `notizen/2026-11-27-call-personal-brand-transkript.md` (01:05–03:07). (Claude für Julez, 2026-11-27)
+
 ## Ideen für den Claim (Sarah)
 
 - **Januar, neues Jahr:** „wirklich was verändern“
