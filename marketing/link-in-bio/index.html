@@ -83,13 +83,13 @@
   .leitsatz { display: flex; flex-direction: column; gap: 16px; }
   .bild { position: relative; aspect-ratio: 2 / 3; max-width: 100%; border-radius: 26px; overflow: hidden; background: var(--anthrazit); display: flex; flex-direction: column; justify-content: space-between; padding: 24px 22px 20px; }
   .bild img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-  .bild::before { content: ""; position: absolute; inset: 0 0 68%; background: linear-gradient(to bottom, var(--tinte), transparent); opacity: .38; }
-  .bild::after { content: ""; position: absolute; inset: 76% 0 0; background: linear-gradient(to bottom, transparent, var(--grund)); opacity: .75; }
-  .bild > div { position: relative; z-index: 1; }
-  .bild .oben { color: var(--auf-dunkel); display: flex; flex-direction: column; gap: 8px; }
+  .bild::before { content: ""; position: absolute; inset: 0; background: var(--schleier); }
+  .bild::after { content: ""; position: absolute; inset: 45% 0 0; background: linear-gradient(to bottom, transparent, var(--tinte)); opacity: .8; }
+  .bild > * { position: relative; z-index: 1; color: var(--auf-dunkel); }
+  .bild > img { position: absolute; z-index: 0; }
   .bild h2 { font-family: var(--display); font-style: italic; font-weight: 400; font-size: clamp(30px, 9vw, 40px); line-height: 1.05; margin: 0; text-wrap: balance; }
-  .bild .zweite { font-family: var(--display); font-size: 19px; line-height: 1.25; margin: 0; }
-  .bild .unten { color: var(--tinte); font-size: 14px; line-height: 1.45; font-weight: 600; margin: 0; }
+  .bild .unten { display: flex; flex-direction: column; gap: 10px; }
+  .bild .unten p { font-size: 14px; line-height: 1.5; margin: 0; }
   .leitsatz > p { margin: 0; font-size: 15px; max-width: 34em; }
 
   footer { text-align: center; font-size: 13px; color: var(--tinte-leise); display: flex; flex-direction: column; gap: 6px; border-top: 1px solid var(--linie); padding-top: 20px; }
@@ -178,13 +178,12 @@
   <section class="leitsatz g" aria-labelledby="t-leitsatz">
     <div class="bild">
       <img src="img/sarah-duene.jpg" alt="Sarah steht lachend auf einer Düne und streckt einen Arm in die Luft">
-      <div class="oben">
-        <h2 id="t-leitsatz">Am Anfang steht das Wort…</h2>
-        <p class="zweite">Und <em>deine Worte</em> haben verdammt <em>viel Macht!</em></p>
+      <h2 id="t-leitsatz">Am Anfang steht das Wort…</h2>
+      <div class="unten">
+        <p>Denn die richtigen Worte sind der stärkste Hebel hinter jedem erfolgreichen Business und jeder starken Persönlichkeit.</p>
+        <p>… sie bewegen Menschen. Sie schaffen Vertrauen und lösen Entscheidungen aus. Wer seine Sprache beherrscht, schafft die Grundlage für Glück, Erfolg und planbaren Umsatz.</p>
       </div>
-      <div><p class="unten">Denn die richtigen Worte sind der stärkste Hebel hinter jedem erfolgreichen Business und jeder starken Persönlichkeit.</p></div>
     </div>
-    <p>… sie bewegen Menschen. Sie schaffen Vertrauen und lösen Entscheidungen aus. Wer seine Sprache beherrscht, schafft die Grundlage für Glück, Erfolg und planbaren Umsatz.</p>
   </section>
 
   <footer class="g">
