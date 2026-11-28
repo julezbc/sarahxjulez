@@ -16,7 +16,7 @@ _Stand: 2026-11-28 · Wunsch von Sarah: Link-in-Bio-Seite für Instagram mit Kac
    1. 0-€-Copywriting-Masterclass (Foto am Laptop)
    2. Erfolgsgeschichten (Gruppenfoto, von Sarah so gewünscht)
    3. Newsletter „Prosecco-Date“ (Foto im schwarzen Outfit)
-5. **Leitsatz auf dem Dünenfoto**, abgedunkelt: oben „Am Anfang steht das Wort…“, unten der ganze Text („Denn die richtigen Worte…“ bis „…planbaren Umsatz.“). Der Satz „Und deine Worte haben verdammt viel Macht!“ ist auf Sarahs Wunsch raus.
+5. **Schlusstext im Rosé-Textfeld** (Sarah, 28.11.): „… ein Leben, in dem du tun kannst, whatever the f*** YOU WANT!“ und „Hier gibt’s kein Entweder-oder. Wir entscheiden uns für das UND. Okay, girl?“. Das Dünenfoto und „Am Anfang steht das Wort…“ sind wieder raus.
 6. **Fuß:** Impressum, Datenschutz
 
 Weggefallen gegenüber dem ersten Entwurf: Bogen-Foto, Überschrift „Wisch dich durch“, Symbolleiste, Kacheln Clear Words und brandyourAI.
