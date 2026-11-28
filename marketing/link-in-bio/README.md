@@ -1,30 +1,55 @@
-# Link-in-Bio-Seite für Sarah (Entwurf)
+# Link-in-Bio-Seite für Sarah
 
-_Stand: 2026-11-28 · Wunsch von Sarah: Link-in-Bio-Seite für Instagram mit Kacheln zum Wischen und Podcast zum direkten Anhören, in den Brandfarben. Erst Struktur und klickbarer Entwurf, noch keine Umsetzung._
+_Stand: 2026-11-28 · fertig gebaut und getestet, **noch nicht online**. Es fehlt nur der Upload auf den Webspace._
 
-- **Klickbarer Entwurf:** https://claude.ai/artifact/1SvqgiX5giq7Zi7qj72qGz (privat, nur Sarah kann ihn öffnen, bis sie ihn teilt)
-- **Quelle des Entwurfs:** `marketing/link-in-bio/index.html`, Fotos in `marketing/link-in-bio/img/` (von Sarah am 28.11. hochgeladen)
+## Was wo liegt
 
-> **Update 2026-11-28:** Entwurf auf die aktuellen Brandfarben umgestellt (siehe `firma/guidelines.md`).
+- **Fertige Seite zum Hochladen:** `marketing/link-in-bio/final/` (13 Dateien, etwa 0,5 MB: `index.html`, `img/`, `fonts/`)
+- **Vorschau zum Durchklicken:** https://claude.ai/artifact/1SvqgiX5giq7Zi7qj72qGz (privat, Player ohne Ton)
+- **Quelle:** `index.html` (Vorschau) und `build.py` (baut daraus `final/`). Die Originalfotos von Sarah liegen in `img/`.
 
-## Struktur (Stand 2026-11-28, nach Sarahs Rückmeldung)
+## So kommt die Seite online (René, etwa 5 Minuten)
+
+1. Auf dem Webspace von brandyourvoice.de (WebGo) im Hauptordner der Website einen Ordner **`links`** anlegen.
+2. Den **Inhalt** von `final/` dort hochladen: `index.html`, Ordner `img`, Ordner `fonts`.
+3. `https://brandyourvoice.de/links/` im Browser öffnen und prüfen: Fotos da, Podcast spielt ab, Kacheln lassen sich wischen.
+4. Diese Adresse bei Instagram als Link im Profil eintragen.
+
+Die Seite muss auf **brandyourvoice.de** liegen. Nur dort kann sie die neueste Folge automatisch lesen (siehe unten). Falls es in WordPress schon eine Seite mit der Adresse `/links/` gibt, einen anderen Ordnernamen nehmen und in `build.py` die Adresse des Vorschaubilds anpassen.
+
+## Aufbau
 
 1. **Startbild:** Schwarz-Weiß-Porträt, darauf „Hi, I'm Sarah.“ und „Unternehmerin · Mentorin · Speakerin“
-2. **Links:** Website, LinkedIn („Lass uns connecten“)
-3. **Podcast:** neueste Folge mit Abspielknopf, dazu „Alle Folgen“, Spotify, Apple Podcasts
-4. **Kacheln zum Wischen** (ohne Überschrift), alle mit abgedunkeltem Foto:
-   1. 0-€-Copywriting-Masterclass (Foto am Laptop)
-   2. Erfolgsgeschichten (Gruppenfoto, von Sarah so gewünscht)
-   3. Newsletter „Prosecco-Date“ (Foto im schwarzen Outfit)
-5. **Schlusstext im Rosé-Textfeld** (Sarah, 28.11.): „DAFÜR GEHEN WIR HIER LOS“ (Open Sans, Großbuchstaben), „… für ein Leben, in dem du tun kannst, whatever the f*** YOU WANT!“, alles mittig, und „Hier gibt’s kein Entweder-oder. Wir entscheiden uns für das UND. Okay, girl?“. Das Dünenfoto und „Am Anfang steht das Wort…“ sind wieder raus.
+2. **Links:** LinkedIn („Lass uns connecten“), dann Website
+3. **Podcast:** neueste Folge mit Player, dazu „Alle Folgen“, Spotify, Apple Podcasts
+4. **Kacheln zum Wischen:** 0-€-Copywriting-Masterclass, Erfolgsgeschichten, Newsletter „Prosecco-Date“, alle mit abgedunkeltem Foto
+5. **Rosé-Textfeld:** „DAFÜR GEHEN WIR HIER LOS“, „… für ein Leben, in dem du tun kannst, whatever the f*** YOU WANT!“, „Hier gibt’s kein Entweder-oder. Wir entscheiden uns für das UND. Okay, girl?“
 6. **Fuß:** Impressum, Datenschutz
 
-Weggefallen gegenüber dem ersten Entwurf: Bogen-Foto, Überschrift „Wisch dich durch“, Symbolleiste, Kacheln Clear Words und brandyourAI.
+Farben: aktuelle Brandfarben (`firma/guidelines.md`).
 
-## Offen (Sarah entscheidet)
+## Technik
 
-- Die Vorlage („ähnlich wie hier“) ist im Chat nicht angekommen.
-- Passen die Fotos auf der Masterclass- und der Newsletter-Kachel? (von Claude zugeordnet)
-- Schriften: Im Entwurf Ersatzschriften. Für Goldney und Harlow Duo Serif werden die Schriftdateien gebraucht.
-- Wo wird die Seite veröffentlicht (z. B. brandyourvoice.de/links über René)? Dort lädt der Podcast-Player die neueste Folge automatisch aus dem Podigee-Feed. Im Entwurf ist Folge #132 fest eingetragen und der Player läuft ohne Ton.
-- Texte auf den Kacheln ohne Einkommensaussagen halten (siehe `firma/website-stand-2026-11.md`).
+- **Neueste Folge:** Die Seite liest beim Öffnen `brandyourvoice.de/podcast/` und nimmt die Folge mit dem jüngsten Datum aus den Daten des Podcast-Plugins. Klappt das nicht, bleibt die zuletzt eingetragene Folge stehen (#132, Stand 28.11.2026). Wird das Podcast-Plugin oder die Seite `/podcast/` umgebaut, muss das hier angepasst werden.
+- **Keine Abrufe bei Dritten beim Laden:** Schriften und Bilder liegen im eigenen Ordner, kein Google Fonts, kein Tracking, keine Cookies. Die Audiodatei kommt erst nach dem Klick auf Play von Podigee, wie auf der Podcast-Seite.
+- **Suchmaschinen:** Die Seite ist auf „nicht indexieren“ gestellt.
+- **Schriften:** Playfair Display und Open Sans. Goldney und Harlow Duo Serif sind nicht eingebaut, dafür werden die Schriftdateien gebraucht.
+
+## Getestet am 28.11.2026 (lokal, Handybreite 400 px)
+
+- Layout ohne seitliches Scrollen, alle Schriften geladen, Reihenfolge der Links, Wischen mit Pfeilen und Punkten
+- Einlesen der neuesten Folge aus einer Kopie der echten Podcast-Seite, auch mit einer testweise eingefügten neueren Folge
+- Player mit einer Test-Tondatei: Play, Pause, Zeit und Regler
+- Rückfall auf #132, wenn die Podcast-Seite nicht erreichbar ist
+
+**Nicht getestet:** das Abspielen der echten Folge von Podigee (in der Cloud-Sitzung gesperrt), die Seite auf dem echten Webspace und in der Instagram-App.
+
+## Später ändern
+
+Texte und Aufbau in `index.html` ändern, dann im Ordner `marketing/link-in-bio`:
+
+```bash
+python3 build.py <Ordner mit den woff2-Schriftdateien>
+```
+
+Die Schriftdateien stammen aus den npm-Paketen `@fontsource/playfair-display` und `@fontsource/open-sans`. Danach `final/` neu hochladen.
