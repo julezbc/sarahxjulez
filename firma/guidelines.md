@@ -6,6 +6,19 @@ _Quelle: PDF „Guidelines Brand your Voice“ (26 Seiten, ohne Datum), hochgela
 
 ## Gestaltung
 
+> **Aktuelle Brandfarben (Sarah, 2026-11-28).** Sie ersetzen die Farben aus dem älteren PDF weiter unten.
+>
+> | Farbe | Hex | Rolle |
+> |---|---|---|
+> | Hintergrund | `#fffbfa` | Hintergrund (in Sarahs Liste bei „Primäre Hintergrundfarben für Print & Web“ und „Für Email Marketing Hintergrund“ genannt, Zuordnung siehe Hinweis) |
+> | Braun | `#91766f` | Primärfarbe, vorrangige Farbe |
+> | Rosé | `#efd7d4` | Primärfarbe, vorrangige Farbe |
+> | Anthrazit | `#404040` | Sekundärfarbe: Markenelemente, besondere Hintergründe |
+> | Schwarz | `#000000` | Akzentfarbe: Buttons, Links, CTAs, Eyecatcher, Headlines |
+> | Rot | `#bd7272` | Akzentfarbe: Buttons, Links, CTAs, Eyecatcher, Headlines |
+>
+> _Hinweis: In Sarahs Nachricht stand nur ein Hex-Wert für den Hintergrund. Offen ist, ob `#fffbfa` für Print & Web gilt, für E-Mail oder für beides._
+
 - **Schriften:** Goldney Regular (H1, Zitate, einzelne Wörter hervorheben) · Harlow Duo Serif Regular (H2, einzelne Sätze, meistgenutzte Schrift für Social-Media-Grafiken) · Open Sans (Fließtext, fett für Hervorhebungen) · Open Sans Light (Fließtext auf Social Media)
 - **Farben:** #c6d8f5 · #f2e1ff · #e6c7ff · #f2eeed · #FAFAFA · #121212 · #ffc9ff · #fefea8 · #ffffd1 · #221686. Im Druck ist die Schrift schwarz (#000000).
 - Rollen der Farben laut PDF: eine neutrale Hauptfarbe für die meisten Hintergründe (mit Weiß für viel Weißraum), Akzentfarbe 1 für Überschriften, Grafiken und Hintergründe, Akzentfarbe 2 für Werbeanzeigen und Social Media, Akzentfarbe 3 für Ads, Website-Hervorhebungen wie Buttons und Social Media, Akzentfarbe 4 für Stories und CTAs in Stories. _(Welche Farbe welche Rolle hat, ist im Text-Auszug nicht eindeutig zuzuordnen, bei Bedarf im PDF nachsehen.)_

@@ -2,21 +2,19 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Open+Sans:wght@300;400;600&display=swap">
 <style>
-  /* Layout: eine schmale Handy-Spalte. Foto im Bogen, Kacheln zum Wischen, ein dunkelblauer Podcast-Block als einziger lauter Moment. */
+  /* Layout: eine schmale Handy-Spalte. Foto im Bogen, Kacheln zum Wischen, ein anthrazitfarbener Podcast-Block als einziger lauter Moment. */
   :root {
-    --grund: #f2eeed;      /* neutrale Hauptfarbe */
-    --papier: #fafafa;
-    --tinte: #121212;
-    --tinte-leise: #5c5560;
-    --blau: #221686;       /* Podcast-Block, Links */
-    --flieder: #e6c7ff;
-    --flieder-hell: #f2e1ff;
-    --pink: #ffc9ff;
-    --gelb: #fefea8;
-    --himmel: #c6d8f5;
-    --auf-blau: #fafafa;
-    --auf-blau-leise: #c9c4ef;
-    --linie: #ddd5d6;
+    --grund: #fffbfa;       /* Hintergrund */
+    --papier: #ffffff;
+    --tinte: #000000;       /* Akzent: Headlines, Buttons */
+    --tinte-leise: #6b5d59;
+    --braun: #91766f;       /* Primärfarbe */
+    --rose: #efd7d4;        /* Primärfarbe */
+    --anthrazit: #404040;   /* Sekundärfarbe: besondere Hintergründe */
+    --rot: #bd7272;         /* Akzent: Eyecatcher, CTAs */
+    --auf-dunkel: #fffbfa;
+    --auf-dunkel-leise: #d9cbc8;
+    --linie: #ead9d6;
     --display: "Cormorant Garamond", "Iowan Old Style", Georgia, serif;
     --text: "Open Sans", "Segoe UI", Helvetica, Arial, sans-serif;
     --rand: max(16px, env(safe-area-inset-left, 0px));
@@ -25,18 +23,18 @@
   * { box-sizing: border-box; }
   body { background: var(--grund); color: var(--tinte); font-family: var(--text); font-size: 16px; line-height: 1.5; }
   a { color: inherit; text-decoration: none; }
-  a:focus-visible, button:focus-visible { outline: 3px solid var(--blau); outline-offset: 3px; border-radius: 12px; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--rot); outline-offset: 3px; border-radius: 12px; }
   .seite { max-width: 460px; margin: 0 auto; padding-block: 20px 36px; display: flex; flex-direction: column; gap: 32px; }
   .g { padding-left: var(--rand); padding-right: var(--rand-r); }
 
   /* Kopf */
   .kopf { display: flex; flex-direction: column; align-items: center; gap: 14px; text-align: center; }
-  .entwurf { align-self: flex-end; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; background: var(--gelb); padding: 4px 10px; border-radius: 99px; }
-  .bogen { width: 62%; aspect-ratio: 4 / 5; max-width: 100%; border-radius: 999px 999px 18px 18px; overflow: hidden; background: var(--flieder-hell); }
+  .entwurf { align-self: flex-end; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; background: var(--rose); padding: 4px 10px; border-radius: 99px; }
+  .bogen { width: 62%; aspect-ratio: 4 / 5; max-width: 100%; border-radius: 999px 999px 18px 18px; overflow: hidden; background: var(--rose); }
   .bogen img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; display: block; }
   h1 { font-family: var(--display); font-weight: 500; font-size: 44px; line-height: 1; margin: 6px 0 0; }
   .rolle { font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--tinte-leise); margin: 0; }
-  .satz { font-family: var(--display); font-style: italic; font-size: 23px; line-height: 1.25; margin: 0; max-width: 18em; text-wrap: balance; }
+  .satz { font-family: var(--display); font-style: italic; font-size: 23px; line-height: 1.25; margin: 0; max-width: 18em; text-wrap: balance; color: var(--rot); }
   .kanaele { display: flex; gap: 10px; }
   .kanaele a { width: 46px; height: 46px; border-radius: 50%; background: var(--papier); border: 1px solid var(--linie); display: grid; place-items: center; }
   .kanaele svg { width: 20px; height: 20px; }
@@ -53,9 +51,12 @@
   .kachel h3 { font-family: var(--display); font-weight: 600; font-size: 30px; line-height: 1.02; margin: 0; text-wrap: balance; }
   .kachel p { margin: 0; font-size: 14px; line-height: 1.45; }
   .kachel .los { margin-top: 6px; align-self: flex-start; font-size: 13px; font-weight: 600; background: var(--tinte); color: var(--papier); padding: 9px 16px; border-radius: 99px; }
-  .k-gelb { background: var(--gelb); }
-  .k-flieder { background: var(--flieder); }
-  .k-himmel { background: var(--himmel); }
+  .k-rose { background: var(--rose); }
+  .k-anthrazit { background: var(--anthrazit); }
+  .k-braun { background: var(--braun); }
+  .k-dunkel { color: var(--auf-dunkel); }
+  .k-dunkel p { font-size: 15px; }
+  .k-dunkel .los { background: var(--grund); color: var(--tinte); }
   .k-foto { color: var(--papier); }
   .k-foto img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
   .k-foto::after { content: ""; position: absolute; inset: 35% 0 0; background: linear-gradient(to bottom, transparent, var(--tinte)); opacity: .82; }
@@ -67,19 +68,19 @@
   .punkte span.an { width: 20px; border-radius: 99px; background: var(--tinte); }
 
   /* Podcast */
-  .podcast { background: var(--blau); color: var(--auf-blau); border-radius: 26px; padding: 22px 20px; display: flex; flex-direction: column; gap: 16px; }
-  .podcast .auge { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--gelb); margin: 0; }
+  .podcast { background: var(--anthrazit); color: var(--auf-dunkel); border-radius: 26px; padding: 22px 20px; display: flex; flex-direction: column; gap: 16px; }
+  .podcast .auge { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--rose); margin: 0; }
   .podcast h2 { font-size: 30px; font-weight: 500; }
-  .podcast .show { margin: 0; font-size: 13px; color: var(--auf-blau-leise); }
+  .podcast .show { margin: 0; font-size: 13px; color: var(--auf-dunkel-leise); }
   .spieler { display: flex; align-items: center; gap: 14px; }
-  .play { flex: none; width: 58px; height: 58px; border-radius: 50%; border: 0; background: var(--gelb); color: var(--blau); cursor: pointer; display: grid; place-items: center; }
+  .play { flex: none; width: 58px; height: 58px; border-radius: 50%; border: 0; background: var(--rot); color: var(--auf-dunkel); cursor: pointer; display: grid; place-items: center; }
   .play svg { width: 22px; height: 22px; }
   .spur { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
-  .balken { height: 5px; border-radius: 99px; background: var(--auf-blau-leise); overflow: hidden; }
-  .balken i { display: block; height: 100%; width: 0%; background: var(--gelb); border-radius: 99px; }
-  .hinweis { font-size: 12px; color: var(--auf-blau-leise); margin: 0; }
+  .balken { height: 5px; border-radius: 99px; background: var(--auf-dunkel-leise); overflow: hidden; }
+  .balken i { display: block; height: 100%; width: 0%; background: var(--rose); border-radius: 99px; }
+  .hinweis { font-size: 12px; color: var(--auf-dunkel-leise); margin: 0; }
   .wo { display: flex; flex-wrap: wrap; gap: 8px; }
-  .wo a { font-size: 13px; font-weight: 600; border: 1px solid var(--auf-blau-leise); padding: 8px 14px; border-radius: 99px; }
+  .wo a { font-size: 13px; font-weight: 600; border: 1px solid var(--auf-dunkel-leise); padding: 8px 14px; border-radius: 99px; }
 
   /* Links */
   .links { display: flex; flex-direction: column; gap: 10px; }
@@ -126,7 +127,7 @@
       </div>
     </div>
     <div class="band" id="band">
-      <a class="kachel k-gelb" href="https://brandyourvoice.de/copywriting-masterclass/" target="_blank" rel="noopener">
+      <a class="kachel k-rose" href="https://brandyourvoice.de/copywriting-masterclass/" target="_blank" rel="noopener">
         <span class="marke">Für 0 €</span>
         <h3>Copywriting Masterclass</h3>
         <p>90 Minuten, die dir zeigen, ob Copywriting 2.0 zu dir passt.</p>
@@ -139,7 +140,7 @@
         <p>Copywriting lernen und dein eigenes Business aufbauen.</p>
         <span class="los">Mehr erfahren</span>
       </a>
-      <a class="kachel k-flieder" href="https://brandyourvoice.de/brandyourai-warteliste/" target="_blank" rel="noopener">
+      <a class="kachel k-anthrazit k-dunkel" href="https://brandyourvoice.de/brandyourai-warteliste/" target="_blank" rel="noopener">
         <span class="marke">Warteliste</span>
         <h3>brandyourAI</h3>
         <p>KI, die klingt wie du. Nicht wie ein Roboter mit Schreibkrampf.</p>
@@ -152,7 +153,7 @@
         <p>Was unsere Teilnehmerinnen erzählen.</p>
         <span class="los">Zu den Stories</span>
       </a>
-      <a class="kachel k-himmel" href="https://brandyourvoice.de/" target="_blank" rel="noopener">
+      <a class="kachel k-braun k-dunkel" href="https://brandyourvoice.de/" target="_blank" rel="noopener">
         <span class="marke">Newsletter</span>
         <h3>Prosecco-Date</h3>
         <p>Jeden Sonntag ehrliche Einblicke hinter die Kulissen, direkt in dein Postfach.</p>

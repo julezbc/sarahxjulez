@@ -5,6 +5,8 @@ _Stand: 2026-11-28 · Wunsch von Sarah: Link-in-Bio-Seite für Instagram mit Kac
 - **Klickbarer Entwurf:** https://claude.ai/artifact/1SvqgiX5giq7Zi7qj72qGz (privat, nur Sarah kann ihn öffnen, bis sie ihn teilt)
 - **Quelle des Entwurfs:** `marketing/link-in-bio/index.html`, Fotos in `marketing/link-in-bio/img/` (von Sarah am 28.11. hochgeladen)
 
+> **Update 2026-11-28:** Entwurf auf die aktuellen Brandfarben umgestellt (siehe `firma/guidelines.md`).
+
 ## Struktur
 
 1. **Kopf:** Foto im Bogen, „Sarah“, „Gründerin von brandyourvoice“, Satz „Am Anfang steht das Wort.“, drei Symbole: Instagram, LinkedIn, Podcast
