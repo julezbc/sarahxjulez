@@ -7,23 +7,24 @@ _Stand: 2026-11-28 · Wunsch von Sarah: Link-in-Bio-Seite für Instagram mit Kac
 
 > **Update 2026-11-28:** Entwurf auf die aktuellen Brandfarben umgestellt (siehe `firma/guidelines.md`).
 
-## Struktur
+## Struktur (Stand 2026-11-28, nach Sarahs Rückmeldung)
 
-1. **Kopf:** Foto im Bogen, „Sarah“, „Gründerin von brandyourvoice“, Satz „Am Anfang steht das Wort.“, drei Symbole: Instagram, LinkedIn, Podcast
-2. **Kacheln zum Wischen** (Vorschlag von Claude, Sarah hat dazu noch nichts vorgegeben):
-   1. 0-€-Copywriting-Masterclass
-   2. Clear Words. Schreib dich frei! (Mentoring)
-   3. brandyourAI (Warteliste)
-   4. Erfolgsgeschichten
-   5. Newsletter „Prosecco-Date“
+1. **Startbild:** Schwarz-Weiß-Porträt, darauf „Hi, I'm Sarah.“ und „Unternehmerin · Mentorin · Speakerin“
+2. **Links:** Website, LinkedIn
 3. **Podcast:** neueste Folge mit Abspielknopf, dazu „Alle Folgen“, Spotify, Apple Podcasts
-4. **Links:** Website, LinkedIn
-5. **Fuß:** Impressum, Datenschutz
+4. **Kacheln zum Wischen** (ohne Überschrift), alle mit abgedunkeltem Foto:
+   1. 0-€-Copywriting-Masterclass (Foto am Laptop)
+   2. Erfolgsgeschichten (Gruppenfoto, von Sarah so gewünscht)
+   3. Newsletter „Prosecco-Date“ (Foto im schwarzen Outfit)
+5. **Leitsatz:** „Am Anfang steht das Wort…“ mit dem Text von der Website
+6. **Fuß:** Impressum, Datenschutz
+
+Weggefallen gegenüber dem ersten Entwurf: Bogen-Foto, Überschrift „Wisch dich durch“, Symbolleiste, Kacheln Clear Words und brandyourAI.
 
 ## Offen (Sarah entscheidet)
 
 - Die Vorlage („ähnlich wie hier“) ist im Chat nicht angekommen.
-- Welche Kacheln, in welcher Reihenfolge? Seite für Sarah persönlich oder für @brandyourvoice?
+- Passen die Fotos auf der Masterclass- und der Newsletter-Kachel? (von Claude zugeordnet)
 - Schriften: Im Entwurf Ersatzschriften. Für Goldney und Harlow Duo Serif werden die Schriftdateien gebraucht.
 - Wo wird die Seite veröffentlicht (z. B. brandyourvoice.de/links über René)? Dort lädt der Podcast-Player die neueste Folge automatisch aus dem Podigee-Feed. Im Entwurf ist Folge #132 fest eingetragen und der Player läuft ohne Ton.
 - Texte auf den Kacheln ohne Einkommensaussagen halten (siehe `firma/website-stand-2026-11.md`).
