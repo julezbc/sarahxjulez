@@ -80,7 +80,8 @@
   .punkte span.an { width: 20px; border-radius: 99px; background: var(--tinte); }
 
   /* Leitsatz */
-  .schluss { background: var(--rose); border-radius: 26px; padding: 28px 22px; display: flex; flex-direction: column; gap: 14px; }
+  .schluss { background: var(--rose); border-radius: 26px; padding: 28px 22px; display: flex; flex-direction: column; gap: 14px; text-align: center; align-items: center; }
+  .schluss .auge { font-family: var(--text); font-size: 12px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; }
   .schluss h2 { font-family: var(--display); font-style: italic; font-weight: 400; font-size: clamp(26px, 7.6vw, 33px); line-height: 1.15; margin: 0; text-wrap: balance; }
   .schluss p { margin: 0; font-size: 15px; line-height: 1.55; }
 
@@ -169,7 +170,8 @@
 
   <section class="g" aria-labelledby="t-schluss">
     <div class="schluss">
-      <h2 id="t-schluss">… ein Leben, in dem du tun kannst, whatever the f*** YOU WANT!</h2>
+      <p class="auge">Dafür gehen wir hier los</p>
+      <h2 id="t-schluss">… für ein Leben, in dem du tun kannst, whatever the f*** YOU WANT!</h2>
       <p>Hier gibt’s kein Entweder-oder. Wir entscheiden uns für das UND. Okay, girl?</p>
     </div>
   </section>
