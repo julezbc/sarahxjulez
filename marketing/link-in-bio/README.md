@@ -10,13 +10,13 @@ _Stand: 2026-11-28 · Wunsch von Sarah: Link-in-Bio-Seite für Instagram mit Kac
 ## Struktur (Stand 2026-11-28, nach Sarahs Rückmeldung)
 
 1. **Startbild:** Schwarz-Weiß-Porträt, darauf „Hi, I'm Sarah.“ und „Unternehmerin · Mentorin · Speakerin“
-2. **Links:** Website, LinkedIn
+2. **Links:** Website, LinkedIn („Lass uns connecten“)
 3. **Podcast:** neueste Folge mit Abspielknopf, dazu „Alle Folgen“, Spotify, Apple Podcasts
 4. **Kacheln zum Wischen** (ohne Überschrift), alle mit abgedunkeltem Foto:
    1. 0-€-Copywriting-Masterclass (Foto am Laptop)
    2. Erfolgsgeschichten (Gruppenfoto, von Sarah so gewünscht)
    3. Newsletter „Prosecco-Date“ (Foto im schwarzen Outfit)
-5. **Leitsatz:** „Am Anfang steht das Wort…“ mit dem Text von der Website
+5. **Leitsatz auf dem Dünenfoto** (Versuch, Sarah wollte es ausprobieren): oben „Am Anfang steht das Wort…“ in normaler Schreibweise, unten „Denn die richtigen Worte sind der stärkste Hebel…“; der zweite Absatz steht unter dem Bild
 6. **Fuß:** Impressum, Datenschutz
 
 Weggefallen gegenüber dem ersten Entwurf: Bogen-Foto, Überschrift „Wisch dich durch“, Symbolleiste, Kacheln Clear Words und brandyourAI.
